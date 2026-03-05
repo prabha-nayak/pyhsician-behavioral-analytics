@@ -1,0 +1,26 @@
+hcpcs_code,hcpcs_desc,is_drug,total_services,total_beneficiaries,avg_medicare_payment,avg_submitted_charge,unique_providers,payment_ratio
+Q9967,"Low osmolar contrast material, 300-399 mg/ml iodine concentration, per ml",Y,37765371.7,422348,0.09118424260686053,3.5845034202592463,4400,2.5
+99214,"Established patient office or other outpatient visit, 30-39 minutes",N,34723837.1,19130357,86.60154852323441,279.78943857182884,150754,31.0
+K1034,"Provision of covid-19 test, nonprescription self-administered and self-collected use, fda approved, authorized or cleared, one test count",N,32847044.0,3157678,10.72923911403604,12.665741956943283,12058,84.7
+A0425,"Ground mileage, per statute mile",N,27617216.5,1933437,6.9759529169201935,22.144068915290003,2040,31.5
+99213,"Established patient office or other outpatient visit, 20-29 minutes",N,26184843.0,15812232,61.039029274144994,193.7805868400385,147034,31.5
+Q0138,"Injection, ferumoxytol, for treatment of iron deficiency anemia, 1 mg (non-esrd use)",Y,25413511.0,26278,0.6443179084220116,4.24127999274898,686,15.2
+J0717,"Injection, certolizumab pegol, 1 mg (code may be used for medicare when drug administered under the direct supervision of a physician, not for use when drug is self administered)",Y,22615795.0,9178,4.482200255720345,14.566322373536103,349,30.8
+97110,"Therapy procedure using exercise to develop strength, endurance, range of motion, and flexibility, each 15 minutes",N,21790630.3,1539288,19.345154398909568,69.58683193693308,22762,27.8
+J0897,"Injection, denosumab, 1 mg",Y,18552659.0,172926,16.611641028145293,44.32306104808105,3745,37.5
+A9575,"Injection, gadoterate meglumine, 0.1 ml",Y,18208493.0,117351,0.11237495942231543,3.9284254895807904,1192,2.9
+J0878,"Injection, daptomycin, 1 mg",Y,17627498.0,2235,0.03983280988769231,1.1368667393430771,65,3.5
+J1439,"Injection, ferric carboxymaltose, 1 mg",Y,17492336.0,13526,0.8847355121826973,4.167799782572773,393,21.2
+J0585,"Injection, onabotulinumtoxina, 1 unit",Y,16355506.0,38424,4.778149211743077,14.62650017020061,1307,32.7
+P9603,Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled,N,15133931.5,199337,1.0200264884924528,2.6025718149962263,93,39.2
+36415,Insertion of needle into vein for collection of blood sample,N,14495126.0,7008174,2.954081985239204,14.652504875666336,26971,20.2
+99232,"Follow-up hospital inpatient care per day, typically 25 minutes",N,13631657.0,4452657,56.785713812953134,210.4011515626647,57108,27.0
+J1071,"Injection, testosterone cypionate, 1 mg",Y,13301140.0,7521,0.01997642784931973,2.4179216242765302,294,0.8
+J7192,"Factor viii (antihemophilic factor, recombinant) per i.u., not otherwise specified",Y,10918785.0,93,1.1353649680666666,2.3017152274666666,3,49.3
+99233,"Follow-up hospital inpatient care per day, typically 35 minutes",N,10279992.0,3853185,82.33130016901927,310.74762386725297,48438,26.5
+80053,"Blood test, comprehensive group of blood chemicals",N,10111319.0,5681563,10.390863469603083,45.342665238485644,7357,22.9
+85025,"Complete blood cell count (red cells, white blood cell, platelets), automated test and automated differential white blood cell count",N,9939958.0,5293570,7.645332223626921,31.23643391615904,8576,24.5
+97140,"Therapy procedure using manual technique, each 15 minutes",N,9843392.4,1052239,17.23557570783968,66.95048368600276,18378,25.7
+A9585,"Injection, gadobutrol, 0.1 ml",Y,9351276.9,112735,0.2572288523491779,3.2432477404506748,1338,7.9
+97530,Therapy procedure using functional activities,N,9321363.0,800018,27.887694697507964,74.3317629596091,15322,37.5
+J9271,"Injection, pembrolizumab, 1 mg",Y,9267156.0,12802,41.46498829222603,127.42090580803011,630,32.5

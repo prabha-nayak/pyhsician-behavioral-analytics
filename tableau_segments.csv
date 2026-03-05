@@ -1,0 +1,1635 @@
+segment,specialty,state,provider_count,avg_services,avg_payment
+Low Volume High Value,Gynecological Oncology,TX,21,332.0,159.61776745788134
+High Volume Low Value,Allergy/ Immunology,NY,158,5261.951898734176,52.14035683342144
+Low Volume High Value,Gynecological Oncology,PA,33,280.6969696969697,172.39509126426321
+Low Volume High Value,Medical Genetics and Genomics,CA,5,64.6,131.82576568035
+High Volume Low Value,Hematopoietic Cell Transplantation and Cellular Therapy,FL,1,101129.0,33.309547074841795
+High Volume Low Value,Neurosurgery,NY,5,1869.6,76.48875626436678
+Low Volume Low Value,Pediatric Medicine,CA,105,253.96190476190475,59.522210906346835
+Low Volume Low Value,Maxillofacial Surgery,CA,19,140.89473684210526,71.4704219649617
+Low Volume High Value,Optometry,FL,71,90.50704225352112,109.91547208893248
+High Volume Low Value,Pharmacy,FL,46,182133.19565217392,32.68807215874552
+High Volume High Value,Vascular Surgery,TX,61,4049.098360655738,395.46434763305365
+High Volume High Value,Cardiology,FL,399,6059.912781954888,184.37008400164186
+High Volume Low Value,Audiologist,CA,35,2518.285714285714,36.62006093534418
+Low Volume High Value,Cardiac Surgery,NY,66,192.24242424242425,531.4494857485345
+High Volume High Value,Physician Assistant,CA,45,5392.8,132.65841456205038
+Low Volume High Value,Interventional Radiology,PA,17,480.94117647058823,118.0880479034811
+High Volume Low Value,Hospice and Palliative Care,CA,7,8369.0,86.18010194961968
+High Volume Low Value,Plastic and Reconstructive Surgery,TX,5,2462.8,64.57725442127497
+High Volume High Value,Peripheral Vascular Disease,FL,6,2464.6666666666665,571.836628685158
+High Volume Low Value,Ambulance Service Provider,FL,4,17496.399999999998,84.81765006879999
+Low Volume Low Value,Medicare Diabetes Preventive Program,FL,1,15.0,34.486666667
+Low Volume Low Value,Neurology,PA,436,343.1834862385321,80.15608409797942
+High Volume Low Value,Pulmonary Disease,TX,300,2872.6,70.75883426019284
+High Volume Low Value,Hospitalist,NY,131,2605.412213740458,86.59694507217162
+Low Volume High Value,Thoracic Surgery,PA,118,204.8728813559322,347.53821107783085
+High Volume High Value,Physical Medicine and Rehabilitation,NY,111,4183.954954954955,120.27960788846198
+Low Volume High Value,Infectious Disease,FL,55,490.5090909090909,109.98659216401164
+Low Volume High Value,Diagnostic Radiology,PA,18,414.72222222222223,200.95228213226721
+High Volume Low Value,Physical Therapist in Private Practice,CA,4238,3412.4797074091553,34.7798745309208
+Low Volume Low Value,Mass Immunizer Roster Biller,TX,1285,507.4941634241245,49.89502511027485
+High Volume Low Value,Interventional Cardiology,TX,203,3184.0694581280786,77.60655589408249
+Low Volume Low Value,Centralized Flu,TX,203,667.384236453202,45.809632032058325
+Low Volume Low Value,Nephrology,NY,151,394.3907284768212,79.12851264540242
+Low Volume Low Value,Gastroenterology,NY,298,325.9731543624161,82.87943240057861
+Low Volume Low Value,Speech Language Pathologist,CA,75,232.82666666666665,67.26539512852547
+High Volume Low Value,Medical Oncology,NY,57,49575.52631578947,55.08506333105411
+High Volume High Value,Optometry,TX,23,2915.521739130435,134.63745676862555
+Low Volume High Value,Physical Therapist in Private Practice,FL,1,66.0,106.556444446
+Low Volume High Value,Mass Immunizer Roster Biller,PA,1,62.0,266.64645161
+Low Volume Low Value,Chiropractic,TX,1316,367.2674772036474,26.63687095567644
+High Volume Low Value,Physical Therapist in Private Practice,PA,2042,3015.586141038198,31.119453214553275
+Low Volume Low Value,General Surgery,TX,594,157.34848484848484,77.63359388880579
+High Volume Low Value,Centralized Flu,CA,523,2942.772466539197,50.73191309110174
+Low Volume Low Value,Interventional Radiology,TX,68,424.8235294117647,56.718350879403154
+Low Volume Low Value,Otolaryngology,NY,246,400.7113821138211,75.0850714442608
+Low Volume Low Value,Otolaryngology,PA,159,430.9937106918239,72.06346156466185
+Low Volume High Value,Plastic and Reconstructive Surgery,NY,133,248.26315789473685,253.5792313990784
+High Volume High Value,Medical Oncology,FL,3,1322.3333333333333,104.94050155942062
+High Volume Low Value,Colorectal Surgery (Proctology),CA,1,1007.0,57.446070928607696
+Low Volume Low Value,Physical Therapist in Private Practice,FL,771,547.3757457846953,27.845189600994946
+Low Volume Low Value,Physical Therapist in Private Practice,NY,1720,526.1424418604652,29.927176016859367
+Low Volume Low Value,"Psychologist, Clinical",NY,521,353.10364683301344,79.45756730487462
+Low Volume High Value,Thoracic Surgery,NY,134,261.17910447761193,348.7775283412662
+Low Volume Low Value,Dermatology,TX,172,519.7151162790698,58.62657679577967
+Low Volume High Value,Medical Oncology,NY,229,429.6157205240175,117.87098494218955
+Low Volume Low Value,Infectious Disease,NY,240,282.2875,81.97056239648097
+Low Volume Low Value,Endocrinology,FL,177,421.1525423728813,74.39860090067798
+High Volume Low Value,"Psychologist, Clinical",FL,111,1910.099099099099,76.94455579587738
+Low Volume High Value,Rheumatology,CA,76,269.9736842105263,115.91215645957566
+Low Volume Low Value,Gynecological Oncology,CA,23,172.3913043478261,76.7113794897386
+Low Volume High Value,Geriatric Psychiatry,FL,1,42.0,114.33
+High Volume High Value,Hematology,NY,8,1632.125,108.3733543607236
+High Volume Low Value,General Practice,TX,55,3450.8545454545456,58.034190766635184
+Low Volume High Value,Internal Medicine,NY,1155,359.02597402597405,123.96873197397638
+Low Volume High Value,"Psychologist, Clinical",FL,371,320.6657681940701,114.72450361369252
+High Volume Low Value,Clinical Laboratory,CA,273,150925.51978021977,35.39342338936945
+High Volume High Value,Nephrology,NY,194,3296.860824742268,145.7741249301289
+Low Volume High Value,Interventional Radiology,FL,28,416.92857142857144,327.42782807539504
+Low Volume Low Value,Speech Language Pathologist,NY,126,368.9761904761905,68.09584869983003
+High Volume Low Value,Infectious Disease,NY,53,13856.509433962265,82.01773216124553
+High Volume High Value,Geriatric Psychiatry,CA,2,2144.5,111.03432414213333
+Low Volume Low Value,Clinical Laboratory,TX,90,333.24666666666667,40.66233462024994
+Low Volume Low Value,Emergency Medicine,PA,998,361.6482965931864,82.32272787018584
+High Volume High Value,Dermatology,PA,87,5704.149425287356,166.1838807835774
+Low Volume High Value,Ambulance Service Provider,PA,116,594.5465517241379,188.98585600781678
+Low Volume Low Value,Anesthesiology Assistant,TX,140,69.46428571428571,62.36756665595837
+Low Volume High Value,General Surgery,PA,448,265.7388392857143,193.04071392920306
+Low Volume Low Value,Rheumatology,FL,83,441.8433734939759,73.8203632828533
+High Volume High Value,Otolaryngology,PA,34,2259.8823529411766,176.142920005334
+High Volume Low Value,Home Infusion Therapy Services,NY,3,1969.6666666666667,41.295000904999995
+Low Volume Low Value,Hematopoietic Cell Transplantation and Cellular Therapy,FL,8,169.75,87.87290552391666
+Low Volume High Value,Certified Registered Nurse Anesthetist (CRNA),PA,691,110.7684515195369,137.27342728474602
+Low Volume High Value,Ambulance Service Provider,CA,19,646.5842105263157,228.82560731914648
+Low Volume Low Value,General Surgery,NY,501,196.12375249500997,75.89207165599989
+High Volume Low Value,Hospitalist,FL,220,1524.9863636363636,85.34764582778946
+Low Volume Low Value,Emergency Medicine,TX,2049,380.4192288921425,83.03593688528241
+Low Volume Low Value,Psychiatry,FL,694,316.4351585014409,71.57551475954932
+Low Volume Low Value,General Practice,PA,68,381.8529411764706,66.34152270526442
+High Volume High Value,Micrographic Dermatologic Surgery,TX,15,3686.5333333333333,218.3884987993104
+High Volume Low Value,Neurosurgery,CA,4,7439.5,87.54103159356401
+High Volume High Value,Gastroenterology,PA,61,1973.4426229508197,120.9964444064025
+Low Volume Low Value,Dentist,FL,3,145.0,45.658495745833335
+High Volume Low Value,"Psychologist, Clinical",PA,35,1760.1142857142856,80.29428868717567
+Low Volume Low Value,Osteopathic Manipulative Medicine,TX,19,355.89473684210526,62.994324907794045
+High Volume High Value,Neurosurgery,NY,9,3602.4444444444443,230.07902797856
+Low Volume Low Value,Plastic and Reconstructive Surgery,PA,105,151.32380952380953,66.36016048020932
+Low Volume Low Value,Pain Management,TX,64,440.9953125,70.43572414335995
+High Volume High Value,Physician Assistant,TX,22,2558.590909090909,116.12997375941458
+High Volume Low Value,Anesthesiology,TX,98,3506.4591836734694,77.26822559194686
+High Volume Low Value,Psychiatry,PA,104,1760.4807692307693,76.51526342725838
+Low Volume High Value,Cardiology,PA,47,558.2127659574468,137.581603326596
+High Volume Low Value,Sports Medicine,FL,37,7020.972972972973,59.18140087066702
+High Volume High Value,Physician Assistant,FL,33,4305.848484848485,129.8595281827409
+High Volume Low Value,Physical Therapist in Private Practice,TX,1929,3094.2363919129084,31.630056569873535
+High Volume Low Value,Pharmacy,PA,35,372327.92,41.54581158198988
+Low Volume Low Value,Urology,CA,189,381.3915343915344,74.11851202338899
+Low Volume High Value,Ambulatory Surgical Center,TX,193,436.0362694300518,1669.6461858758867
+Low Volume High Value,General Practice,CA,63,237.0793650793651,145.058510327105
+High Volume Low Value,Vascular Surgery,FL,17,2199.6470588235293,79.00056589637677
+Low Volume Low Value,Clinical Cardiac Electrophysiology,TX,12,385.6666666666667,65.8533406871733
+High Volume High Value,Nuclear Medicine,NY,21,3607.3809523809523,366.8638435967046
+High Volume Low Value,Maxillofacial Surgery,NY,1,1448.0,77.9573764201
+Low Volume High Value,Pharmacy,PA,2,403.5,143.87091659325895
+High Volume Low Value,Physical Therapist in Private Practice,NY,3815,3348.911323722149,35.73403238798217
+Low Volume Low Value,Emergency Medicine,FL,842,383.24821852731594,83.15058998654952
+High Volume Low Value,Endocrinology,CA,237,7376.704641350211,67.43118030972573
+Low Volume Low Value,Pediatric Medicine,NY,79,194.64556962025316,62.272028733976946
+Low Volume High Value,Colorectal Surgery (Proctology),CA,69,426.92753623188406,141.84606799345846
+High Volume Low Value,Pain Management,NY,43,4347.011627906977,79.59389638476347
+Low Volume High Value,Anesthesiology,NY,1834,171.8854961832061,153.46657685307687
+Low Volume High Value,Endocrinology,NY,92,270.9891304347826,124.65460832465041
+High Volume High Value,Infectious Disease,TX,42,2166.690476190476,107.54031708653413
+High Volume Low Value,Geriatric Medicine,FL,25,2736.02,65.00849219519085
+High Volume High Value,Anesthesiology,FL,71,4782.084507042254,134.81302439964668
+High Volume High Value,Diagnostic Radiology,TX,106,21435.66037735849,210.93443052654717
+Low Volume High Value,Geriatric Medicine,NY,41,410.4878048780488,120.43577823884311
+High Volume High Value,Clinical Laboratory,TX,24,45786.125,246.70225856474096
+High Volume Low Value,Endocrinology,PA,82,3929.1585365853657,72.02195550197128
+Low Volume High Value,Sports Medicine,TX,3,62.666666666666664,133.67049422916668
+Low Volume High Value,Certified Nurse Midwife,FL,1,64.0,101.18449169299998
+High Volume Low Value,Ambulance Service Provider,TX,40,9913.602499999999,78.329776184875
+High Volume Low Value,Hematology-Oncology,PA,126,58755.00793650794,54.4304214015332
+High Volume Low Value,Ophthalmology,TX,250,2347.028,80.82402900227514
+Low Volume Low Value,Centralized Flu,PA,66,604.0757575757576,40.91909073663272
+High Volume High Value,Urology,NY,175,11980.905714285715,151.75074529961117
+Low Volume High Value,Hematology,TX,10,371.6,112.63974939172763
+High Volume High Value,Nuclear Medicine,FL,15,54553.53333333333,279.64494002644034
+Low Volume High Value,Opioid Treatment Program,FL,15,557.0,176.94936204195557
+High Volume High Value,Gynecological Oncology,CA,4,12130.25,190.30202701660264
+Low Volume Low Value,Micrographic Dermatologic Surgery,NY,1,820.0,66.14963872631819
+High Volume Low Value,Orthopedic Surgery,NY,191,4941.775392670157,67.85941888667313
+High Volume High Value,Ambulance Service Provider,TX,489,18465.898773006127,413.7970790937732
+Low Volume Low Value,Medical Oncology,CA,67,404.2985074626866,81.1432390117532
+High Volume High Value,Interventional Pain Management,PA,4,8060.75,156.75642758112735
+Low Volume Low Value,Hand Surgery,PA,13,607.3076923076923,62.50213240594379
+Low Volume Low Value,Obstetrics & Gynecology,CA,1187,156.195450716091,65.49398565238062
+Low Volume High Value,Anesthesiology,TX,979,147.47906026557712,150.83861688641855
+High Volume Low Value,Obstetrics & Gynecology,TX,32,5174.21875,52.06185808535424
+Low Volume Low Value,Hospice and Palliative Care,NY,71,287.23943661971833,85.44487039176494
+Low Volume Low Value,Hematology,CA,42,367.5952380952381,79.86434499482552
+Low Volume Low Value,Advanced Heart Failure and Transplant Cardiology,TX,18,508.27777777777777,80.6966517260137
+Low Volume Low Value,Undefined Physician type,CA,17,340.5882352941176,71.11965779828981
+High Volume High Value,Diagnostic Radiology,PA,35,22909.257142857143,139.6015909888933
+Low Volume High Value,Podiatry,PA,5,557.2,110.78140779325334
+Low Volume Low Value,Unknown Supplier/Provider Specialty,PA,1,125.0,17.9130404715
+High Volume Low Value,Geriatric Medicine,NY,34,2609.323529411765,73.32324423113037
+High Volume High Value,Hand Surgery,FL,46,4540.978260869565,148.34272204685905
+Low Volume Low Value,Geriatric Psychiatry,PA,8,373.875,77.19807294202103
+Low Volume High Value,Dermatology,PA,28,581.9642857142857,170.97458387355573
+High Volume Low Value,Diagnostic Radiology,NY,1527,6915.375965946299,48.867744216497194
+Low Volume High Value,Independent Diagnostic Testing Facility (IDTF),TX,88,243.5568181818182,278.1947241100263
+Low Volume High Value,Optometry,CA,127,97.30708661417323,116.78653523784682
+High Volume Low Value,Plastic and Reconstructive Surgery,NY,8,2101.0,78.3238898455842
+High Volume Low Value,Certified Clinical Nurse Specialist,TX,29,2216.689655172414,58.034413821800264
+High Volume High Value,Pain Management,TX,70,5458.257142857143,138.68104369595642
+High Volume High Value,Cardiac Surgery,FL,5,4071.62,383.2403400508514
+Low Volume Low Value,Independent Diagnostic Testing Facility (IDTF),NY,9,319.22222222222223,53.87465157489063
+High Volume Low Value,Geriatric Medicine,PA,18,2379.6666666666665,73.82504728273301
+Low Volume High Value,Micrographic Dermatologic Surgery,FL,5,614.0,239.29183233849872
+High Volume High Value,Obstetrics & Gynecology,NY,30,2329.0333333333333,159.65027474050157
+High Volume Low Value,Rheumatology,PA,147,57958.91360544218,51.62959707421659
+High Volume Low Value,Occupational Therapist in Private Practice,PA,236,2782.9406779661017,33.595272421651615
+Low Volume High Value,Nephrology,CA,203,578.3694581280788,141.64962085512295
+High Volume Low Value,General Surgery,TX,39,3081.102564102564,70.17486856362888
+High Volume High Value,Physical Medicine and Rehabilitation,CA,75,6430.52,119.3045218231809
+High Volume Low Value,Osteopathic Manipulative Medicine,FL,18,4304.388888888889,59.81757221777184
+High Volume High Value,Colorectal Surgery (Proctology),NY,8,1422.375,233.7103731759276
+High Volume High Value,Medical Oncology,PA,3,1225.3333333333333,105.85594636924598
+Low Volume High Value,Orthopedic Surgery,NY,320,454.89375,223.77246121195986
+High Volume Low Value,Emergency Medicine,NY,151,2904.264900662252,63.851836748047695
+High Volume Low Value,Pulmonary Disease,FL,367,3061.5940054495914,72.05794780972688
+Low Volume Low Value,Maxillofacial Surgery,TX,27,60.888888888888886,46.907953073660124
+Low Volume High Value,Physical Medicine and Rehabilitation,PA,44,470.5681818181818,115.82719919598622
+Low Volume Low Value,Dentist,PA,3,320.0,45.92105576236296
+Low Volume Low Value,Hematology-Oncology,CA,240,401.59166666666664,78.20656084052635
+Low Volume Low Value,Radiation Oncology,FL,40,404.35,79.01411530846684
+Low Volume High Value,Vascular Surgery,TX,94,538.7553191489362,315.6497592416453
+High Volume Low Value,Independent Diagnostic Testing Facility (IDTF),PA,11,10576.227272727272,66.56775090596952
+Low Volume High Value,Certified Nurse Midwife,PA,1,13.0,120.17076923
+Low Volume High Value,Physical Therapist in Private Practice,TX,3,197.66666666666666,119.87889231002778
+High Volume Low Value,Dermatology,NY,393,3543.033078880407,77.04736291486122
+High Volume Low Value,Nephrology,TX,118,3581.4830508474574,82.74203717806344
+High Volume High Value,Ambulatory Surgical Center,PA,112,3112.223214285714,750.164771277695
+Low Volume Low Value,Oral Surgery (Dentist only),PA,82,79.65853658536585,55.602200581582935
+High Volume Low Value,Opioid Treatment Program,NY,1,1382.0,90.971963906
+High Volume Low Value,Critical Care (Intensivists),NY,22,3495.1363636363635,81.11621487397775
+Low Volume High Value,Pain Management,PA,12,395.3333333333333,130.00728807427438
+Low Volume High Value,Pathology,TX,3,185.66666666666666,115.9453204292639
+Low Volume High Value,Hematology,FL,6,178.16666666666666,109.00202837230556
+Low Volume High Value,Addiction Medicine,TX,1,108.0,202.08865166500001
+High Volume Low Value,Nurse Practitioner,FL,1732,3239.4765011547347,56.693179495738256
+Low Volume Low Value,Optometry,TX,1861,232.63406770553465,60.63698112482068
+High Volume High Value,"Psychologist, Clinical",CA,48,1709.3333333333333,115.01989750071102
+High Volume High Value,Gastroenterology,CA,353,1996.9461756373937,120.09344487404933
+Low Volume High Value,Hematology-Oncology,FL,93,408.3763440860215,113.28950263799526
+High Volume Low Value,Optometry,FL,280,2083.832142857143,54.00796260645738
+Low Volume Low Value,Orthopedic Surgery,NY,431,313.4756380510441,67.15155249086233
+High Volume Low Value,Orthopedic Surgery,FL,213,4537.025821596244,62.81273496405943
+Low Volume Low Value,Geriatric Medicine,TX,69,419.0,78.01747237891162
+High Volume High Value,Neuropsychiatry,FL,2,6919.5,104.29087365465739
+High Volume High Value,Rheumatology,FL,3,30561.333333333332,120.40806941126154
+Low Volume High Value,Nurse Practitioner,CA,538,144.2546468401487,124.87901173063788
+Low Volume Low Value,Chiropractic,NY,1231,391.71892770105603,23.270470359368367
+Low Volume Low Value,Audiologist,PA,335,238.77910447761195,22.45246244734782
+High Volume High Value,Psychiatry,FL,32,2394.40625,114.47230417867863
+High Volume High Value,Opioid Treatment Program,PA,19,1604.3684210526317,134.23610750745175
+Low Volume High Value,Clinical Cardiac Electrophysiology,TX,12,586.5833333333334,163.67350626932924
+Low Volume Low Value,Ambulance Service Provider,NY,6,144.5,7.400174326183333
+Low Volume Low Value,Ambulance Service Provider,TX,12,623.8166666666667,47.537338105391676
+Low Volume High Value,Hematopoietic Cell Transplantation and Cellular Therapy,CA,5,265.2,117.45712163518333
+High Volume High Value,Hospice and Palliative Care,CA,5,2410.4,111.79984064167084
+Low Volume Low Value,Diagnostic Radiology,TX,535,465.21682242990653,38.14822227769492
+Low Volume Low Value,Internal Medicine,NY,4028,384.5825719960278,69.27977111465812
+High Volume Low Value,Hospitalist,CA,181,2821.5414364640883,87.53338757404421
+High Volume High Value,Neurology,PA,31,7007.387096774193,114.90350229152227
+Low Volume High Value,Nephrology,NY,252,556.0119047619048,149.14088826189518
+High Volume Low Value,Anesthesiology,CA,71,4770.471830985915,81.66620175400938
+High Volume Low Value,Dermatology,CA,521,3854.3109404990405,76.40943624195872
+Low Volume Low Value,Clinical Cardiac Electrophysiology,CA,21,365.95238095238096,49.69372122262697
+High Volume Low Value,Osteopathic Manipulative Medicine,TX,9,1965.888888888889,63.46446105485792
+High Volume Low Value,Thoracic Surgery,FL,4,2282.75,70.71591336275235
+High Volume Low Value,Licensed Clinical Social Worker,PA,18,1768.4444444444443,62.95348281455668
+High Volume High Value,Diagnostic Radiology,FL,229,32737.781659388645,162.8767607152705
+High Volume Low Value,Sports Medicine,PA,50,5382.272,63.35749297338465
+High Volume Low Value,Physical Medicine and Rehabilitation,NY,258,4908.4631782945735,75.6979751581729
+Low Volume Low Value,Diagnostic Radiology,CA,871,283.1446613088404,35.303276238937876
+High Volume High Value,Hematology-Oncology,NY,47,1924.2340425531916,113.45418680269199
+Low Volume Low Value,Physical Medicine and Rehabilitation,NY,285,377.94736842105266,74.73816143777928
+High Volume Low Value,Independent Diagnostic Testing Facility (IDTF),CA,19,44558.84210526316,64.84492180686713
+High Volume High Value,Certified Registered Nurse Anesthetist (CRNA),TX,4,2453.25,133.39083772209284
+High Volume High Value,Cardiac Surgery,NY,2,1273.0,296.7718941414649
+High Volume Low Value,Nurse Practitioner,NY,758,3148.664907651715,55.3055262677188
+High Volume Low Value,Optometry,TX,175,1761.1942857142858,51.82250544733331
+Low Volume High Value,Pathology,NY,2,146.0,556.5106612374999
+Low Volume High Value,Geriatric Psychiatry,CA,4,367.75,115.46079485009167
+Low Volume Low Value,Medical Oncology,NY,151,347.6026490066225,83.1931745879658
+Low Volume Low Value,Undersea and Hyperbaric Medicine,TX,7,341.14285714285717,72.6940718556352
+High Volume Low Value,Licensed Clinical Social Worker,NY,73,1831.945205479452,69.45344077793379
+Low Volume Low Value,Ambulance Service Provider,PA,15,379.1933333333333,20.153501551843338
+Low Volume High Value,Advanced Heart Failure and Transplant Cardiology,PA,6,539.5,112.10410228286923
+High Volume High Value,Advanced Heart Failure and Transplant Cardiology,FL,3,1751.0,107.23422852541667
+Low Volume Low Value,Physician Assistant,FL,3804,269.3205047318612,60.455964143552286
+High Volume Low Value,Advanced Heart Failure and Transplant Cardiology,CA,25,2184.48,77.96529783162053
+High Volume Low Value,Chiropractic,TX,176,1525.2443181818182,26.229060447649058
+High Volume Low Value,Pathology,TX,550,4284.508181818182,35.068524278057005
+Low Volume High Value,Anesthesiology,PA,479,165.27766179540708,142.68439723343369
+Low Volume High Value,Vascular Surgery,NY,73,522.4520547945206,268.2629850220592
+High Volume Low Value,Psychiatry,FL,142,2146.330985915493,81.96580032910084
+High Volume Low Value,Critical Care (Intensivists),CA,36,2455.777777777778,82.97290693462627
+High Volume High Value,"Psychologist, Clinical",PA,11,1292.3636363636363,110.59536346890908
+Low Volume Low Value,Endocrinology,CA,239,399.98744769874475,73.46644085042472
+High Volume High Value,Ophthalmology,FL,612,6661.408496732026,153.27157622879133
+High Volume Low Value,Medical Oncology,TX,196,56408.52551020408,55.35211451961802
+High Volume Low Value,General Practice,FL,119,4855.789915966387,64.07728360810168
+Low Volume Low Value,Plastic and Reconstructive Surgery,FL,86,135.24418604651163,73.28754056458502
+Low Volume High Value,Geriatric Medicine,CA,44,377.95454545454544,113.46170559328056
+Low Volume Low Value,Oral Surgery (Dentist only),NY,38,109.5,68.60726695627147
+Low Volume High Value,Physical Medicine and Rehabilitation,FL,35,404.8,116.73590517668454
+High Volume Low Value,Speech Language Pathologist,FL,16,2459.0,77.12027209025818
+High Volume Low Value,Portable X-Ray Supplier,PA,8,19815.125,22.59861319955541
+Low Volume Low Value,Physician Assistant,NY,5492,227.25245812090313,57.57708831146322
+Low Volume High Value,Plastic and Reconstructive Surgery,CA,147,166.8639455782313,185.6322123319864
+Low Volume Low Value,Gastroenterology,TX,377,424.2679045092838,87.41929938523927
+High Volume High Value,Gastroenterology,NY,214,1823.6588785046729,155.0939326535415
+Low Volume Low Value,Clinical Cardiac Electrophysiology,NY,17,490.70588235294116,63.275971890233144
+High Volume High Value,Infectious Disease,NY,65,2897.1692307692306,115.8130551150201
+Low Volume High Value,Pathology,CA,2,385.0,130.86026983641668
+High Volume High Value,Hospitalist,PA,32,1720.6875,110.44622376975462
+Low Volume Low Value,Undersea and Hyperbaric Medicine,PA,2,338.0,53.411804825000004
+High Volume Low Value,Opioid Treatment Program,TX,3,1883.0,69.79421242957778
+High Volume High Value,Clinical Laboratory,NY,8,52532.75,145.4582819495552
+Low Volume High Value,Clinical Laboratory,PA,3,168.0,352.1291716014444
+High Volume Low Value,Hand Surgery,PA,20,2214.35,77.90842512653853
+Low Volume Low Value,Sleep Medicine,PA,24,287.1666666666667,83.79534134996348
+Low Volume High Value,Geriatric Medicine,TX,11,388.27272727272725,113.20636965288763
+Low Volume Low Value,Public Health or Welfare Agency,TX,2,126.5,33.602752066166666
+High Volume Low Value,Hematology-Oncology,TX,291,53045.907216494845,58.857140137586754
+High Volume High Value,Emergency Medicine,PA,29,1589.5172413793102,143.7243522112306
+Low Volume Low Value,Clinical Laboratory,CA,39,384.87179487179486,43.17308757930214
+Low Volume High Value,Pain Management,CA,27,313.85185185185185,133.642091655573
+Low Volume High Value,Interventional Pain Management,NY,7,407.7142857142857,135.8527953342551
+Low Volume Low Value,Family Practice,FL,2690,386.13568773234203,64.39399088489371
+Low Volume Low Value,Anesthesiology,CA,938,143.64392324093816,70.02997037009034
+High Volume Low Value,Occupational Therapist in Private Practice,NY,573,3321.303664921466,36.84557391873178
+Low Volume Low Value,Audiologist,TX,429,242.44289044289044,23.24971714039539
+High Volume High Value,Orthopedic Surgery,TX,550,3792.1865454545455,182.24873528097928
+High Volume Low Value,Podiatry,PA,641,2762.8843993759747,51.50320622224927
+Low Volume High Value,Radiation Oncology,TX,65,598.2,136.40030274679228
+High Volume High Value,Pulmonary Disease,FL,66,3669.3030303030305,119.9278254574216
+High Volume Low Value,Interventional Radiology,PA,30,2995.04,50.73863076814476
+Low Volume Low Value,Cardiac Surgery,CA,7,221.71428571428572,65.4588326034481
+Low Volume Low Value,Advanced Heart Failure and Transplant Cardiology,FL,13,579.3076923076923,81.80510153902756
+Low Volume High Value,Ophthalmology,CA,204,488.8235294117647,158.79533820037787
+Low Volume Low Value,Neurosurgery,FL,106,183.61320754716982,78.68051837943965
+Low Volume High Value,Opioid Treatment Program,PA,29,599.3448275862069,191.09090968778162
+Low Volume High Value,Diagnostic Radiology,FL,51,359.3803921568628,194.62612943698304
+High Volume High Value,Critical Care (Intensivists),PA,2,1313.5,109.08140553836176
+Low Volume Low Value,Portable X-Ray Supplier,NY,2,69.5,70.19413879985
+Low Volume Low Value,Internal Medicine,FL,3084,431.4049935149157,71.8446414617191
+High Volume Low Value,Psychiatry,CA,238,2658.831932773109,80.31787021764714
+High Volume Low Value,Family Practice,NY,925,3317.646702702703,57.190178172431324
+Low Volume Low Value,Hospitalist,NY,651,444.7511520737327,81.53639824198612
+High Volume Low Value,Diagnostic Radiology,PA,1194,4468.218174204355,38.70775479013621
+High Volume Low Value,Obstetrics & Gynecology,CA,69,3992.5652173913045,68.32053987291276
+Low Volume Low Value,Cardiac Surgery,TX,6,462.1666666666667,85.85230091691096
+Low Volume High Value,Opioid Treatment Program,CA,40,576.425,188.8614543966375
+High Volume Low Value,Hand Surgery,TX,25,1944.52,75.29512728745397
+Low Volume High Value,Licensed Clinical Social Worker,CA,33,155.8181818181818,105.77640510540911
+High Volume High Value,Micrographic Dermatologic Surgery,CA,21,3821.0476190476193,219.10787896951456
+High Volume Low Value,Addiction Medicine,CA,1,3668.0,24.78075143402353
+High Volume High Value,Radiation Oncology,TX,188,7938.994680851064,192.94351823544693
+Low Volume High Value,Psychiatry,NY,369,210.4959349593496,124.76045777323476
+High Volume Low Value,Occupational Therapist in Private Practice,FL,301,3375.9966777408636,32.91846533288707
+High Volume High Value,Family Practice,CA,92,2639.728260869565,118.93202756204744
+High Volume High Value,Interventional Pain Management,TX,70,5663.785714285715,130.47091600885827
+Low Volume High Value,Interventional Pain Management,FL,17,515.2352941176471,115.65396349845702
+Low Volume High Value,Pharmacy,FL,3,374.0,392.3191163016666
+High Volume High Value,Geriatric Medicine,CA,7,8913.57142857143,110.88503701642479
+Low Volume Low Value,Clinical Laboratory,PA,15,356.8,35.13292538097083
+Low Volume High Value,Emergency Medicine,NY,2067,319.96129656507014,126.92457066949649
+Low Volume High Value,Cardiology,FL,80,535.7375,157.97654780161207
+Low Volume High Value,Orthopedic Surgery,CA,497,431.0020120724346,232.76072011820867
+High Volume Low Value,Physician Assistant,PA,350,2988.1711428571425,53.7398043658039
+High Volume Low Value,Nephrology,CA,112,7112.258928571428,74.0084653154001
+High Volume High Value,Neurology,TX,155,6253.3967741935485,127.97177890521955
+Low Volume High Value,Gastroenterology,CA,589,529.528013582343,119.72865614789855
+Low Volume High Value,Ambulatory Surgical Center,NY,73,403.06849315068496,773.3931283379484
+Low Volume High Value,Vascular Surgery,FL,80,430.7,175.76760939605802
+Low Volume Low Value,Thoracic Surgery,NY,38,186.6315789473684,75.64737557114873
+High Volume Low Value,Interventional Pain Management,PA,18,4978.777777777777,79.02186194691325
+High Volume Low Value,Registered Dietitian or Nutrition Professional,NY,3,1694.0,31.161758012000004
+Low Volume Low Value,Home Infusion Therapy Services,NY,2,717.5,45.7584608105
+Low Volume Low Value,Psychiatry,TX,770,258.88051948051947,66.97038022128407
+High Volume High Value,General Surgery,FL,67,2024.910447761194,246.66210132165784
+Low Volume Low Value,Hand Surgery,TX,40,360.1,65.77032417420958
+Low Volume Low Value,Allergy/ Immunology,NY,83,372.34939759036143,62.7241419359312
+High Volume Low Value,Portable X-Ray Supplier,FL,14,21166.714285714286,26.802353152834797
+Low Volume High Value,Maxillofacial Surgery,CA,8,214.625,321.57571398176447
+Low Volume High Value,General Surgery,TX,662,230.76586102719034,191.33649704132813
+Low Volume Low Value,Infectious Disease,PA,185,369.8216216216216,82.82516329088075
+Low Volume High Value,Cardiac Surgery,CA,102,250.4607843137255,384.6878125414076
+Low Volume High Value,Pulmonary Disease,PA,89,296.24719101123594,121.95260205370258
+Low Volume High Value,Infectious Disease,NY,160,329.21875,117.98719594385616
+Low Volume High Value,Optometry,PA,31,258.93548387096774,129.70064492196997
+High Volume High Value,Micrographic Dermatologic Surgery,NY,16,3386.25,254.3219613061142
+Low Volume High Value,Speech Language Pathologist,CA,15,267.73333333333335,118.7769149912022
+High Volume Low Value,Colorectal Surgery (Proctology),TX,2,2026.5,88.39879753943612
+High Volume Low Value,Gynecological Oncology,NY,4,6798.25,85.551544116138
+Low Volume Low Value,Pathology,CA,427,383.08196721311475,34.053625566318814
+Low Volume Low Value,Podiatry,PA,338,492.85798816568047,52.93610182252105
+Low Volume Low Value,Hematology-Oncology,NY,209,370.0143540669856,80.29866347582606
+High Volume High Value,Neurology,CA,267,9388.78277153558,132.28287073408748
+High Volume Low Value,Orthopedic Surgery,PA,162,3321.2253086419755,63.85532383725025
+Low Volume High Value,Physical Medicine and Rehabilitation,CA,99,410.62626262626264,121.52496670405952
+Low Volume Low Value,Certified Clinical Nurse Specialist,NY,6,276.8333333333333,63.35959565394444
+Low Volume High Value,Podiatry,FL,13,356.6923076923077,115.0393126115131
+High Volume Low Value,Ambulance Service Provider,CA,2,12517.900000000001,91.953605141575
+Low Volume Low Value,Physical Medicine and Rehabilitation,FL,134,497.0261194029851,79.41597787496984
+High Volume Low Value,Clinical Cardiac Electrophysiology,PA,45,3582.5555555555557,68.35651341373752
+High Volume High Value,Psychiatry,NY,78,2229.5384615384614,117.40534905766874
+Low Volume Low Value,Pharmacy,PA,93,325.6666666666667,36.68469808577543
+Low Volume High Value,Medical Oncology,FL,44,288.97727272727275,112.27936810876055
+Low Volume Low Value,Pathology,PA,228,529.4254385964912,34.92716507117258
+High Volume Low Value,Neurology,PA,72,8447.763888888889,79.6735783627976
+High Volume Low Value,Registered Dietitian or Nutrition Professional,CA,5,2130.8,29.703509347033332
+Low Volume Low Value,Interventional Pain Management,CA,38,480.2894736842105,79.89360871295946
+High Volume High Value,Hematology,CA,6,14615.5,111.0605065224172
+Low Volume Low Value,Nuclear Medicine,NY,26,400.5,55.97878161845999
+High Volume Low Value,Ambulatory Surgical Center,CA,1,3724.0,0.9738426423
+High Volume High Value,Physical Medicine and Rehabilitation,FL,69,3913.1159420289855,122.24953774200885
+High Volume Low Value,Interventional Pain Management,FL,63,4055.3174603174602,81.22532412967183
+High Volume Low Value,Hospitalist,PA,141,3036.0567375886526,83.32018593180129
+Low Volume Low Value,Pediatric Medicine,FL,51,229.3921568627451,56.47709870389523
+Low Volume High Value,Geriatric Medicine,PA,13,381.0,109.80940626287442
+Low Volume Low Value,Radiation Oncology,PA,54,434.25925925925924,74.36560948089671
+High Volume Low Value,Nuclear Medicine,FL,5,5029.6,41.921635251306455
+High Volume High Value,Gynecological Oncology,TX,13,7166.461538461538,131.64929800528986
+Low Volume Low Value,Ambulatory Surgical Center,CA,1,28.0,91.7925
+Low Volume High Value,Psychiatry,CA,391,229.55626598465474,122.59997805478145
+Low Volume Low Value,Rheumatology,PA,79,327.11392405063293,75.02344620296941
+High Volume High Value,Family Practice,TX,28,2523.0,120.86423172071174
+High Volume Low Value,Nephrology,PA,50,2208.46,88.9047721024366
+Low Volume High Value,Endocrinology,TX,28,249.32142857142858,110.45995217538255
+High Volume High Value,Sports Medicine,NY,17,2632.0588235294117,152.19421195321237
+Low Volume High Value,Micrographic Dermatologic Surgery,CA,6,279.1666666666667,258.10240103520186
+Low Volume High Value,Undersea and Hyperbaric Medicine,NY,2,179.0,123.15157645500832
+High Volume Low Value,Internal Medicine,CA,2304,4577.158029513888,70.03709979121143
+Low Volume High Value,Plastic and Reconstructive Surgery,TX,85,167.91764705882352,222.59497960577454
+Low Volume High Value,Oral Surgery (Dentist only),NY,27,101.14814814814815,240.4141236593472
+High Volume High Value,General Surgery,PA,14,2529.3571428571427,154.0255045527165
+High Volume Low Value,Clinic or Group Practice,TX,1,1296.0,79.864328054
+Low Volume High Value,Anesthesiology,FL,599,174.02337228714524,137.41231807686154
+High Volume High Value,Neurology,NY,221,8197.56334841629,132.24287919308543
+Low Volume Low Value,Sports Medicine,FL,39,417.87179487179486,63.234609051769624
+Low Volume Low Value,Nephrology,CA,157,282.11464968152865,75.74995002077121
+Low Volume High Value,Licensed Clinical Social Worker,TX,5,38.0,103.301991068
+High Volume High Value,Endocrinology,NY,11,2292.6363636363635,113.80978400404796
+Low Volume Low Value,Nurse Practitioner,FL,8359,261.07394425170475,59.37585561267543
+Low Volume High Value,Emergency Medicine,FL,1555,388.92154340836015,117.78829952125693
+Low Volume Low Value,Family Practice,NY,2363,343.0369445619975,61.5901640873941
+Low Volume High Value,Ophthalmology,TX,115,546.5130434782609,154.59232684659705
+High Volume Low Value,Pulmonary Disease,NY,261,3114.3141762452105,74.2707262254711
+Low Volume Low Value,Osteopathic Manipulative Medicine,CA,32,358.4375,69.15603063508996
+High Volume High Value,Podiatry,PA,4,1456.0,106.73397363901057
+Low Volume High Value,Undefined Physician type,FL,1,269.0,122.02845133575
+Low Volume Low Value,Licensed Clinical Social Worker,FL,795,277.0679245283019,78.17552805701516
+Low Volume Low Value,All Other Suppliers,FL,2,405.0,46.08463285485714
+Low Volume High Value,Hematopoietic Cell Transplantation and Cellular Therapy,NY,5,382.0,106.28189749778335
+Low Volume Low Value,Internal Medicine,CA,4549,370.10947460980435,69.78318971360952
+Low Volume Low Value,Endocrinology,PA,172,429.52906976744185,76.61084499895077
+High Volume High Value,Urology,CA,282,13229.035460992907,149.1848296815256
+High Volume High Value,Medical Oncology,CA,19,12676.0,112.0182092913933
+High Volume Low Value,Independent Diagnostic Testing Facility (IDTF),TX,65,27836.26923076923,77.64089954132939
+High Volume High Value,Interventional Radiology,FL,30,13307.933333333332,327.92643708586513
+Low Volume High Value,Independent Diagnostic Testing Facility (IDTF),NY,22,364.1181818181818,283.19416399874723
+High Volume Low Value,Vascular Surgery,CA,17,1516.1764705882354,74.64078594504262
+Low Volume High Value,Independent Diagnostic Testing Facility (IDTF),PA,22,273.3636363636364,371.86179389686055
+High Volume High Value,Optometry,NY,6,2308.6666666666665,136.29596380868838
+High Volume Low Value,"Psychologist, Clinical",CA,164,2258.4634146341464,76.24181753813706
+High Volume High Value,Diagnostic Radiology,NY,392,19106.19617346939,160.91794043552682
+Low Volume Low Value,Physical Therapist in Private Practice,CA,2069,508.30352827452873,30.26688250065566
+Low Volume High Value,Family Practice,TX,215,278.92093023255813,116.9751567834467
+Low Volume Low Value,Pharmacy,FL,133,266.43609022556393,37.25214671800064
+High Volume High Value,Thoracic Surgery,TX,3,1224.0,626.0599328626623
+High Volume Low Value,Plastic and Reconstructive Surgery,FL,6,3239.8333333333335,76.9039190104091
+Low Volume Low Value,Surgical Oncology,TX,29,189.79310344827587,77.52880596321724
+Low Volume Low Value,Interventional Pain Management,TX,31,520.0322580645161,67.97101084301693
+Low Volume High Value,Speech Language Pathologist,FL,16,447.4375,116.82358711367709
+High Volume Low Value,Advanced Heart Failure and Transplant Cardiology,TX,13,2231.230769230769,72.86537359893573
+Low Volume Low Value,Interventional Cardiology,PA,22,523.3636363636364,73.14765885119176
+Low Volume Low Value,Hospitalist,TX,609,466.67159277504106,83.61076598489417
+Low Volume High Value,Urology,NY,102,552.156862745098,148.35629123531123
+Low Volume High Value,Thoracic Surgery,FL,147,246.3877551020408,392.8529779086805
+Low Volume Low Value,Neuropsychiatry,NY,4,379.75,77.252361327475
+Low Volume High Value,Medical Oncology,PA,39,394.8974358974359,110.25681257667526
+High Volume High Value,Mass Immunizer Roster Biller,CA,5,1749.8,118.85270607709333
+Low Volume High Value,Neuropsychiatry,PA,2,401.0,120.20900238091667
+Low Volume Low Value,Pain Management,NY,64,363.671875,74.54781300503285
+Low Volume Low Value,Colorectal Surgery (Proctology),CA,31,179.93548387096774,79.22173898401564
+Low Volume Low Value,Critical Care (Intensivists),CA,115,397.23478260869564,79.69502700693816
+Low Volume Low Value,Hand Surgery,CA,33,498.27272727272725,68.85545271276249
+High Volume Low Value,Advanced Heart Failure and Transplant Cardiology,PA,25,2156.56,75.40307811551541
+Low Volume High Value,Dermatology,FL,28,599.6785714285714,175.28543740753372
+Low Volume Low Value,Preventive Medicine,FL,9,275.44444444444446,60.634981546518524
+Low Volume High Value,Medical Genetics and Genomics,NY,4,15.25,141.707955395
+High Volume High Value,Nephrology,FL,331,2918.9697885196374,130.70417108960277
+Low Volume Low Value,Infectious Disease,FL,171,386.0233918128655,80.75267267011391
+High Volume Low Value,Oral Surgery (Dentist only),CA,3,8820.333333333334,67.9929121907763
+Low Volume Low Value,Hematology-Oncology,PA,190,483.6,84.1004939895028
+High Volume Low Value,Otolaryngology,FL,211,3607.0142180094786,72.59175311454736
+Low Volume High Value,Plastic and Reconstructive Surgery,FL,125,262.928,209.83516664696893
+High Volume High Value,Pain Management,FL,98,7578.040816326531,136.5715249031908
+High Volume High Value,Thoracic Surgery,CA,10,2450.8,335.4599294372356
+High Volume High Value,Internal Medicine,TX,145,2785.9,124.25006066436673
+Low Volume Low Value,Hematology,PA,37,314.86486486486484,79.01290830348574
+Low Volume High Value,Critical Care (Intensivists),TX,142,255.33098591549296,127.55432176577897
+High Volume Low Value,Audiologist,NY,32,1265.84375,30.259864439430903
+Low Volume High Value,Clinical Cardiac Electrophysiology,NY,12,579.6666666666666,201.4765208309353
+Low Volume Low Value,Plastic and Reconstructive Surgery,NY,118,112.60169491525424,71.5158545790764
+Low Volume High Value,Medical Genetics and Genomics,TX,2,171.0,117.72443398866668
+Low Volume Low Value,Radiation Oncology,CA,36,322.9166666666667,70.13057519135535
+High Volume High Value,Licensed Clinical Social Worker,NY,1,1053.0,100.58724051499999
+High Volume Low Value,Speech Language Pathologist,NY,39,2486.3076923076924,76.46831577791407
+Low Volume High Value,Urology,TX,59,536.9830508474577,177.07046245234423
+Low Volume High Value,Family Practice,FL,322,298.7577639751553,112.55441343386505
+Low Volume Low Value,Orthopedic Surgery,CA,512,352.45703125,68.24879510479101
+High Volume Low Value,Allergy/ Immunology,TX,195,6456.882051282051,39.43983712930794
+High Volume Low Value,Oral Surgery (Dentist only),FL,3,1931.6666666666667,55.96858596875
+High Volume Low Value,Optometry,CA,151,1675.046357615894,59.503922948550134
+High Volume Low Value,Infectious Disease,CA,88,6676.113636363636,83.79764248490068
+High Volume High Value,Obstetrics & Gynecology,TX,23,2997.478260869565,160.38791722096278
+Low Volume High Value,Interventional Cardiology,CA,31,622.9032258064516,164.76833421856531
+High Volume High Value,Allergy/ Immunology,NY,1,1689.0,101.34552935000002
+Low Volume High Value,Neuropsychiatry,NY,4,363.0,147.2652922137911
+High Volume High Value,Peripheral Vascular Disease,CA,1,1200.0,212.0124885495
+High Volume Low Value,Nurse Practitioner,TX,1590,3995.177044025157,50.599911725195575
+Low Volume High Value,Radiation Oncology,NY,82,561.8048780487804,138.62185822396967
+Low Volume High Value,Ophthalmology,PA,88,550.0568181818181,139.52357506336796
+Low Volume Low Value,Endocrinology,TX,234,450.1025641025641,69.10198983360522
+Low Volume High Value,Critical Care (Intensivists),PA,135,204.74074074074073,128.80528503378272
+Low Volume Low Value,Critical Care (Intensivists),TX,87,434.7931034482759,82.4634918595319
+Low Volume Low Value,Nuclear Medicine,TX,8,356.25,42.105385058543575
+Low Volume High Value,Physical Medicine and Rehabilitation,TX,31,392.35483870967744,116.9636090739769
+Low Volume High Value,Sports Medicine,FL,3,557.6666666666666,192.78936341446175
+High Volume High Value,Family Practice,FL,51,3346.8823529411766,114.14706416769435
+High Volume Low Value,Chiropractic,NY,215,1577.6558139534884,24.053390523699765
+High Volume Low Value,Internal Medicine,PA,1047,2412.7258834766,70.83514017474607
+High Volume Low Value,Clinical Laboratory,NY,66,150853.10606060605,48.27424436766721
+Low Volume High Value,Ophthalmology,NY,110,540.8636363636364,144.67464767776767
+Low Volume High Value,Radiation Oncology,PA,44,709.7727272727273,129.39420685989623
+High Volume Low Value,Hospitalist,TX,116,1772.9310344827586,84.07652255647955
+Low Volume High Value,Hospice and Palliative Care,PA,27,259.77777777777777,109.72386238900705
+Low Volume Low Value,Clinical Cardiac Electrophysiology,PA,13,515.0,64.58458544869869
+Low Volume Low Value,Nurse Practitioner,PA,5564,244.26383896477356,58.95404964135781
+High Volume High Value,Internal Medicine,PA,90,2343.988888888889,116.16294052321561
+Low Volume Low Value,Diagnostic Radiology,FL,326,453.15644171779144,43.52763169983164
+High Volume Low Value,Mass Immunizer Roster Biller,CA,1712,2995.3143107476635,61.49892759212867
+Low Volume High Value,Hematology,CA,32,517.21875,111.92834446769407
+Low Volume Low Value,Osteopathic Manipulative Medicine,NY,21,293.95238095238096,70.09535314127533
+Low Volume Low Value,Neuropsychiatry,TX,2,280.0,72.85516593758334
+Low Volume Low Value,Nephrology,FL,54,468.9259259259259,83.78380229413837
+High Volume High Value,Endocrinology,CA,19,2402.684210526316,112.64700944414489
+Low Volume High Value,Clinical Cardiac Electrophysiology,FL,8,588.125,161.8588084943682
+Low Volume Low Value,Opioid Treatment Program,NY,2,254.0,92.56937604066667
+High Volume Low Value,Hematology-Oncology,CA,414,46735.086956521736,56.763375632844976
+High Volume High Value,Hospitalist,TX,16,3290.5,119.52462933653814
+Low Volume Low Value,Certified Clinical Nurse Specialist,PA,16,319.6875,58.90255089872976
+High Volume Low Value,Urology,CA,184,15943.380434782608,80.86994460524848
+Low Volume Low Value,Maxillofacial Surgery,NY,13,146.30769230769232,64.57682974643615
+Low Volume High Value,Pulmonary Disease,CA,212,348.87735849056605,124.61450662934418
+High Volume High Value,Anesthesiology,NY,86,5203.523255813953,133.58477115100123
+Low Volume High Value,Hand Surgery,NY,17,410.70588235294116,146.27345713357676
+High Volume High Value,Sleep Medicine,TX,4,1984.25,142.6068710168288
+High Volume Low Value,Clinical Laboratory,FL,129,239587.79147286824,35.18750224028004
+High Volume Low Value,Pharmacy,NY,49,18155.918367346938,35.843698378305994
+High Volume High Value,Clinical Laboratory,CA,27,42416.03703703704,1092.293539463186
+High Volume High Value,Neurosurgery,FL,28,1930.75,491.1644036096633
+Low Volume High Value,Hospice and Palliative Care,TX,32,244.4375,115.7062899341268
+High Volume High Value,Opioid Treatment Program,FL,15,1598.4,131.83071128648777
+High Volume Low Value,Infectious Disease,PA,48,2705.1458333333335,82.93629980435844
+High Volume Low Value,Nurse Practitioner,CA,706,4336.372521246459,60.315420958448215
+High Volume Low Value,Urology,TX,265,7971.203773584905,71.68360926891684
+Low Volume High Value,Thoracic Surgery,CA,147,219.83673469387756,337.3858702566171
+High Volume High Value,Pain Management,NY,54,6534.185185185185,136.2323468832409
+Low Volume Low Value,Pharmacy,CA,170,252.02941176470588,39.50702046099424
+High Volume Low Value,Geriatric Medicine,CA,45,3161.822222222222,80.96785274113874
+Low Volume High Value,Nephrology,TX,199,603.321608040201,132.24779499366002
+Low Volume High Value,Internal Medicine,FL,736,378.2785326086956,121.08288722417414
+Low Volume Low Value,Podiatry,NY,724,459.378453038674,61.64706858431174
+Low Volume High Value,Cardiology,CA,122,454.3032786885246,142.64851819116487
+Low Volume High Value,General Practice,FL,49,175.08163265306123,114.4108867585436
+Low Volume Low Value,Sports Medicine,CA,33,419.2121212121212,68.81905004090275
+High Volume Low Value,Independent Diagnostic Testing Facility (IDTF),FL,34,6466.235294117647,75.84616164104331
+High Volume Low Value,Undersea and Hyperbaric Medicine,NY,2,1978.0,56.070490767650796
+High Volume High Value,Pulmonary Disease,PA,13,1861.923076923077,110.49223233201823
+Low Volume Low Value,Audiologist,NY,538,296.1152416356877,25.36836101135053
+High Volume Low Value,Optometry,NY,165,2381.551515151515,56.2776367464873
+High Volume Low Value,Physical Medicine and Rehabilitation,CA,273,5531.739926739927,81.09984135230373
+Low Volume High Value,Interventional Cardiology,FL,38,560.921052631579,172.855014751056
+Low Volume High Value,Vascular Surgery,PA,36,557.8888888888889,213.62289809141623
+High Volume High Value,General Practice,NY,11,5928.0,129.6166468962746
+High Volume High Value,Surgical Oncology,FL,4,1340.25,235.97090083183605
+Low Volume High Value,Interventional Pain Management,TX,7,527.4285714285714,114.54849614717885
+High Volume Low Value,Dermatology,TX,505,4463.445544554455,71.090712135215
+High Volume High Value,Interventional Cardiology,TX,139,5072.978417266187,176.80752884598363
+High Volume Low Value,Rheumatology,CA,240,40174.204999999994,57.82823553560361
+Low Volume Low Value,Infectious Disease,TX,151,369.0927152317881,82.06575357027648
+Low Volume High Value,Hematology,NY,36,372.6388888888889,117.70991420321535
+Low Volume High Value,Nuclear Medicine,CA,12,507.75,374.410059959874
+Low Volume High Value,Orthopedic Surgery,FL,239,447.4267782426778,243.80862377123313
+Low Volume Low Value,Physical Medicine and Rehabilitation,CA,178,441.05056179775283,77.56973640392351
+High Volume High Value,Dermatology,TX,205,6465.892682926829,160.21272384495447
+Low Volume High Value,Podiatry,TX,15,487.06666666666666,187.65594495508282
+Low Volume High Value,Interventional Radiology,NY,34,383.8235294117647,227.67811179747247
+Low Volume Low Value,Anesthesiology,TX,1572,158.57888040712467,64.94656181655934
+Low Volume High Value,Internal Medicine,PA,533,298.49906191369604,120.42108594343641
+High Volume Low Value,Pathology,FL,486,6843.706378600823,37.0849247511203
+High Volume Low Value,Nuclear Medicine,TX,16,1585.625,45.020101712505834
+Low Volume High Value,Mass Immunizer Roster Biller,FL,3,424.6666666666667,329.4842417867778
+Low Volume Low Value,Independent Diagnostic Testing Facility (IDTF),PA,12,276.3333333333333,45.371112872178806
+High Volume Low Value,Portable X-Ray Supplier,TX,32,10675.875,32.06778117267173
+High Volume Low Value,Otolaryngology,PA,141,2631.2624113475176,71.78113898657851
+High Volume Low Value,Radiation Oncology,CA,19,5629.0526315789475,81.89200655950782
+High Volume Low Value,Hematology,PA,8,42194.0,58.346074333490144
+High Volume Low Value,Pediatric Medicine,CA,13,4692.153846153846,56.779750260921745
+Low Volume High Value,Licensed Clinical Social Worker,FL,9,82.55555555555556,103.76849651855554
+High Volume Low Value,Cardiology,NY,924,3499.6237012987012,70.59581410403464
+Low Volume Low Value,Certified Registered Nurse Anesthetist (CRNA),TX,1574,105.26111817026684,72.53131060442637
+Low Volume Low Value,Cardiology,PA,257,493.2490272373541,56.62562930268146
+High Volume Low Value,General Practice,NY,38,5439.263157894737,63.81322291888498
+Low Volume Low Value,Geriatric Medicine,NY,105,366.74285714285713,78.82367907019268
+High Volume High Value,Pathology,TX,1,1925.0,139.254276251375
+Low Volume High Value,"Psychologist, Clinical",TX,182,250.83516483516485,112.90222828196926
+High Volume Low Value,Physician Assistant,NY,594,2495.665824915825,53.43622938243751
+High Volume High Value,Dermatology,CA,540,7629.983518518518,156.23347513458103
+High Volume High Value,Otolaryngology,FL,90,3814.0222222222224,207.23306990217074
+Low Volume Low Value,Colorectal Surgery (Proctology),FL,43,207.30232558139534,82.84533369132129
+High Volume Low Value,Nuclear Medicine,CA,18,2105.222222222222,62.60713664500708
+High Volume High Value,General Surgery,NY,43,2712.5813953488373,223.40619042962584
+High Volume High Value,Neurosurgery,TX,23,1616.2173913043478,356.8494698462994
+High Volume High Value,Hand Surgery,CA,37,2926.3783783783783,133.6002261833177
+Low Volume Low Value,Colorectal Surgery (Proctology),TX,50,244.92,82.52071575699141
+High Volume High Value,Interventional Cardiology,PA,69,2169.3623188405795,148.19163883017936
+High Volume Low Value,Family Practice,FL,1634,4148.180232558139,58.91918995845163
+Low Volume Low Value,Hematopoietic Cell Transplantation and Cellular Therapy,NY,10,329.5,78.80305213388999
+High Volume High Value,Psychiatry,CA,50,1977.82,115.85898860507001
+Low Volume High Value,Nuclear Medicine,TX,3,138.33333333333334,422.8518780639333
+Low Volume Low Value,Certified Registered Nurse Anesthetist (CRNA),PA,1795,83.71030640668523,68.19214720348143
+Low Volume High Value,Rheumatology,NY,67,257.44776119402985,121.11875561820895
+High Volume High Value,Ambulatory Surgical Center,TX,193,6500.401554404145,1007.4079077181796
+High Volume High Value,Physical Medicine and Rehabilitation,PA,39,5202.7692307692305,117.33085372080463
+Low Volume High Value,Clinical Laboratory,CA,10,319.3,730.9506377441634
+Low Volume High Value,Sleep Medicine,CA,32,481.65625,192.01781766063615
+High Volume High Value,Plastic and Reconstructive Surgery,CA,28,5360.428571428572,166.2115943238701
+High Volume High Value,Allergy/ Immunology,TX,1,2024.0,144.72613076969003
+High Volume High Value,Urology,FL,203,12266.881773399014,129.9846677735246
+High Volume Low Value,Pathology,NY,544,3667.2376838235296,40.558107661054386
+High Volume High Value,Gastroenterology,TX,141,2182.659574468085,116.56670104138014
+High Volume Low Value,Physical Medicine and Rehabilitation,TX,292,4355.359589041096,75.96602674759839
+High Volume Low Value,Infectious Disease,FL,201,58763.666666666664,80.61778193477328
+Low Volume High Value,Diagnostic Radiology,CA,58,307.7068965517241,223.82964884739306
+High Volume Low Value,Critical Care (Intensivists),PA,19,1803.6315789473683,65.99822167325125
+Low Volume Low Value,Ophthalmology,PA,172,400.22093023255815,64.90139668827695
+Low Volume Low Value,Preventive Medicine,CA,27,274.0740740740741,65.70550546157378
+Low Volume High Value,Allergy/ Immunology,PA,4,15.5,123.67076922999999
+High Volume Low Value,Podiatry,CA,829,3351.7816646562123,64.45216767150568
+Low Volume Low Value,Critical Care (Intensivists),NY,107,410.97196261682245,81.23057688557515
+Low Volume Low Value,Nurse Practitioner,CA,5044,227.4197065820777,60.99248813364404
+Low Volume High Value,Hospitalist,NY,539,392.1576994434137,121.78201945138397
+High Volume Low Value,Independent Diagnostic Testing Facility (IDTF),NY,12,18482.583333333332,65.09945435266054
+Low Volume Low Value,Independent Diagnostic Testing Facility (IDTF),CA,26,307.7692307692308,59.74127722831958
+Low Volume High Value,Podiatry,CA,23,393.30434782608694,138.18130044483732
+High Volume High Value,General Surgery,TX,22,4012.681818181818,242.76491565321257
+High Volume Low Value,Internal Medicine,TX,1983,4121.241906202723,64.07190041898181
+Low Volume Low Value,Ophthalmology,FL,276,375.8188405797101,64.69354967176764
+High Volume Low Value,Occupational Therapist in Private Practice,TX,140,2349.5142857142855,31.918754094473247
+Low Volume Low Value,Neurosurgery,CA,114,166.23684210526315,80.19333260067987
+High Volume High Value,Colorectal Surgery (Proctology),TX,4,1359.5,143.4230721679212
+Low Volume Low Value,Family Practice,PA,2787,415.8931108719053,64.51698291633424
+High Volume Low Value,Centralized Flu,NY,295,3091.6169491525425,49.48462849345746
+Low Volume High Value,Urology,PA,51,510.1372549019608,161.99223094225988
+High Volume Low Value,Gastroenterology,TX,118,3866.762711864407,89.00555441633686
+High Volume High Value,Micrographic Dermatologic Surgery,FL,24,5349.75,217.20015240271425
+High Volume High Value,Otolaryngology,NY,85,2965.9176470588236,169.39977848015099
+High Volume High Value,Infectious Disease,CA,128,2531.015625,117.70254377092692
+Low Volume High Value,Oral Surgery (Dentist only),CA,42,321.5,276.3811571252185
+Low Volume Low Value,Adult Congenital Heart Disease,NY,3,225.0,91.37964354232143
+Low Volume High Value,Interventional Pain Management,PA,1,854.0,203.6550332886
+High Volume Low Value,Thoracic Surgery,CA,1,1077.0,99.72498957061113
+High Volume Low Value,Neurology,TX,169,12995.207100591717,76.78760128457341
+High Volume Low Value,Emergency Medicine,FL,144,5414.951388888889,72.44549604408843
+High Volume Low Value,Licensed Clinical Social Worker,FL,45,1815.2888888888888,72.84132530484034
+Low Volume High Value,Oral Surgery (Dentist only),FL,19,218.42105263157896,344.78973367509093
+High Volume Low Value,Gastroenterology,PA,47,4099.063829787234,85.86234434891544
+High Volume Low Value,Hematology,NY,12,21374.0,58.39941887187374
+High Volume High Value,Critical Care (Intensivists),FL,17,2342.0588235294117,118.67323821726606
+High Volume Low Value,Allergy/ Immunology,FL,153,11008.792156862744,42.791815183768506
+High Volume High Value,Ambulatory Surgical Center,NY,80,9063.175,851.8026589903669
+Low Volume High Value,Clinical Laboratory,TX,17,356.70588235294116,469.3923664162542
+High Volume Low Value,Osteopathic Manipulative Medicine,NY,14,4076.0714285714284,66.90824293993808
+High Volume Low Value,Portable X-Ray Supplier,CA,32,9359.125,35.286110184692006
+Low Volume High Value,Physical Therapist in Private Practice,PA,12,387.75,131.4717795540637
+Low Volume Low Value,Certified Clinical Nurse Specialist,FL,5,194.0,54.083218680799995
+High Volume Low Value,Urology,NY,205,7216.848780487805,75.02724496154856
+Low Volume Low Value,Speech Language Pathologist,PA,42,291.1666666666667,70.01594903680272
+High Volume High Value,Interventional Radiology,CA,38,10373.894736842105,406.0225032027985
+Low Volume High Value,Mass Immunizer Roster Biller,CA,8,294.25,171.0306411157335
+High Volume High Value,Geriatric Psychiatry,NY,2,3412.5,102.43075591735575
+Low Volume High Value,Hand Surgery,CA,16,395.25,140.08692795946038
+High Volume High Value,Podiatry,TX,17,5950.941176470588,144.34212889774605
+Low Volume Low Value,Obstetrics & Gynecology,PA,868,129.93433179723502,53.18774759183526
+Low Volume High Value,Surgical Oncology,NY,72,269.5833333333333,201.75602956781975
+High Volume High Value,Interventional Cardiology,NY,85,3311.541176470588,188.21917289545647
+High Volume High Value,Radiation Oncology,CA,285,2911.7684210526318,201.45918917580767
+Low Volume High Value,Hospice and Palliative Care,CA,53,323.58490566037733,116.4754602954869
+Low Volume Low Value,Geriatric Psychiatry,FL,5,517.8,88.48105867318334
+Low Volume High Value,Maxillofacial Surgery,PA,6,122.33333333333333,211.49503910091667
+Low Volume High Value,Hospitalist,PA,250,341.756,121.86730080193476
+Low Volume High Value,Orthopedic Surgery,TX,312,490.56089743589746,220.97832751713867
+Low Volume High Value,Infectious Disease,TX,53,348.37735849056605,110.06411627549016
+Low Volume Low Value,Cardiology,FL,234,494.2991452991453,62.57479417758963
+High Volume High Value,Advanced Heart Failure and Transplant Cardiology,CA,14,1591.0,111.66615003661316
+Low Volume Low Value,Maxillofacial Surgery,FL,22,74.45454545454545,71.97974930284882
+Low Volume Low Value,Nuclear Medicine,PA,7,553.1428571428571,50.18953942662493
+Low Volume High Value,Gastroenterology,PA,403,472.3995037220844,116.26679818003336
+High Volume High Value,Neurosurgery,CA,32,1851.15625,309.02975884224116
+High Volume High Value,Gynecological Oncology,FL,4,13302.25,200.06080910435617
+High Volume Low Value,Adult Congenital Heart Disease,CA,1,2290.0,45.4538504831174
+High Volume High Value,Preventive Medicine,FL,3,3574.0,130.68755296938352
+Low Volume Low Value,Ophthalmology,NY,381,382.70866141732284,64.00194640206249
+Low Volume Low Value,Cardiology,CA,413,338.0871670702179,52.54196130385381
+Low Volume Low Value,Hospitalist,CA,640,473.26875,85.25175010937332
+High Volume Low Value,Interventional Cardiology,CA,87,3587.896551724138,83.55198277675636
+Low Volume Low Value,Rheumatology,NY,144,328.6354166666667,72.79771038745452
+High Volume Low Value,Vascular Surgery,NY,28,8822.285714285714,71.47440341299645
+Low Volume Low Value,Geriatric Psychiatry,NY,8,375.75,86.42050025262084
+High Volume High Value,Advanced Heart Failure and Transplant Cardiology,NY,6,2070.8333333333335,124.44146661160653
+Low Volume Low Value,Nurse Practitioner,NY,6840,231.6663888888889,57.3026055501889
+Low Volume Low Value,Physician Assistant,CA,4064,227.12057086614172,62.381441459406076
+Low Volume Low Value,Oral Surgery (Dentist only),FL,32,128.53125,61.76278771775112
+Low Volume Low Value,Interventional Cardiology,NY,33,393.4848484848485,71.69450541529888
+Low Volume Low Value,Sleep Medicine,CA,18,287.6666666666667,83.26620858383531
+High Volume High Value,Surgical Oncology,TX,3,2496.3333333333335,172.36191932469413
+Low Volume Low Value,Advanced Heart Failure and Transplant Cardiology,PA,37,470.72972972972974,72.2213076151843
+Low Volume Low Value,Diagnostic Radiology,NY,438,443.9109589041096,42.36974594715125
+Low Volume Low Value,Pharmacy,NY,113,267.3893805309734,38.45405569979587
+Low Volume High Value,Neurology,PA,226,318.8053097345133,121.55725332650402
+High Volume Low Value,Allergy/ Immunology,PA,83,5925.107228915663,43.076342358902444
+High Volume High Value,Hospitalist,NY,105,2028.3714285714286,108.36798218551816
+Low Volume High Value,General Practice,TX,12,140.58333333333334,121.59770474734444
+Low Volume High Value,Pain Management,TX,15,424.8666666666667,179.66922910958928
+Low Volume Low Value,Occupational Therapist in Private Practice,NY,341,522.0997067448681,31.59768156615637
+High Volume High Value,Radiation Oncology,FL,244,5266.639344262295,200.04672630362208
+Low Volume High Value,Orthopedic Surgery,PA,153,433.48366013071893,238.31922936753503
+Low Volume Low Value,Vascular Surgery,FL,70,340.8,73.36725556224042
+High Volume High Value,Neurology,FL,201,8688.759701492538,125.29279364567324
+High Volume Low Value,Interventional Radiology,TX,39,3027.3846153846152,43.349599179578014
+Low Volume High Value,Dermatology,TX,18,420.8333333333333,214.11829037540636
+High Volume Low Value,Pediatric Medicine,PA,2,2643.5,56.125797663046754
+Low Volume High Value,"Psychologist, Clinical",PA,282,255.31382978723406,114.78582356777883
+High Volume High Value,Family Practice,NY,50,2926.86,115.78246808341048
+Low Volume High Value,Family Practice,CA,594,280.9949494949495,114.64446573548746
+Low Volume High Value,Undefined Physician type,CA,15,377.53333333333336,168.25556164807477
+Low Volume Low Value,Sports Medicine,PA,39,377.64102564102564,65.54877669220603
+Low Volume Low Value,Dentist,TX,10,107.5,48.24938796671667
+Low Volume Low Value,Advanced Heart Failure and Transplant Cardiology,CA,19,661.6842105263158,83.58113618118844
+Low Volume High Value,Advanced Heart Failure and Transplant Cardiology,TX,6,563.1666666666666,109.68003023002866
+Low Volume Low Value,Hematology-Oncology,TX,154,434.8051948051948,79.27772419054499
+High Volume High Value,Radiation Oncology,NY,182,2502.6703296703295,191.28892998752818
+High Volume Low Value,Medical Oncology,CA,84,49055.357142857145,59.55674381042854
+High Volume Low Value,Endocrinology,TX,181,5089.281767955801,57.01633208269108
+High Volume High Value,Podiatry,NY,18,4826.444444444444,113.31232733146766
+Low Volume Low Value,Neurosurgery,NY,70,136.97857142857143,76.36120423698648
+High Volume High Value,Osteopathic Manipulative Medicine,CA,5,1771.4,179.17570392011618
+Low Volume Low Value,Portable X-Ray Supplier,FL,3,175.33333333333334,38.08969098877778
+High Volume High Value,Nuclear Medicine,TX,1,7632.0,5555.218941078571
+High Volume High Value,Nuclear Medicine,PA,2,2817.0,216.51636861086303
+High Volume High Value,Diagnostic Radiology,CA,367,21815.097002724793,163.61050977248493
+Low Volume Low Value,Internal Medicine,TX,2980,441.28456375838925,71.78223607648926
+High Volume Low Value,Physician Assistant,CA,702,4444.141025641025,61.74795171925376
+Low Volume Low Value,General Surgery,PA,474,225.5253164556962,76.57832069598437
+Low Volume High Value,Colorectal Surgery (Proctology),TX,76,370.3421052631579,132.84932425775796
+High Volume High Value,Hematology-Oncology,TX,16,20802.5,132.96291212254005
+Low Volume Low Value,Addiction Medicine,CA,9,239.77777777777777,72.9325960931664
+High Volume Low Value,Pathology,PA,359,2710.598885793872,34.365586814602764
+Low Volume High Value,General Surgery,FL,650,303.98615384615385,201.1051241303418
+Low Volume High Value,Ambulance Service Provider,NY,101,545.0554455445543,201.9909218132327
+Low Volume Low Value,"Psychologist, Clinical",FL,356,377.7752808988764,77.26597950880385
+High Volume Low Value,Anesthesiology,NY,58,4331.2155172413795,85.03592785649936
+High Volume High Value,Surgical Oncology,PA,1,1328.0,134.96890360433332
+High Volume Low Value,Internal Medicine,FL,2188,4758.7577696526505,68.34437253484828
+High Volume High Value,Clinical Cardiac Electrophysiology,CA,117,4387.931623931624,169.54449856441474
+Low Volume High Value,Sleep Medicine,PA,8,364.25,130.69518039938785
+Low Volume High Value,Clinical Laboratory,NY,2,519.5,787.0372849989167
+Low Volume Low Value,Podiatry,TX,436,465.76376146788994,59.127100475821514
+Low Volume Low Value,Allergy/ Immunology,TX,55,350.3636363636364,51.676190494854886
+Low Volume Low Value,Clinical Cardiac Electrophysiology,FL,13,364.2307692307692,49.2191156029047
+Low Volume High Value,Preventive Medicine,CA,9,93.11111111111111,118.9599403237895
+High Volume High Value,Colorectal Surgery (Proctology),PA,9,1283.4444444444443,158.27974239566947
+Low Volume Low Value,Pathology,NY,411,461.3170316301703,36.212787433826485
+High Volume High Value,Internal Medicine,FL,241,7117.734439834025,117.879082969775
+High Volume High Value,Neuropsychiatry,NY,3,17626.666666666668,131.46178492196222
+Low Volume Low Value,Ophthalmology,TX,249,390.52208835341366,66.60201139803915
+Low Volume Low Value,Medical Oncology,FL,57,381.17543859649123,82.14447107931603
+Low Volume High Value,Neurosurgery,TX,236,382.135593220339,252.19199693813215
+Low Volume High Value,Allergy/ Immunology,CA,17,156.52941176470588,127.97837001453745
+High Volume High Value,Pathology,FL,10,18827.5,167.07511807840913
+High Volume Low Value,Nuclear Medicine,PA,10,2492.0,43.190072713500285
+High Volume High Value,Hand Surgery,NY,22,2976.5227272727275,145.42533721915098
+Low Volume High Value,Anesthesiology Assistant,TX,55,42.69090909090909,145.20562683205605
+High Volume High Value,Dermatology,NY,156,6788.358974358975,169.93519410277213
+Low Volume Low Value,Endocrinology,NY,270,417.6148148148148,73.37132948094305
+Low Volume High Value,Cardiac Surgery,TX,51,257.0980392156863,388.59096606022734
+Low Volume Low Value,Interventional Radiology,FL,38,477.94736842105266,60.14569887369355
+Low Volume Low Value,Physical Medicine and Rehabilitation,PA,217,424.5483870967742,76.20759930717072
+Low Volume Low Value,Interventional Radiology,NY,64,257.640625,51.65980624025143
+High Volume High Value,Emergency Medicine,TX,25,1225.04,124.87818658440828
+High Volume Low Value,Certified Registered Nurse Anesthetist (CRNA),FL,6,1634.8333333333333,92.0185538938528
+High Volume Low Value,Audiologist,TX,11,1389.0,31.26224466561682
+Low Volume Low Value,Sleep Medicine,NY,13,377.9230769230769,76.09737550625314
+Low Volume High Value,Physician Assistant,NY,667,108.16791604197901,129.4233961813447
+Low Volume Low Value,Registered Dietitian or Nutrition Professional,TX,102,209.33333333333334,30.19702084364968
+Low Volume High Value,Plastic and Reconstructive Surgery,PA,63,213.15873015873015,175.99703998978976
+High Volume Low Value,Clinical Laboratory,TX,183,138502.08142076503,39.456470714992825
+High Volume High Value,Certified Registered Nurse Anesthetist (CRNA),FL,12,1378.5833333333333,114.36837061884792
+High Volume High Value,General Practice,CA,25,7671.64,122.34895641226122
+High Volume High Value,Pain Management,CA,54,8315.231481481482,132.51914550838387
+High Volume High Value,Hospice and Palliative Care,NY,1,1756.0,115.614070908375
+High Volume High Value,Pediatric Medicine,PA,1,1275.0,107.75482055934
+Low Volume Low Value,Urology,FL,163,415.0184049079755,71.33027107692446
+Low Volume High Value,Opioid Treatment Program,NY,19,602.9473684210526,157.76789395796928
+High Volume High Value,Sports Medicine,TX,16,2313.4375,182.28288619899965
+High Volume Low Value,Sleep Medicine,NY,4,1989.5,75.2922897576457
+Low Volume Low Value,Preventive Medicine,TX,8,376.75,55.943787026493155
+Low Volume Low Value,Nuclear Medicine,FL,5,223.6,55.92721606076666
+Low Volume Low Value,Chiropractic,CA,2209,351.4210049796288,28.624961392504062
+High Volume Low Value,Emergency Medicine,PA,98,1623.9489795918366,78.5140116948447
+High Volume High Value,Dermatology,FL,408,8332.85931372549,155.089869916561
+High Volume High Value,Clinical Cardiac Electrophysiology,FL,139,5040.014388489209,166.94558911120367
+Low Volume High Value,Neurosurgery,NY,213,262.4037558685446,261.60733015876104
+Low Volume High Value,Ambulatory Surgical Center,CA,357,383.7226890756302,1116.938636322882
+Low Volume High Value,Hospitalist,FL,250,371.5,123.84299393267497
+Low Volume Low Value,Critical Care (Intensivists),FL,100,435.37,86.63090988721233
+Low Volume Low Value,Allergy/ Immunology,FL,29,316.9655172413793,55.54512872602149
+High Volume Low Value,General Surgery,PA,23,6243.478260869565,69.69914521302276
+High Volume High Value,Nurse Practitioner,FL,77,3880.7662337662337,117.28291812099943
+High Volume High Value,Interventional Pain Management,CA,28,6550.071428571428,125.92576536049829
+Low Volume High Value,Physician Assistant,TX,312,111.73397435897436,127.64424022903665
+High Volume High Value,Cardiology,PA,134,3865.082089552239,175.54410870305054
+High Volume Low Value,Radiation Oncology,TX,32,1851.84375,91.06432715330772
+Low Volume Low Value,Emergency Medicine,CA,2085,341.810551558753,79.71276922603585
+High Volume Low Value,Urology,FL,252,8577.214285714286,78.24617370078569
+Low Volume Low Value,Gastroenterology,PA,249,382.34939759036143,87.55113099284053
+High Volume Low Value,Emergency Medicine,TX,139,2120.021582733813,78.57387304581285
+High Volume Low Value,Interventional Cardiology,FL,124,3418.8387096774195,82.06024785430415
+High Volume High Value,Vascular Surgery,FL,97,2756.979381443299,303.22335239828857
+Low Volume Low Value,Addiction Medicine,PA,13,189.92307692307693,62.31009573810257
+High Volume High Value,Advanced Heart Failure and Transplant Cardiology,PA,4,2430.5,122.29984466878611
+Low Volume Low Value,Medical Genetics and Genomics,CA,1,75.0,81.826746795
+High Volume Low Value,Clinical Cardiac Electrophysiology,FL,33,3631.848484848485,71.28417412854328
+Low Volume Low Value,Hematology-Oncology,FL,181,455.51381215469615,81.83720860389303
+Low Volume Low Value,Plastic and Reconstructive Surgery,TX,124,93.20967741935483,69.02289460326969
+Low Volume High Value,Otolaryngology,PA,47,511.9574468085106,192.2590378700544
+Low Volume Low Value,Pulmonary Disease,TX,192,547.875,71.93502539307119
+Low Volume High Value,Surgical Oncology,TX,72,235.98611111111111,196.92188670682967
+High Volume High Value,Hematology,PA,2,1019.5,108.12150309739286
+Low Volume High Value,Surgical Oncology,PA,25,381.04,218.76418426863734
+High Volume Low Value,Cardiology,CA,780,4668.874487179487,73.92075056683973
+Low Volume High Value,Sleep Medicine,FL,5,537.2,129.20855737545037
+High Volume High Value,Critical Care (Intensivists),NY,17,3335.5882352941176,149.36239411878486
+High Volume Low Value,Hand Surgery,NY,22,2504.068181818182,80.02777514772487
+Low Volume High Value,Licensed Clinical Social Worker,PA,14,67.64285714285714,105.10168720557144
+Low Volume High Value,Undefined Physician type,TX,2,324.0,110.77638840893749
+Low Volume High Value,Internal Medicine,CA,1626,382.0313653136531,119.42914951442178
+High Volume Low Value,Pulmonary Disease,CA,287,3345.4947735191636,75.23859341527911
+High Volume Low Value,Physical Medicine and Rehabilitation,PA,187,4547.983957219251,77.06936858358956
+Low Volume Low Value,Optometry,FL,1107,282.3008130081301,62.208532147208864
+Low Volume High Value,Licensed Clinical Social Worker,NY,56,280.30357142857144,107.19244276933033
+Low Volume High Value,Speech Language Pathologist,PA,11,243.63636363636363,121.6723059139394
+High Volume Low Value,Interventional Radiology,CA,74,6759.635135135135,54.69116006900555
+High Volume Low Value,Pain Management,FL,64,4698.7890625,80.51190360668406
+High Volume Low Value,Hospice and Palliative Care,FL,7,1254.857142857143,73.8521266668384
+Low Volume Low Value,Surgical Oncology,PA,10,106.0,84.16748316577335
+Low Volume Low Value,Family Practice,TX,3948,354.4691236068896,60.37139745905969
+Low Volume Low Value,Psychiatry,CA,1251,261.20303756994406,72.71766032814979
+Low Volume High Value,Otolaryngology,TX,94,463.9468085106383,232.82893277871435
+High Volume High Value,Independent Diagnostic Testing Facility (IDTF),TX,99,47233.10101010101,164.9431490246782
+High Volume High Value,Anesthesiology,CA,56,6053.803571428572,139.00723702716186
+Low Volume Low Value,Rheumatology,TX,124,380.71774193548384,71.1356627125513
+High Volume Low Value,Pain Management,CA,87,3824.5689655172414,79.21207282139198
+High Volume Low Value,Interventional Pain Management,TX,64,4758.484375,76.03623611567662
+Low Volume High Value,Pediatric Medicine,PA,9,179.11111111111111,127.17133673787036
+Low Volume High Value,Interventional Radiology,TX,20,405.0,487.6480494344588
+High Volume Low Value,Nuclear Medicine,NY,21,4040.3333333333335,69.34082522711697
+Low Volume High Value,Pediatric Medicine,FL,16,211.125,118.8785295874621
+High Volume High Value,Hand Surgery,PA,26,3097.6153846153848,132.88077142539046
+High Volume High Value,Nurse Practitioner,TX,56,7124.375,156.46845460143612
+High Volume Low Value,Hematology,CA,21,51148.42857142857,66.3855196184815
+Low Volume High Value,Maxillofacial Surgery,NY,18,178.33333333333334,249.89776826917367
+Low Volume High Value,Neuropsychiatry,FL,3,230.33333333333334,115.9983198616111
+High Volume Low Value,Clinical Cardiac Electrophysiology,CA,34,4101.441176470588,75.11340880427628
+Low Volume High Value,Geriatric Psychiatry,PA,2,304.5,115.54299636791666
+High Volume Low Value,Undefined Physician type,PA,1,1073.0,97.88255681436125
+High Volume Low Value,Centralized Flu,FL,1209,3124.5889164598843,52.69472320326366
+Low Volume Low Value,Psychiatry,PA,836,284.67583732057415,65.51668510612836
+Low Volume High Value,General Surgery,CA,948,268.80168776371306,184.61022074245972
+High Volume Low Value,Mass Immunizer Roster Biller,TX,1039,2018.5813282001925,61.91916377972364
+High Volume Low Value,Dermatology,FL,403,5135.979404466501,77.5250946895748
+Low Volume Low Value,General Practice,TX,125,331.744,58.00614246492039
+High Volume Low Value,Chiropractic,FL,245,1617.9020408163265,25.950509297463956
+Low Volume Low Value,Addiction Medicine,TX,5,312.0,69.92202809499334
+Low Volume High Value,Interventional Cardiology,TX,19,582.7368421052631,120.71845125358591
+High Volume Low Value,Hospice and Palliative Care,NY,4,1335.0,95.35309809171576
+Low Volume High Value,Oral Surgery (Dentist only),TX,8,424.875,183.71431766167194
+Low Volume High Value,Micrographic Dermatologic Surgery,NY,3,639.3333333333334,207.13233351376007
+Low Volume Low Value,Family Practice,CA,4636,327.5410914581536,62.20061624407517
+Low Volume Low Value,Pulmonary Disease,PA,273,493.3663003663004,71.08504296839105
+Low Volume High Value,Nephrology,PA,109,579.2110091743119,126.57757962043095
+High Volume Low Value,Undefined Physician type,CA,8,2766.875,66.5949254137342
+High Volume Low Value,Sports Medicine,NY,27,5314.62962962963,66.90819170047264
+High Volume High Value,Ambulance Service Provider,PA,465,8264.472688172043,224.17326194066578
+High Volume Low Value,Orthopedic Surgery,TX,209,3870.373205741627,64.61263679026473
+High Volume Low Value,Diagnostic Radiology,FL,1361,9043.304996326231,48.567767287637274
+High Volume Low Value,Interventional Cardiology,PA,57,2180.8947368421054,70.31393193810995
+Low Volume Low Value,Colorectal Surgery (Proctology),NY,53,190.16981132075472,77.97404232066268
+High Volume High Value,Thoracic Surgery,NY,4,1228.5,265.99865330849207
+Low Volume High Value,Mass Immunizer Roster Biller,TX,5,202.8,167.90869113848333
+Low Volume High Value,Medical Toxicology,CA,3,134.66666666666666,124.47380721026667
+Low Volume High Value,Hematology-Oncology,CA,140,417.17857142857144,116.79219498683315
+Low Volume Low Value,Certified Registered Nurse Anesthetist (CRNA),NY,785,78.94904458598727,70.1830046992163
+High Volume High Value,Ambulatory Surgical Center,FL,233,10882.982832618025,1001.659192084563
+Low Volume Low Value,Pathology,TX,401,465.61346633416457,31.542673618587774
+Low Volume Low Value,Addiction Medicine,NY,9,83.88888888888889,63.245726648666654
+High Volume Low Value,Registered Dietitian or Nutrition Professional,TX,3,4014.3333333333335,26.728868298222224
+Low Volume High Value,Nuclear Medicine,NY,17,654.9411764705883,369.6738563958821
+Low Volume High Value,Mass Immunizer Roster Biller,NY,2,391.0,365.59311550772225
+High Volume High Value,Orthopedic Surgery,CA,567,4150.909347442681,208.59346776330798
+Low Volume Low Value,Urology,TX,150,464.23333333333335,69.64441879849035
+Low Volume High Value,Nurse Practitioner,FL,897,150.50390189520624,127.66226604648071
+High Volume Low Value,Pharmacy,TX,47,13033.191489361701,44.160047909052835
+Low Volume Low Value,Dermatology,NY,331,427.66163141993957,69.53393502370302
+High Volume High Value,Cardiology,TX,309,4965.074433656958,176.1656092526192
+Low Volume High Value,Infectious Disease,PA,76,302.64473684210526,112.27794270010092
+High Volume Low Value,Clinical Cardiac Electrophysiology,TX,22,3229.090909090909,75.44066160808848
+High Volume Low Value,General Practice,PA,26,2259.923076923077,66.96365178905572
+Low Volume High Value,Dentist,TX,3,422.6666666666667,397.2211310984964
+Low Volume High Value,Oral Surgery (Dentist only),PA,8,92.5,188.32492571477496
+High Volume Low Value,Geriatric Psychiatry,TX,3,3426.3333333333335,84.36561465728323
+Low Volume Low Value,Dermatology,FL,155,442.43225806451613,60.769470665944766
+Low Volume High Value,Cardiology,NY,229,472.8515283842795,167.5837475591438
+Low Volume Low Value,Centralized Flu,NY,76,544.8157894736842,43.548918586078486
+High Volume High Value,Emergency Medicine,NY,56,2829.875,122.1031339770411
+Low Volume High Value,Rheumatology,FL,24,261.125,113.84159600756284
+Low Volume Low Value,Clinical Laboratory,FL,52,330.25,40.16439251520928
+High Volume Low Value,Preventive Medicine,CA,12,2142.75,54.2213144858356
+Low Volume High Value,Addiction Medicine,FL,2,642.5,136.10349504725
+Low Volume High Value,Pharmacy,TX,4,232.25,239.05911430058333
+Low Volume Low Value,Anesthesiology,FL,1109,179.32822362488727,64.23607431503785
+Low Volume Low Value,Otolaryngology,TX,276,430.1286231884058,71.69139907789062
+High Volume High Value,Otolaryngology,CA,137,2500.956204379562,220.1317118726103
+Low Volume High Value,Gynecological Oncology,FL,46,316.39130434782606,172.4016424849274
+Low Volume High Value,Neurology,TX,333,374.9069069069069,128.9153104464478
+High Volume High Value,Orthopedic Surgery,NY,331,3994.7220543806648,209.3308885364396
+Low Volume High Value,Speech Language Pathologist,TX,25,395.6,122.71819078151398
+Low Volume Low Value,Allergy/ Immunology,CA,59,377.96610169491527,68.29321670031291
+High Volume High Value,Obstetrics & Gynecology,PA,12,4465.416666666667,150.01483980906593
+High Volume High Value,Hematology-Oncology,PA,14,1319.2142857142858,109.7860234598753
+Low Volume High Value,Medical Oncology,TX,69,342.3188405797101,124.37876622919187
+High Volume Low Value,Speech Language Pathologist,CA,3,2143.6666666666665,64.54931661315278
+High Volume Low Value,Pain Management,PA,45,2719.266666666667,77.15018951306556
+Low Volume High Value,Neuropsychiatry,TX,1,85.0,120.87019444449999
+Low Volume High Value,"Psychologist, Clinical",CA,695,378.3402877697842,119.34199128757747
+Low Volume High Value,Surgical Oncology,CA,76,276.5131578947368,181.68567842239378
+Low Volume High Value,Colorectal Surgery (Proctology),NY,83,342.5542168674699,153.76684621201434
+Low Volume Low Value,Surgical Oncology,CA,16,128.4375,78.82077664515626
+High Volume High Value,Neuropsychiatry,CA,2,1410.5,106.74191368
+Low Volume High Value,Osteopathic Manipulative Medicine,TX,1,774.0,106.52125640034001
+Low Volume Low Value,Nurse Practitioner,TX,8917,255.471739374229,55.44416283212975
+Low Volume Low Value,Chiropractic,PA,1548,369.2215762273902,25.808364148026627
+High Volume Low Value,Family Practice,TX,1813,3396.0987313844457,51.28531712060049
+High Volume Low Value,Interventional Pain Management,CA,47,4396.510638297872,78.50716493831099
+High Volume Low Value,Physician Assistant,TX,635,3022.363779527559,48.68384225850811
+Low Volume High Value,Certified Registered Nurse Anesthetist (CRNA),CA,611,145.2684124386252,134.48786234930324
+High Volume Low Value,Nephrology,FL,88,4932.056818181818,76.32536043993687
+High Volume High Value,Clinical Cardiac Electrophysiology,NY,101,5601.934653465347,166.97734776704226
+High Volume High Value,Urology,PA,77,4231.728571428571,134.05526135279354
+High Volume High Value,Otolaryngology,TX,70,3299.6285714285714,274.3827837002076
+High Volume Low Value,Certified Clinical Nurse Specialist,NY,1,1153.0,69.365724198
+High Volume Low Value,Undersea and Hyperbaric Medicine,CA,3,4074.3333333333335,74.0808850913812
+High Volume High Value,Clinical Cardiac Electrophysiology,TX,116,4642.198275862069,156.0234365399865
+Low Volume Low Value,Independent Diagnostic Testing Facility (IDTF),TX,36,257.1111111111111,70.9407639964945
+Low Volume High Value,Thoracic Surgery,TX,153,213.359477124183,371.93815788566184
+High Volume High Value,Medical Oncology,TX,6,17067.166666666668,115.26990364382544
+High Volume Low Value,General Surgery,FL,37,2606.9189189189187,71.54742673256446
+Low Volume High Value,Ambulance Service Provider,FL,3,793.2666666666668,216.35835542959998
+High Volume High Value,Ambulance Service Provider,CA,236,32344.497881355932,309.9925719853668
+Low Volume High Value,General Surgery,NY,665,285.3654135338346,203.66351716779016
+Low Volume High Value,Ambulatory Surgical Center,PA,106,475.99056603773585,773.8437886132184
+Low Volume Low Value,Neurosurgery,TX,100,165.11,74.6765927048714
+High Volume Low Value,Radiation Oncology,PA,45,2077.6444444444446,87.39594237372032
+Low Volume High Value,Obstetrics & Gynecology,PA,42,320.14285714285717,153.66932445457581
+Low Volume High Value,Opioid Treatment Program,TX,14,425.57142857142856,179.2027099927857
+High Volume Low Value,Advanced Heart Failure and Transplant Cardiology,NY,7,3244.5714285714284,74.65839629010149
+High Volume High Value,Undefined Physician type,CA,17,8130.823529411765,199.92856405862926
+High Volume Low Value,Cardiac Surgery,CA,5,2522.2,80.0400321484865
+Low Volume Low Value,Geriatric Psychiatry,TX,3,421.6666666666667,79.90645700415554
+Low Volume Low Value,Audiologist,FL,353,339.1586402266289,26.908797082462954
+Low Volume High Value,Family Practice,NY,215,295.0604651162791,120.32623897105961
+Low Volume Low Value,Hand Surgery,FL,43,473.90697674418607,61.492966914009315
+Low Volume High Value,Pulmonary Disease,TX,92,327.7608695652174,129.93658668526
+High Volume Low Value,Slide Preparation Facility,CA,3,13489.333333333334,43.69234684083333
+High Volume Low Value,Interventional Cardiology,NY,21,2843.8571428571427,75.32509360894439
+Low Volume Low Value,Oral Surgery (Dentist only),TX,36,165.36111111111111,52.7901392203471
+Low Volume Low Value,Psychiatry,NY,1266,285.66824644549763,69.89392914592953
+Low Volume Low Value,Physical Medicine and Rehabilitation,TX,218,415.41284403669727,76.19682075034845
+Low Volume Low Value,Interventional Cardiology,FL,34,579.1176470588235,76.48371701708422
+Low Volume High Value,Gastroenterology,TX,392,519.8163265306123,112.3926733325623
+Low Volume High Value,Otolaryngology,NY,125,450.232,164.72487221280232
+High Volume High Value,Clinical Laboratory,FL,29,27279.310344827587,274.4505877611242
+Low Volume High Value,Certified Clinical Nurse Specialist,PA,1,433.0,104.71228637
+High Volume High Value,General Practice,PA,2,2961.5,628.2533973177583
+Low Volume Low Value,Physician Assistant,TX,3924,254.34926095820592,55.513771539140464
+Low Volume High Value,Nurse Practitioner,NY,485,123.84536082474227,123.65785380559791
+Low Volume Low Value,Mass Immunizer Roster Biller,NY,772,389.0766839378239,39.60675492052685
+High Volume Low Value,Mass Immunizer Roster Biller,NY,1024,3019.8125,51.40895274239456
+Low Volume Low Value,Critical Care (Intensivists),PA,109,386.3302752293578,81.76056849653946
+Low Volume Low Value,Mass Immunizer Roster Biller,PA,598,484.39130434782606,40.02336896728662
+High Volume High Value,Family Practice,PA,44,7846.954545454545,114.33964605881668
+High Volume Low Value,Otolaryngology,NY,193,2428.1968911917097,80.84353681556284
+High Volume Low Value,Neurology,FL,175,12376.48,83.05854048151373
+High Volume High Value,Oral Surgery (Dentist only),CA,11,3694.818181818182,352.17852624840106
+Low Volume High Value,Diagnostic Radiology,TX,28,412.2142857142857,220.96819768436293
+High Volume High Value,Hospice and Palliative Care,FL,2,3596.5,106.02898122945834
+High Volume High Value,Pain Management,PA,16,6062.21875,139.28364465852303
+Low Volume Low Value,Surgical Oncology,NY,25,183.88,82.53246999998238
+Low Volume Low Value,Hospice and Palliative Care,PA,66,292.93939393939394,83.18014915240028
+Low Volume High Value,Undefined Physician type,NY,5,183.2,204.98737889865552
+High Volume Low Value,Clinical Laboratory,PA,48,148662.24375,33.82399747680943
+Low Volume Low Value,Vascular Surgery,TX,76,378.69736842105266,73.13125087797559
+High Volume Low Value,Ambulance Service Provider,PA,13,6274.223076923076,94.90562072300382
+High Volume Low Value,Nurse Practitioner,PA,486,2438.3024691358023,60.166514747102035
+High Volume High Value,Nephrology,TX,399,2699.750877192983,137.0623460128452
+Low Volume High Value,Emergency Medicine,CA,2149,374.88971614704514,116.34755418143033
+Low Volume Low Value,Orthopedic Surgery,TX,426,352.03051643192487,60.442146800555925
+Low Volume High Value,Dermatology,NY,49,406.3265306122449,171.9705081231029
+Low Volume Low Value,Licensed Clinical Social Worker,PA,526,225.50399239543728,71.2461095124535
+High Volume High Value,Vascular Surgery,NY,108,3065.5,320.3351149844725
+Low Volume Low Value,Infectious Disease,CA,128,292.2421875,80.24808351360485
+High Volume Low Value,General Surgery,CA,44,3273.6136363636365,77.28908991618421
+Low Volume Low Value,Centralized Flu,CA,121,637.1074380165289,43.607541483427525
+High Volume High Value,Allergy/ Immunology,CA,2,11707.5,108.67605670634055
+Low Volume Low Value,Undersea and Hyperbaric Medicine,NY,8,489.0,57.84243496971989
+Low Volume Low Value,Obstetrics & Gynecology,TX,1154,117.657712305026,53.67884769406587
+High Volume High Value,Radiation Oncology,PA,134,2109.0373134328356,144.98978300048117
+High Volume High Value,Ambulatory Surgical Center,CA,213,8245.964788732394,1135.2730785387078
+Low Volume Low Value,Speech Language Pathologist,FL,80,345.025,68.2239131189967
+Low Volume Low Value,Interventional Cardiology,CA,36,357.52777777777777,68.99163431349719
+Low Volume Low Value,Interventional Cardiology,TX,48,460.25,71.82485025559039
+High Volume Low Value,Speech Language Pathologist,TX,11,1499.090909090909,67.77798028744394
+High Volume High Value,Nurse Practitioner,NY,19,2500.315789473684,137.96797611822086
+High Volume Low Value,Audiologist,PA,8,1293.875,30.034086728968333
+Low Volume High Value,General Practice,PA,3,222.0,212.74250511738887
+Low Volume Low Value,Occupational Therapist in Private Practice,CA,272,496.2720588235294,30.693338331536278
+Low Volume Low Value,Neurology,FL,342,377.4298245614035,82.65302058255244
+High Volume Low Value,Gynecological Oncology,TX,12,18894.666666666668,60.25561689189875
+High Volume Low Value,Pediatric Medicine,NY,11,13467.636363636364,52.65141358106883
+Low Volume Low Value,Gynecological Oncology,NY,27,163.92592592592592,69.43299939964335
+High Volume High Value,Infectious Disease,PA,14,1616.357142857143,109.304750179962
+Low Volume High Value,Allergy/ Immunology,FL,7,33.42857142857143,106.64136152571427
+High Volume High Value,Addiction Medicine,TX,1,1725.0,101.37381794811111
+Low Volume Low Value,Neurology,NY,420,282.93333333333334,77.609249729656
+High Volume Low Value,Occupational Therapist in Private Practice,CA,331,3092.7069486404835,33.67041759634191
+Low Volume High Value,Nurse Practitioner,TX,594,120.17676767676768,127.53651330143208
+Low Volume High Value,Neurology,NY,570,355.85263157894735,134.28829898422796
+High Volume Low Value,Rheumatology,FL,231,77406.99134199134,50.804852268182294
+Low Volume High Value,Hematology-Oncology,PA,95,417.9578947368421,112.30404666172966
+Low Volume Low Value,Orthopedic Surgery,PA,272,356.91911764705884,61.62542950642462
+High Volume High Value,Interventional Pain Management,NY,26,8998.576923076924,139.3045011746465
+Low Volume High Value,Sports Medicine,PA,3,505.6666666666667,132.7001460660025
+Low Volume Low Value,Home Infusion Therapy Services,FL,2,378.0,19.45901658225
+Low Volume High Value,Osteopathic Manipulative Medicine,NY,7,235.28571428571428,133.86632563579286
+High Volume Low Value,Peripheral Vascular Disease,CA,2,1962.0,53.309437560746375
+Low Volume Low Value,General Surgery,CA,482,185.04149377593362,77.66162130863816
+Low Volume Low Value,Cardiology,NY,372,461.01747311827955,63.96514791289519
+High Volume Low Value,Gastroenterology,CA,87,2700.0459770114944,88.91714749110834
+Low Volume Low Value,Clinical Laboratory,NY,20,312.1,43.98216461304476
+Low Volume High Value,Sleep Medicine,NY,12,281.1666666666667,145.34069975156365
+High Volume High Value,Gastroenterology,FL,302,2675.3476821192053,119.98876572083412
+Low Volume Low Value,Physical Therapist in Private Practice,TX,1088,502.53308823529414,26.138443148714973
+Low Volume High Value,"Psychologist, Clinical",NY,299,360.30434782608694,119.83664142334635
+High Volume Low Value,Anesthesiology,PA,42,4741.190476190476,75.11014253153544
+Low Volume High Value,Colorectal Surgery (Proctology),PA,43,483.2325581395349,146.38137526565552
+Low Volume High Value,Mammography Center,CA,1,319.0,150.00442006
+High Volume High Value,Anesthesiology,TX,66,5285.469696969697,141.415258998523
+Low Volume Low Value,Geriatric Psychiatry,CA,10,576.8,88.60631884040212
+High Volume Low Value,Interventional Radiology,NY,25,3336.64,50.652797734339686
+Low Volume Low Value,Adult Congenital Heart Disease,CA,5,480.2,50.71379675180221
+High Volume Low Value,Pharmacy,CA,49,210674.91836734695,39.24646351144831
+Low Volume High Value,Diagnostic Radiology,NY,83,406.5421686746988,204.3184793080719
+Low Volume High Value,Obstetrics & Gynecology,NY,139,236.97841726618705,143.54735515091852
+Low Volume Low Value,Interventional Pain Management,PA,19,499.94736842105266,65.08174184001264
+High Volume High Value,Plastic and Reconstructive Surgery,NY,14,2749.5,259.88605450876923
+Low Volume High Value,Pain Management,FL,14,437.35714285714283,143.161399519939
+Low Volume High Value,Ambulance Service Provider,TX,54,632.7296296296298,243.42838358482453
+Low Volume High Value,Endocrinology,PA,23,337.5217391304348,110.18396935290184
+High Volume High Value,Obstetrics & Gynecology,CA,30,4585.266666666666,168.62868345948465
+High Volume High Value,Radiation Therapy Center,NY,1,2985.0,239.13935711668
+High Volume Low Value,Cardiology,FL,731,4246.98440492476,72.14705129425829
+High Volume Low Value,Ophthalmology,PA,177,2316.090395480226,78.81288877008902
+Low Volume High Value,Certified Registered Nurse Anesthetist (CRNA),TX,1444,119.43144044321329,144.7089721081143
+High Volume High Value,Plastic and Reconstructive Surgery,TX,8,3387.625,185.83699640624775
+High Volume High Value,Hematology-Oncology,FL,14,3209.6428571428573,109.76927138496683
+Low Volume High Value,Advanced Heart Failure and Transplant Cardiology,CA,2,378.0,144.74041315836666
+High Volume High Value,Anesthesiology,PA,15,6200.133333333333,135.9628901955679
+Low Volume Low Value,Anesthesiology,NY,1012,155.59930830039525,70.58772096283255
+Low Volume Low Value,"Psychologist, Clinical",PA,317,310.8517350157729,76.0992965833825
+Low Volume Low Value,Colorectal Surgery (Proctology),PA,39,190.35897435897436,80.88136289604456
+High Volume High Value,Pulmonary Disease,NY,52,3096.2884615384614,116.92368282908653
+Low Volume Low Value,Sports Medicine,TX,31,342.51612903225805,61.425186330162504
+Low Volume High Value,General Practice,NY,28,246.82142857142858,203.65770257168347
+Low Volume High Value,Endocrinology,CA,86,327.4651162790698,117.51293200727945
+High Volume Low Value,Hand Surgery,CA,28,2602.75,77.40701390654306
+Low Volume High Value,Advanced Heart Failure and Transplant Cardiology,FL,7,514.8571428571429,116.05390079774124
+High Volume High Value,Preventive Medicine,TX,1,1930.0,112.332163214
+High Volume Low Value,Intensive Cardiac Rehabilitation,NY,1,1459.0,89.824609757
+Low Volume Low Value,Occupational Therapist in Private Practice,PA,175,478.1714285714286,30.65097500432132
+High Volume High Value,Emergency Medicine,CA,129,1232.7364341085272,108.84881078482744
+High Volume Low Value,Ophthalmology,FL,270,3086.67037037037,78.67057429805071
+Low Volume Low Value,Interventional Radiology,PA,58,423.01724137931035,65.63694974838823
+High Volume Low Value,Vascular Surgery,PA,38,5836.5526315789475,68.46092985506775
+High Volume High Value,Independent Diagnostic Testing Facility (IDTF),FL,45,32738.224444444448,171.727149750938
+High Volume Low Value,Licensed Clinical Social Worker,TX,46,2185.8478260869565,62.16819465868071
+High Volume High Value,Pathology,NY,8,22243.625,175.65830333652758
+High Volume High Value,Colorectal Surgery (Proctology),FL,6,1514.1666666666667,137.41913437789222
+High Volume Low Value,Sleep Medicine,FL,6,1925.0,80.61196755723849
+High Volume High Value,Sleep Medicine,CA,18,2180.277777777778,179.06471076175922
+High Volume Low Value,Surgical Oncology,TX,1,1148.0,81.48306378288889
+High Volume High Value,Pediatric Medicine,CA,5,1780.2,133.71852465740344
+High Volume Low Value,Preventive Medicine,FL,4,2166.0,64.08567033402761
+Low Volume Low Value,Slide Preparation Facility,CA,1,42.0,52.026190476
+Low Volume Low Value,Certified Registered Nurse Anesthetist (CRNA),CA,381,82.16272965879266,74.79141499095735
+Low Volume Low Value,Obstetrics & Gynecology,NY,1278,182.63302034428796,58.03134090869951
+High Volume Low Value,Hematology-Oncology,NY,209,57418.56459330144,54.10572231570744
+Low Volume Low Value,Hematology,TX,16,467.4375,77.72515133323925
+Low Volume Low Value,Hematopoietic Cell Transplantation and Cellular Therapy,TX,12,437.75,85.61732502464999
+Low Volume Low Value,Dentist,CA,7,175.42857142857142,59.54116575778231
+Low Volume High Value,Pathology,PA,3,342.0,138.88172139473332
+Low Volume High Value,Sleep Medicine,TX,4,409.75,167.99887567327292
+High Volume Low Value,Rheumatology,NY,155,28497.465806451615,53.497564451917434
+High Volume Low Value,Pain Management,TX,89,4638.811235955056,77.8734793225504
+High Volume Low Value,"Psychologist, Clinical",NY,73,2035.96301369863,82.72128236359902
+Low Volume High Value,Gynecological Oncology,NY,51,264.98039215686276,201.54573749254413
+High Volume Low Value,Speech Language Pathologist,PA,29,2440.6206896551726,68.39693511966627
+Low Volume High Value,Medical Toxicology,NY,7,182.71428571428572,113.17834296555237
+High Volume High Value,Nurse Practitioner,CA,60,5643.283333333334,161.55794178923915
+High Volume High Value,Radiation Therapy Center,TX,1,6313.0,221.72105849524166
+High Volume Low Value,Home Infusion Therapy Services,TX,2,5542.5,24.5929662029
+Low Volume Low Value,Physician Assistant,PA,4839,230.03719776813392,59.41341412954449
+Low Volume Low Value,Mass Immunizer Roster Biller,FL,485,487.50515463917526,44.40988936708132
+High Volume High Value,Urology,TX,146,10085.349315068494,136.2115822389251
+High Volume High Value,Ambulance Service Provider,FL,174,33087.67183908046,387.0078376700977
+Low Volume High Value,Anesthesiology Assistant,FL,96,59.854166666666664,140.65828903930262
+Low Volume Low Value,Hematopoietic Cell Transplantation and Cellular Therapy,PA,17,378.70588235294116,88.78438755306115
+High Volume Low Value,Interventional Pain Management,NY,22,4564.454545454545,79.3125094063476
+High Volume High Value,Clinical Cardiac Electrophysiology,PA,73,3733.082191780822,151.94960646058047
+Low Volume High Value,Portable X-Ray Supplier,CA,1,31.0,101.39033333500001
+Low Volume Low Value,Plastic and Reconstructive Surgery,CA,130,143.48461538461538,73.67438034098627
+Low Volume High Value,Obstetrics & Gynecology,CA,153,161.49019607843138,131.69918303391452
+Low Volume Low Value,Audiologist,CA,377,292.9761273209549,25.32766707659207
+High Volume Low Value,Centralized Flu,TX,488,2317.848360655738,54.61146799962474
+High Volume Low Value,Cardiac Surgery,TX,2,4996.5,71.49482706615001
+Low Volume Low Value,Centralized Flu,FL,495,588.6949494949495,41.226383966058044
+Low Volume Low Value,Hospitalist,FL,627,576.7846889952153,84.97385994476458
+High Volume Low Value,Physical Medicine and Rehabilitation,FL,261,3743.3513409961683,78.51398977381366
+Low Volume Low Value,General Practice,CA,312,325.32371794871796,60.79657424183015
+Low Volume Low Value,Thoracic Surgery,PA,36,178.33333333333334,69.56700295283987
+Low Volume Low Value,Interventional Pain Management,FL,29,508.0,69.00973930174695
+High Volume High Value,Optometry,PA,11,2262.818181818182,130.94694312742487
+Low Volume Low Value,Cardiac Surgery,NY,4,91.25,75.85898799854166
+High Volume High Value,Gynecological Oncology,NY,2,1119.5,223.96286829625706
+High Volume High Value,General Surgery,CA,65,3074.630769230769,202.46828317637593
+High Volume High Value,Cardiology,NY,431,4410.167517401392,145.56094862973356
+High Volume High Value,Ophthalmology,NY,591,5102.728087986463,150.06182381764165
+Low Volume High Value,Dermatology,CA,51,521.7254901960785,170.75969869180784
+High Volume High Value,Interventional Radiology,TX,11,5497.272727272727,378.6990009467387
+High Volume High Value,Orthopedic Surgery,PA,369,3615.031978319783,187.47939494360702
+High Volume Low Value,Otolaryngology,TX,192,3188.625,65.37419448944105
+High Volume Low Value,"Psychologist, Clinical",TX,122,2090.688524590164,75.616945756234
+High Volume Low Value,Anesthesiology,FL,60,3883.258333333333,75.12578562063366
+High Volume Low Value,Advanced Heart Failure and Transplant Cardiology,FL,16,2180.6875,70.33252644951037
+High Volume Low Value,Hospice and Palliative Care,TX,2,3893.5,84.58182577375001
+Low Volume High Value,Medical Oncology,CA,78,348.02564102564105,117.7146558225228
+High Volume Low Value,Vascular Surgery,TX,13,1887.6923076923076,80.65905742955432
+High Volume High Value,Medical Oncology,NY,18,1444.1666666666667,115.58245655269535
+Low Volume High Value,Hematology,PA,12,303.75,106.17744568199087
+High Volume High Value,Ophthalmology,PA,358,5673.870391061453,156.17539583351424
+Low Volume High Value,Hospitalist,TX,181,331.0828729281768,123.57541260035242
+Low Volume High Value,Hematology-Oncology,NY,126,489.22222222222223,116.45908352846597
+Low Volume Low Value,Pulmonary Disease,NY,298,468.72147651006713,71.51011618151311
+Low Volume High Value,Psychiatry,PA,83,184.66265060240963,119.51590748079975
+High Volume High Value,Undersea and Hyperbaric Medicine,TX,2,51752.0,155.03240464899392
+High Volume Low Value,Cardiac Surgery,FL,4,3510.25,82.56625605591907
+High Volume Low Value,Undefined Physician type,TX,3,2170.6666666666665,77.96441792723537
+Low Volume Low Value,All Other Suppliers,PA,2,202.0,40.976116122899995
+High Volume High Value,Physician Assistant,NY,27,2569.5185185185187,124.36369090832943
+High Volume High Value,Advanced Heart Failure and Transplant Cardiology,TX,1,2693.0,146.15851438224064
+Low Volume Low Value,Pulmonary Disease,FL,168,551.0803571428571,70.75170446499466
+Low Volume Low Value,Surgical Oncology,FL,21,220.8095238095238,83.0962850066592
+High Volume High Value,Podiatry,CA,30,7138.066666666667,119.26350802561174
+High Volume Low Value,Urology,PA,150,2972.766666666667,78.6120131755122
+Low Volume High Value,Physical Medicine and Rehabilitation,NY,120,384.48333333333335,120.38464014764683
+Low Volume High Value,Dentist,NY,4,396.5,554.3305418985962
+High Volume Low Value,Clinical Cardiac Electrophysiology,NY,24,2977.875,75.49507684440539
+Low Volume Low Value,Anesthesiology,PA,1146,205.5759162303665,69.66466332295535
+High Volume High Value,Interventional Pain Management,FL,111,9160.673873873875,137.61032567269143
+Low Volume Low Value,Hospice and Palliative Care,FL,45,279.35555555555555,87.10875630480251
+High Volume Low Value,Undefined Physician type,NY,1,5730.0,78.51740249645833
+Low Volume Low Value,Micrographic Dermatologic Surgery,CA,1,318.0,70.85268420572858
+Low Volume Low Value,Licensed Clinical Social Worker,NY,1223,312.52412101390024,66.7111855557255
+Low Volume High Value,Hospitalist,CA,531,403.9736346516008,119.75096036999783
+Low Volume High Value,Nephrology,FL,93,563.5913978494624,133.31728000024665
+High Volume Low Value,Family Practice,PA,1065,2256.8098591549297,63.251304876274254
+High Volume High Value,Vascular Surgery,PA,19,1563.421052631579,149.17316734225457
+Low Volume High Value,Clinical Cardiac Electrophysiology,CA,7,369.0,140.67160505279858
+Low Volume Low Value,Maxillofacial Surgery,PA,46,126.3913043478261,61.36148483222638
+Low Volume Low Value,Neuropsychiatry,CA,3,203.0,63.74839059065001
+Low Volume Low Value,Medical Toxicology,PA,2,219.0,94.34423344991998
+High Volume Low Value,Diagnostic Radiology,TX,1518,5229.416007905138,38.728693788615054
+Low Volume Low Value,General Surgery,FL,450,225.29555555555555,78.03725885747029
+Low Volume High Value,Certified Registered Nurse Anesthetist (CRNA),NY,469,76.89978678038379,150.39815022128056
+High Volume High Value,Neurosurgery,PA,8,1277.5,377.98465911490905
+Low Volume High Value,Hematopoietic Cell Transplantation and Cellular Therapy,PA,11,386.0,105.90497652232649
+High Volume High Value,Endocrinology,TX,3,1853.6666666666667,137.08132518097221
+Low Volume Low Value,Medical Oncology,PA,116,455.0431034482759,84.11860346559928
+Low Volume Low Value,Optometry,NY,1086,291.8241252302026,61.09218647540043
+Low Volume Low Value,Independent Diagnostic Testing Facility (IDTF),FL,24,361.6666666666667,72.35935804500899
+High Volume High Value,Nephrology,PA,160,1892.31875,125.17249952251186
+Low Volume High Value,Podiatry,NY,28,267.82142857142856,130.5923509843235
+Low Volume Low Value,Neurosurgery,PA,86,184.56976744186048,71.85029348239077
+Low Volume Low Value,Cardiac Surgery,PA,7,199.85714285714286,77.50429652578828
+Low Volume High Value,Geriatric Medicine,FL,13,419.0,131.96102259807205
+Low Volume Low Value,Unknown Supplier/Provider Specialty,CA,1,132.0,80.75411996283334
+Low Volume Low Value,"Psychologist, Clinical",CA,520,363.5057692307692,75.07904700488636
+Low Volume Low Value,Neurology,TX,366,357.7704918032787,79.75537076119477
+Low Volume High Value,Endocrinology,FL,40,283.625,113.66295908698916
+Low Volume Low Value,Hospice and Palliative Care,TX,84,353.7857142857143,83.97401297548377
+High Volume Low Value,Obstetrics & Gynecology,FL,59,2360.1525423728813,61.80808343561507
+Low Volume High Value,Addiction Medicine,CA,5,309.2,133.95460794345001
+Low Volume Low Value,Certified Clinical Nurse Specialist,CA,14,262.85714285714283,66.25168257882856
+High Volume High Value,Interventional Radiology,PA,10,4504.1,536.1156510367093
+Low Volume High Value,Interventional Radiology,CA,32,455.8125,153.2298620318992
+High Volume Low Value,Opioid Treatment Program,CA,10,7046.4,32.1512472756
+Low Volume High Value,Maxillofacial Surgery,TX,6,153.0,152.34828372034167
+Low Volume High Value,Pharmacy,CA,2,585.0,314.6901836431667
+High Volume High Value,Cardiac Surgery,CA,7,3584.5714285714284,382.3022895684639
+Low Volume High Value,Neurosurgery,PA,141,353.822695035461,236.32478740373037
+Low Volume Low Value,Radiation Oncology,TX,34,302.20588235294116,71.83656432617461
+Low Volume High Value,Cardiac Surgery,PA,40,180.875,467.60317088271984
+High Volume Low Value,Sports Medicine,TX,29,3148.793103448276,65.09934872335334
+Low Volume Low Value,Urology,PA,137,470.6350364963504,70.63390134567776
+High Volume High Value,Vascular Surgery,CA,122,3309.75,396.43100717498953
+High Volume High Value,Podiatry,FL,30,4070.8333333333335,143.21807290183548
+Low Volume Low Value,Portable X-Ray Supplier,TX,2,819.0,38.93265363121111
+High Volume High Value,Sleep Medicine,FL,2,3490.0,143.11111303616667
+Low Volume Low Value,Licensed Clinical Social Worker,CA,577,281.96360485268633,78.30378927024722
+High Volume Low Value,Allergy/ Immunology,CA,207,8488.830917874397,51.15950807411425
+Low Volume High Value,Pediatric Medicine,NY,26,78.26923076923077,155.39494807197067
+High Volume Low Value,Hand Surgery,FL,36,3115.6388888888887,70.95684608954961
+Low Volume High Value,Surgical Oncology,FL,42,225.47619047619048,209.08278064731118
+High Volume Low Value,Psychiatry,TX,87,2503.8275862068967,78.95628115619449
+High Volume Low Value,Sports Medicine,CA,30,5567.266666666666,66.76931102108462
+High Volume High Value,Geriatric Medicine,NY,5,2124.2,111.07860148315847
+High Volume Low Value,Endocrinology,FL,187,7688.088235294118,57.26070657405018
+Low Volume Low Value,Certified Registered Nurse Anesthetist (CRNA),FL,982,96.989816700611,75.78704067493484
+Low Volume Low Value,"Psychologist, Clinical",TX,311,371.7331189710611,72.65832554120229
+Low Volume High Value,Cardiology,TX,45,456.77777777777777,152.38101349912625
+High Volume High Value,Physician Assistant,PA,13,2960.923076923077,149.11160272205936
+Low Volume Low Value,Vascular Surgery,CA,86,316.36046511627904,58.83064657889495
+Low Volume High Value,Advanced Heart Failure and Transplant Cardiology,NY,29,516.7931034482758,121.22244774896319
+Low Volume Low Value,Preventive Medicine,NY,7,193.0,81.11403523656429
+Low Volume High Value,Preventive Medicine,TX,1,540.0,108.34665418649999
+High Volume Low Value,Psychiatry,NY,179,1878.2849162011173,81.95500344338237
+Low Volume Low Value,Pathology,FL,193,500.5284974093264,31.818706758631077
+Low Volume Low Value,Pain Management,CA,68,446.6029411764706,78.97701584053152
+High Volume High Value,Psychiatry,PA,7,1923.7142857142858,110.34771132489048
+High Volume High Value,Speech Language Pathologist,NY,8,1838.125,118.67771142057292
+Low Volume Low Value,Hand Surgery,NY,28,385.48214285714283,69.38933056421055
+Low Volume High Value,Critical Care (Intensivists),NY,257,276.73929961089493,137.05090203317638
+Low Volume Low Value,Otolaryngology,CA,287,395.37630662020905,73.68569683488896
+High Volume Low Value,Sleep Medicine,CA,7,1937.7142857142858,72.17046419111512
+Low Volume High Value,Pulmonary Disease,FL,109,330.3211009174312,123.20010153887154
+Low Volume Low Value,Medical Genetics and Genomics,NY,2,74.0,57.71742279918334
+Low Volume Low Value,Otolaryngology,FL,172,434.19767441860466,73.48766273590284
+High Volume High Value,Plastic and Reconstructive Surgery,PA,8,2474.375,207.13064171127536
+Low Volume High Value,Pediatric Medicine,TX,4,133.25,116.81755093805
+Low Volume Low Value,Podiatry,CA,522,448.91379310344826,62.47349764326238
+High Volume High Value,Interventional Cardiology,CA,129,3978.0387596899227,154.44314481873135
+High Volume High Value,Orthopedic Surgery,FL,555,5697.645405405406,203.24223817162843
+Low Volume Low Value,Geriatric Medicine,CA,76,399.0657894736842,75.44620450190621
+Low Volume High Value,Osteopathic Manipulative Medicine,CA,14,279.2142857142857,117.55568574183897
+Low Volume Low Value,Preventive Medicine,PA,7,154.85714285714286,54.1240063362381
+High Volume High Value,Endocrinology,FL,5,1479.4,391.64749716554354
+High Volume High Value,Mass Immunizer Roster Biller,NY,2,5049.5,133.8192270824303
+Low Volume High Value,Family Practice,PA,183,315.72677595628414,115.35823768956196
+High Volume Low Value,Chiropractic,CA,329,1720.0425531914893,29.122599549214296
+High Volume Low Value,Dermatology,PA,276,3873.019927536232,69.91188765996391
+Low Volume Low Value,Nephrology,TX,117,444.5128205128205,79.73332571537101
+High Volume Low Value,General Surgery,NY,30,32430.866666666665,72.28927204159466
+Low Volume High Value,Rheumatology,TX,39,230.23076923076923,117.18638422207593
+High Volume High Value,Undefined Physician type,FL,2,2995.5,168.0329472473409
+Low Volume Low Value,Undefined Physician type,FL,5,335.2,69.47268130157833
+High Volume Low Value,Cardiology,TX,662,3618.334894259819,69.99667973366648
+High Volume Low Value,Internal Medicine,NY,2201,4075.9763289413904,65.80102760252514
+Low Volume Low Value,Registered Dietitian or Nutrition Professional,PA,112,174.49107142857142,30.581314207652532
+High Volume Low Value,Interventional Radiology,FL,62,10292.59677419355,61.515368459711915
+Low Volume Low Value,Interventional Radiology,CA,153,234.72549019607843,38.631603319174985
+Low Volume Low Value,Certified Nurse Midwife,TX,9,59.888888888888886,58.48525203348888
+Low Volume Low Value,Gynecological Oncology,PA,19,202.21052631578948,79.5192428656178
+High Volume Low Value,Registered Dietitian or Nutrition Professional,FL,6,1278.8333333333333,27.087722787916665
+High Volume Low Value,Ambulance Service Provider,NY,2,11854.75,48.687638392100006
+Low Volume Low Value,Podiatry,FL,418,477.5933014354067,58.2296329387844
+High Volume Low Value,Gastroenterology,NY,81,5338.6543209876545,81.85521883655449
+Low Volume High Value,Neurology,FL,384,366.9505208333333,127.01591560756474
+High Volume High Value,Rheumatology,NY,8,12147.875,120.89900302926728
+Low Volume High Value,Pulmonary Disease,NY,179,348.24581005586595,134.36187915752535
+Low Volume Low Value,Oral Surgery (Dentist only),CA,34,84.23529411764706,65.61189491129011
+High Volume Low Value,Geriatric Medicine,TX,33,2369.3333333333335,72.32230124047796
+Low Volume High Value,Interventional Pain Management,CA,16,423.375,126.62010300613115
+High Volume High Value,Nuclear Medicine,CA,22,7653.045454545455,285.76244310012595
+High Volume High Value,Optometry,FL,6,3595.3333333333335,127.70146324969902
+High Volume High Value,Geriatric Medicine,FL,6,2676.6666666666665,105.515067209977
+High Volume Low Value,Ophthalmology,CA,296,2782.358108108108,77.86546343028525
+Low Volume High Value,Gastroenterology,NY,705,433.50921985815603,136.92741151971643
+High Volume Low Value,Rheumatology,TX,192,58219.503124999996,41.513507121860805
+High Volume Low Value,Pulmonary Disease,PA,172,2075.0813953488373,69.79326757689364
+Low Volume Low Value,Hematology,FL,20,364.85,82.39377175024211
+High Volume Low Value,Portable X-Ray Supplier,NY,19,24967.36842105263,27.718249359243515
+High Volume High Value,Certified Registered Nurse Anesthetist (CRNA),CA,7,1434.5714285714287,146.76497212141936
+High Volume Low Value,Certified Registered Nurse Anesthetist (CRNA),CA,4,1752.75,91.32170736501061
+Low Volume Low Value,Internal Medicine,PA,2526,414.5158353127474,73.83653940094356
+Low Volume Low Value,Gastroenterology,FL,206,391.77669902912623,88.74512511122072
+High Volume High Value,Independent Diagnostic Testing Facility (IDTF),CA,86,18450.92558139535,205.93332971051862
+Low Volume Low Value,Dermatology,PA,133,435.54135338345867,57.19288506223111
+Low Volume Low Value,Pain Management,PA,50,438.86,72.4688225784421
+High Volume High Value,Emergency Medicine,FL,114,1384.8859649122808,110.3210299231726
+Low Volume Low Value,Certified Nurse Midwife,FL,24,55.083333333333336,50.43558195028584
+High Volume Low Value,Osteopathic Manipulative Medicine,CA,21,4692.857142857143,72.22065725608508
+Low Volume Low Value,Portable X-Ray Supplier,CA,5,486.2,57.22432729600964
+Low Volume High Value,Dentist,CA,13,216.69230769230768,516.9706893579636
+High Volume Low Value,Certified Clinical Nurse Specialist,FL,2,2210.0,51.722968658499994
+High Volume Low Value,Diagnostic Radiology,CA,1790,7575.746033519553,46.83807856575154
+High Volume High Value,"Psychologist, Clinical",NY,50,1635.5,112.61897581730115
+High Volume Low Value,Podiatry,TX,441,2399.671201814059,56.02422307844839
+High Volume Low Value,Podiatry,FL,780,2936.8166666666666,59.37135924986442
+High Volume High Value,Geriatric Medicine,TX,1,1148.0,106.15202087725002
+Low Volume High Value,Independent Diagnostic Testing Facility (IDTF),FL,80,264.65625,242.8407922438414
+Low Volume High Value,Colorectal Surgery (Proctology),FL,79,334.44303797468353,144.33105167998534
+High Volume Low Value,Geriatric Psychiatry,CA,2,1321.0,67.077901174975
+Low Volume Low Value,Medical Oncology,TX,105,380.8952380952381,80.53355085933177
+High Volume Low Value,Mass Immunizer Roster Biller,PA,1058,2534.407655954631,50.32394176333103
+High Volume Low Value,Neurology,CA,170,11829.064705882352,80.15204486311251
+Low Volume High Value,Neurology,CA,612,342.9967320261438,133.21053512051333
+Low Volume Low Value,Gastroenterology,CA,229,365.6768558951965,85.06654730146381
+Low Volume High Value,Radiation Oncology,FL,56,567.8571428571429,164.19205138127583
+Low Volume Low Value,Registered Dietitian or Nutrition Professional,FL,71,214.26760563380282,28.969597957186625
+Low Volume High Value,Ambulatory Surgical Center,FL,188,395.6489361702128,1259.8721470537146
+High Volume Low Value,Neurosurgery,FL,3,6471.666666666667,76.52797799229815
+High Volume High Value,Interventional Radiology,NY,25,11102.24,659.6290026911802
+Low Volume Low Value,Osteopathic Manipulative Medicine,PA,17,314.4117647058824,60.24125836849877
+Low Volume High Value,Allergy/ Immunology,TX,8,147.25,119.84453490807292
+Low Volume Low Value,Registered Dietitian or Nutrition Professional,NY,131,218.35114503816794,33.86304208560052
+Low Volume Low Value,Nephrology,PA,128,407.421875,80.17242154026911
+High Volume High Value,Undefined Physician type,NY,2,1108.0,247.7330819027709
+Low Volume Low Value,Cardiac Surgery,FL,5,363.8,80.59122200130167
+Low Volume Low Value,Vascular Surgery,PA,105,481.37142857142857,64.58667237755718
+High Volume Low Value,Mass Immunizer Roster Biller,FL,949,5204.7692307692305,59.259640588080636
+Low Volume Low Value,Certified Nurse Midwife,NY,46,65.0,47.432799807757064
+High Volume High Value,Critical Care (Intensivists),CA,28,1672.7142857142858,114.48750838479002
+Low Volume High Value,Nuclear Medicine,PA,7,458.7142857142857,155.56517325967368
+Low Volume High Value,Psychiatry,FL,183,299.58469945355193,117.68264358092222
+High Volume Low Value,Physician Assistant,FL,969,3678.764189886481,57.29273497245289
+Low Volume Low Value,Chiropractic,FL,1483,371.7107215104518,25.31316663206608
+Low Volume High Value,Hospice and Palliative Care,NY,62,322.88709677419354,119.32095852616911
+Low Volume High Value,Interventional Cardiology,NY,57,557.2280701754386,230.22471692151566
+Low Volume Low Value,Neurology,CA,422,322.4620853080569,80.15678653337609
+High Volume Low Value,Licensed Clinical Social Worker,CA,9,1424.111111111111,63.011000937079444
+High Volume Low Value,Geriatric Psychiatry,PA,3,2422.3333333333335,84.59104064562221
+Low Volume High Value,Nurse Practitioner,PA,332,110.03915662650603,126.0182557800857
+Low Volume High Value,Gastroenterology,FL,447,517.65548098434,118.94861934172111
+High Volume Low Value,General Practice,CA,172,4724.136046511628,64.4581156087334
+Low Volume Low Value,Ophthalmology,CA,476,330.2857142857143,63.803917540387076
+High Volume High Value,Obstetrics & Gynecology,FL,40,3578.275,158.6347920184158
+High Volume Low Value,Geriatric Psychiatry,FL,4,2371.5,76.42291217215356
+Low Volume Low Value,Hematology,NY,50,309.5,82.9455889645399
+Low Volume Low Value,Sleep Medicine,FL,13,370.6923076923077,81.70981480716017
+High Volume High Value,Hand Surgery,TX,20,2620.85,128.72728713295277
+High Volume High Value,Cardiology,CA,469,6591.689125799574,158.4788394029169
+Low Volume High Value,Emergency Medicine,PA,1392,323.7837643678161,121.51651944348859
+Low Volume Low Value,Geriatric Medicine,PA,74,445.7027027027027,77.57920159073709
+Low Volume High Value,Critical Care (Intensivists),CA,242,321.8471074380165,129.71448292196644
+Low Volume High Value,Otolaryngology,FL,74,424.52702702702703,196.30076156408748
+High Volume Low Value,Infectious Disease,TX,121,26164.9173553719,81.6557891296419
+Low Volume High Value,Hospice and Palliative Care,FL,34,216.73529411764707,114.46587929510586
+Low Volume Low Value,Pain Management,FL,57,421.60526315789474,76.27963474078375
+Low Volume Low Value,Rheumatology,CA,162,376.60493827160496,74.30528553328138
+Low Volume High Value,Gynecological Oncology,CA,49,327.59183673469386,206.486925978206
+Low Volume Low Value,Sports Medicine,NY,28,349.5357142857143,73.02798262693135
+Low Volume Low Value,Osteopathic Manipulative Medicine,FL,14,355.07142857142856,65.17845779029064
+High Volume Low Value,Osteopathic Manipulative Medicine,PA,5,1416.0,65.29673784220455
+Low Volume High Value,Medical Genetics and Genomics,PA,2,35.5,133.5252832525
+Low Volume Low Value,Emergency Medicine,NY,1133,328.5145631067961,82.70460332053075
+Low Volume Low Value,Vascular Surgery,NY,80,447.0875,70.5396330538459
+High Volume Low Value,Nephrology,NY,93,8903.354838709678,69.184919775468
+Low Volume High Value,Rheumatology,PA,26,211.19230769230768,117.54955649517052
+High Volume High Value,"Psychologist, Clinical",FL,36,1636.7222222222222,110.58133872293982
+Low Volume High Value,Micrographic Dermatologic Surgery,TX,4,431.0,268.1855250065015
+Low Volume Low Value,Portable X-Ray Supplier,PA,2,540.0,40.59432647867273
+Low Volume High Value,Adult Congenital Heart Disease,NY,2,296.0,174.53779480306366
+High Volume Low Value,Physical Therapist in Private Practice,FL,2019,4073.552352649827,32.249375277459734
+Low Volume High Value,Physician Assistant,CA,413,140.79903147699758,130.34717910187942
+Low Volume Low Value,Pediatric Medicine,TX,72,147.34722222222223,56.72411403729265
+Low Volume High Value,Hematology-Oncology,TX,83,326.48192771084337,112.47594608614209
+High Volume High Value,Pulmonary Disease,CA,102,2520.470588235294,122.50092025923458
+High Volume Low Value,Medical Oncology,PA,27,54917.7037037037,49.677950356255714
+High Volume High Value,Sports Medicine,FL,19,4491.1578947368425,136.33203563196625
+High Volume High Value,Geriatric Psychiatry,PA,2,2138.0,102.40319656186666
+Low Volume High Value,Pharmacy,NY,2,675.0,261.91685796533335
+High Volume High Value,Sports Medicine,PA,6,3442.3333333333335,134.13670763446288
+Low Volume Low Value,Licensed Clinical Social Worker,TX,475,267.89473684210526,72.17810064787946
+Low Volume Low Value,Urology,NY,215,425.4697674418605,69.57162260075428
+Low Volume Low Value,Radiation Oncology,NY,43,333.2325581395349,75.51900247425874
+Low Volume Low Value,Occupational Therapist in Private Practice,TX,147,506.1292517006803,28.922202623454833
+Low Volume Low Value,Pediatric Medicine,PA,31,193.38709677419354,47.9895630982585
+High Volume Low Value,Certified Registered Nurse Anesthetist (CRNA),TX,17,2096.5882352941176,63.89176105161323
+High Volume Low Value,Pediatric Medicine,TX,15,4337.733333333334,43.12409275415143
+High Volume Low Value,Hematology,TX,5,78793.0,47.584600719321074
+High Volume Low Value,Preventive Medicine,TX,2,2410.0,62.334552720590644
+Low Volume Low Value,Hospice and Palliative Care,CA,74,350.77027027027026,84.2611276519687
+High Volume High Value,Hematology-Oncology,CA,72,30095.902777777777,120.40610803065127
+High Volume Low Value,Obstetrics & Gynecology,NY,64,2142.625,62.51811278742478
+Low Volume Low Value,Thoracic Surgery,CA,23,141.69565217391303,78.36824544176939
+High Volume High Value,Osteopathic Manipulative Medicine,FL,3,10102.666666666666,132.41433984103372
+High Volume High Value,Pathology,CA,10,5376.1,134.1371363010084
+High Volume High Value,Pharmacy,FL,3,36186.0,144.70223467198295
+High Volume Low Value,Emergency Medicine,CA,278,1975.9604316546763,74.0000736423925
+Low Volume High Value,Interventional Cardiology,PA,41,550.5853658536586,154.64156116076265
+Low Volume High Value,Infectious Disease,CA,181,345.4088397790055,119.21343967766646
+Low Volume Low Value,Thoracic Surgery,FL,24,228.58333333333334,81.4653158813406
+Low Volume High Value,Obstetrics & Gynecology,FL,65,324.4153846153846,153.4704289629778
+Low Volume High Value,Radiation Oncology,CA,88,604.8636363636364,150.46331059818337
+Low Volume High Value,Urology,FL,70,498.6,159.26635432033865
+Low Volume Low Value,Allergy/ Immunology,PA,47,320.82978723404256,63.09890387041138
+Low Volume Low Value,Certified Nurse Midwife,CA,15,47.93333333333333,48.82545557662556
+High Volume Low Value,Hospice and Palliative Care,PA,2,3403.5,69.999864467625
+High Volume Low Value,Pathology,CA,679,4090.046244477172,41.769831410415904
+Low Volume High Value,Optometry,TX,55,204.78181818181818,135.45981846361795
+Low Volume Low Value,Speech Language Pathologist,TX,55,308.54545454545456,68.03957972401412
+High Volume Low Value,Pediatric Medicine,FL,8,5148.125,56.84575596348468
+Low Volume Low Value,Advanced Heart Failure and Transplant Cardiology,NY,14,450.5,78.02056108820788
+Low Volume High Value,Clinical Laboratory,FL,11,373.72727272727275,379.14635554067337
+Low Volume High Value,Clinical Cardiac Electrophysiology,PA,9,732.0,144.1158388351524
+High Volume High Value,Ambulance Service Provider,NY,347,13775.896541786742,253.55492902315373
+Low Volume High Value,Internal Medicine,TX,596,355.5251677852349,120.32287784944846
+High Volume Low Value,Sleep Medicine,TX,7,1244.7142857142858,79.83191599794813
+High Volume Low Value,Cardiac Surgery,NY,2,2688.0,82.50443901003334
+Low Volume Low Value,Ambulance Service Provider,CA,3,474.26666666666665,22.60424894095
+Low Volume High Value,Maxillofacial Surgery,FL,7,183.71428571428572,165.3965604200578
+Low Volume High Value,Addiction Medicine,NY,3,186.66666666666666,164.9307395081111
+High Volume Low Value,Otolaryngology,CA,202,2702.420792079208,77.72661483647798
+Low Volume High Value,Hand Surgery,FL,7,593.5714285714286,127.62435663355087
+High Volume High Value,Hospitalist,CA,81,1674.1358024691358,108.99169525722871
+Low Volume High Value,Independent Diagnostic Testing Facility (IDTF),CA,118,228.72881355932202,302.8988041274533
+Low Volume High Value,Sports Medicine,CA,16,526.8125,202.72120815999043
+Low Volume Low Value,Medical Toxicology,NY,1,470.0,75.45168042311667
+High Volume High Value,Colorectal Surgery (Proctology),CA,10,1891.4,150.92614052300178
+High Volume High Value,Opioid Treatment Program,TX,3,1574.3333333333333,119.64053370466667
+High Volume Low Value,Gynecological Oncology,FL,2,9760.0,83.8703469978824
+High Volume Low Value,Centralized Flu,PA,165,2405.4727272727273,44.064773131675565
+Low Volume Low Value,Obstetrics & Gynecology,FL,993,186.06042296072508,58.64982572378248
+Low Volume Low Value,Nuclear Medicine,CA,31,257.6774193548387,52.78473149741839
+Low Volume Low Value,Neuropsychiatry,FL,4,318.25,83.3599298815625
+High Volume Low Value,Audiologist,FL,30,1339.5666666666666,35.019117155903174
+Low Volume High Value,Geriatric Psychiatry,NY,5,405.8,109.29584860962669
+Low Volume High Value,Undefined Physician type,PA,1,433.0,113.20610441880001
+High Volume Low Value,Neurology,NY,153,11689.045751633987,79.49859123797457
+Low Volume Low Value,Physical Therapist in Private Practice,PA,788,502.8921319796954,24.961849634741508
+Low Volume Low Value,Certified Nurse Midwife,PA,17,38.294117647058826,40.94650463600981
+High Volume High Value,Infectious Disease,FL,66,41111.878787878784,105.9466411489043
+High Volume Low Value,Plastic and Reconstructive Surgery,CA,17,3151.176470588235,81.96212599279481
+Low Volume Low Value,Sleep Medicine,TX,12,411.6666666666667,73.05242643397963
+Low Volume High Value,Anesthesiology,CA,2535,159.1250493096647,149.78108058385243
+Low Volume High Value,Vascular Surgery,CA,85,489.29411764705884,204.6033851457936
+Low Volume Low Value,General Practice,FL,572,200.62937062937064,60.782583019695004
+High Volume Low Value,Orthopedic Surgery,CA,236,5889.544491525424,66.17676538049061
+High Volume High Value,Independent Diagnostic Testing Facility (IDTF),NY,27,21172.88888888889,149.55187685893748
+High Volume Low Value,Obstetrics & Gynecology,PA,35,8913.971428571429,52.252286252276136
+High Volume High Value,Opioid Treatment Program,CA,69,2407.2028985507245,139.38206953656956
+High Volume High Value,Clinical Laboratory,PA,10,75857.51999999999,662.197035659816
+High Volume Low Value,Critical Care (Intensivists),FL,29,2479.2758620689656,81.48649251522184
+Low Volume High Value,Pediatric Medicine,CA,19,190.94736842105263,133.63819289949564
+Low Volume Low Value,Optometry,PA,1238,289.0767366720517,55.325689932439886
+Low Volume Low Value,Optometry,CA,1911,216.78649921507065,64.43846214988976
+Low Volume Low Value,Mass Immunizer Roster Biller,CA,983,434.580976602238,45.3839796390478
+Low Volume High Value,Critical Care (Intensivists),FL,250,276.48,127.40190489742275
+Low Volume Low Value,Undersea and Hyperbaric Medicine,FL,7,341.7142857142857,62.81183016137738
+High Volume High Value,Interventional Cardiology,FL,169,4387.544378698225,175.01295487633462
+Low Volume High Value,Certified Clinical Nurse Specialist,TX,14,122.28571428571429,116.41911490839287
+High Volume Low Value,Gastroenterology,FL,109,5463.027522935779,89.85440435023335
+High Volume High Value,Hospitalist,FL,22,1925.3181818181818,106.48909658116737
+Low Volume High Value,Psychiatry,TX,90,183.5,120.1794057623748
+High Volume Low Value,Undersea and Hyperbaric Medicine,TX,9,1616.6666666666667,63.400044253198075
+High Volume High Value,Cardiac Surgery,TX,5,1991.0,269.7015439142373
+High Volume Low Value,Radiation Oncology,NY,13,1749.3076923076924,89.09145821394729
+High Volume High Value,Endocrinology,PA,4,1412.0,107.09792881774881
+Low Volume High Value,Neurosurgery,FL,242,370.62396694214874,249.74109468242224
+High Volume High Value,Ophthalmology,TX,542,5486.027675276753,158.00144092745853
+High Volume High Value,Physical Medicine and Rehabilitation,TX,39,3061.871794871795,132.6981912959785
+Low Volume High Value,Pain Management,NY,38,356.94736842105266,128.1446245466549
+High Volume Low Value,Hematology-Oncology,FL,404,100837.01336633663,48.05251405912768
+High Volume Low Value,Family Practice,CA,1534,4889.619817470665,63.59651134150716
+Low Volume Low Value,Pharmacy,TX,228,220.9561403508772,40.21496811779155
+High Volume Low Value,Chiropractic,PA,152,1418.467105263158,26.33294324432126
+High Volume Low Value,Medical Oncology,FL,84,104137.66666666667,48.232894445026375
+High Volume High Value,Optometry,CA,26,5822.538461538462,120.0727421731196
+Low Volume Low Value,Dentist,NY,10,75.1,47.6643790489
+Low Volume Low Value,Clinic or Group Practice,TX,1,57.0,83.66114942533333
+Low Volume High Value,Sports Medicine,NY,9,355.8888888888889,147.02998749197656
+Low Volume High Value,Neurosurgery,CA,295,345.728813559322,228.676372842202
+Low Volume High Value,Emergency Medicine,TX,950,299.40736842105264,116.15674762013889
+Low Volume Low Value,General Practice,NY,85,383.0470588235294,65.77984129131183
+High Volume High Value,Nephrology,CA,441,2650.1360544217687,141.48991801462122
+Low Volume Low Value,Cardiology,TX,291,423.8591065292096,59.39184231834667
+High Volume High Value,"Psychologist, Clinical",TX,8,1312.625,105.9159644407646
+High Volume High Value,Critical Care (Intensivists),TX,7,2722.714285714286,116.4884185073446
+High Volume Low Value,Home Infusion Therapy Services,FL,2,1708.5,21.273963870750002
+High Volume High Value,Independent Diagnostic Testing Facility (IDTF),PA,12,22036.666666666668,324.9672552030125
+Low Volume High Value,Hematopoietic Cell Transplantation and Cellular Therapy,TX,13,455.61538461538464,109.86307846345404
+Low Volume Low Value,Anesthesiology Assistant,FL,231,66.7965367965368,69.04637168551487
+Low Volume High Value,Certified Registered Nurse Anesthetist (CRNA),FL,2100,119.34904761904762,153.6256316334385
+Low Volume Low Value,Hospitalist,PA,690,491.5608695652174,82.05716790392277
+High Volume High Value,Opioid Treatment Program,NY,25,2093.92,140.43974873691334
+High Volume High Value,Plastic and Reconstructive Surgery,FL,22,2318.8636363636365,238.72915342193264
+Low Volume High Value,Optometry,NY,71,134.85915492957747,117.49257911118401
+Low Volume High Value,Urology,CA,129,444.4418604651163,174.54976213409577
+Low Volume Low Value,Gynecological Oncology,FL,17,217.88235294117646,81.29498796115294
+Low Volume Low Value,Interventional Pain Management,NY,14,375.07142857142856,76.6033189541384
+High Volume High Value,Licensed Clinical Social Worker,CA,1,1259.0,101.980044678
+Low Volume Low Value,Certified Clinical Nurse Specialist,TX,133,314.5563909774436,61.196762549620416
+High Volume High Value,Sports Medicine,CA,34,5433.941176470588,176.70545994294903
+Low Volume Low Value,Pulmonary Disease,CA,272,480.5882352941176,73.0277644993627
+High Volume High Value,Thoracic Surgery,FL,7,1483.4285714285713,217.76951622189864
+High Volume Low Value,Plastic and Reconstructive Surgery,PA,8,1370.75,79.61490585327692
+High Volume Low Value,Critical Care (Intensivists),TX,49,2271.5102040816328,69.81642327419738
+High Volume Low Value,All Other Suppliers,FL,3,10635.333333333334,30.08483064322222
+Low Volume High Value,Otolaryngology,CA,171,459.1637426900585,177.81372371809624
+Low Volume Low Value,Diagnostic Radiology,PA,294,521.6326530612245,42.19302461066578
+Low Volume High Value,Physician Assistant,PA,445,86.47415730337079,125.07617485367564
+Low Volume High Value,Physician Assistant,FL,557,117.1669658886894,130.37842105919512
+High Volume Low Value,Endocrinology,NY,221,6577.787330316742,60.397097191151126
+Low Volume Low Value,Registered Dietitian or Nutrition Professional,CA,153,179.69934640522877,33.72566440685239
+Low Volume High Value,Cardiac Surgery,FL,59,246.89830508474577,339.93279289247175
+Low Volume Low Value,Geriatric Medicine,FL,33,408.3030303030303,72.94046555898424
+High Volume Low Value,Ophthalmology,NY,336,2408.2666666666664,74.54811906470783
+High Volume High Value,Pulmonary Disease,TX,43,2454.1162790697676,120.83538787773111
+Low Volume High Value,Allergy/ Immunology,NY,14,162.71428571428572,113.87341475155189
+Low Volume Low Value,Thoracic Surgery,TX,26,160.96153846153845,74.72757241635547
+High Volume High Value,Hematology,TX,1,38911.0,121.98010865399999
+Low Volume Low Value,Gynecological Oncology,TX,25,191.64,74.33891779414404
+High Volume High Value,Surgical Oncology,CA,2,1817.0,202.95196525943857
+High Volume High Value,Ophthalmology,CA,956,5396.580543933054,157.6305638454552
+Low Volume Low Value,Orthopedic Surgery,FL,327,374.93669724770643,63.701103180707776
+High Volume Low Value,Optometry,PA,167,1772.1556886227545,51.764027662159044
+Low Volume Low Value,Occupational Therapist in Private Practice,FL,223,488.31390134529147,27.61203052313412
+Low Volume Low Value,Dermatology,CA,290,423.2758620689655,66.43738219900823
+Low Volume Low Value,Home Infusion Therapy Services,CA,1,866.0,45.998775982
+High Volume High Value,General Practice,FL,13,3073.923076923077,121.16257694463592
+High Volume High Value,Psychiatry,TX,8,1984.25,124.32189361370237
+Low Volume Low Value,Addiction Medicine,FL,6,206.5,77.11149049540556
+High Volume High Value,Rheumatology,CA,3,4568.333333333333,105.95032810999014
+High Volume Low Value,Cardiology,PA,618,2710.8996763754044,60.97051991110726
+High Volume High Value,Internal Medicine,CA,492,2842.8536585365855,119.43604638614843
+High Volume High Value,Internal Medicine,NY,310,2668.1635483870964,117.06239259299154
+High Volume Low Value,Radiation Oncology,FL,25,1938.32,92.12195588640213
+High Volume High Value,Micrographic Dermatologic Surgery,PA,17,4918.058823529412,211.59175203357051
+Low Volume High Value,Micrographic Dermatologic Surgery,PA,3,822.0,204.13776184803805
+High Volume Low Value,Podiatry,NY,834,2692.201438848921,61.543486300565554
+Low Volume High Value,Ophthalmology,FL,83,519.2168674698795,153.96260658662584
+Low Volume High Value,Speech Language Pathologist,NY,36,347.05555555555554,121.76003971819677
+Low Volume High Value,Obstetrics & Gynecology,TX,45,202.6,136.95045538514674
+High Volume High Value,Hematology,FL,2,1461.0,102.27977495759998
+High Volume High Value,Sleep Medicine,PA,1,1114.0,153.553726425
+Low Volume High Value,Certified Clinical Nurse Specialist,CA,2,97.5,105.0109052875
+High Volume High Value,Certified Clinical Nurse Specialist,TX,2,2520.0,114.18010481517499
+High Volume Low Value,Neuropsychiatry,PA,1,1292.0,82.00863955966666
+Low Volume Low Value,Neuropsychiatry,PA,1,100.0,84.26593080933334
+Low Volume High Value,Hematopoietic Cell Transplantation and Cellular Therapy,FL,1,86.0,124.14810908999999
+Low Volume Low Value,Peripheral Vascular Disease,PA,1,844.0,48.28299649081764
+High Volume Low Value,Neurosurgery,PA,1,4847.0,80.6397558466875
+High Volume Low Value,Undersea and Hyperbaric Medicine,FL,1,1209.0,59.43362197457143
+High Volume Low Value,Unknown Supplier/Provider Specialty,CA,1,1344.0,30.51730932552857
+High Volume Low Value,Hematology,FL,8,36588.0,69.41543737095655
+High Volume High Value,Pediatric Medicine,TX,1,1095.0,147.02315308506
+Low Volume High Value,Physical Therapist in Private Practice,CA,2,208.0,161.515131429625
+High Volume High Value,Peripheral Vascular Disease,NY,1,1009.0,198.94107934000002
+High Volume Low Value,Undersea and Hyperbaric Medicine,PA,2,1217.0,45.8201363723
+Low Volume Low Value,Undefined Physician type,TX,1,466.0,83.95259611366667
+Low Volume High Value,Medical Toxicology,PA,1,229.0,106.64916344066667
+High Volume High Value,Certified Registered Nurse Anesthetist (CRNA),PA,2,1146.5,113.1659485806932
+Low Volume Low Value,Adult Congenital Heart Disease,FL,1,871.0,82.46572855462354
+High Volume High Value,Pharmacy,CA,1,9292.0,901.3677382717776
+High Volume Low Value,Neurosurgery,TX,1,6616.0,79.92853722470969
+Low Volume Low Value,Clinic or Group Practice,FL,1,304.0,11.76
+Low Volume High Value,Peripheral Vascular Disease,FL,1,806.0,124.33607898420001
+Low Volume High Value,Geriatric Psychiatry,TX,2,313.0,118.42624600620834
+High Volume Low Value,Cardiac Surgery,PA,2,2575.5,63.12123923851786
+Low Volume Low Value,All Other Suppliers,CA,1,265.0,31.514342105250005
+High Volume High Value,Speech Language Pathologist,TX,1,1122.0,114.79251453
+Low Volume High Value,Osteopathic Manipulative Medicine,FL,4,380.75,127.40253836220833
+Low Volume Low Value,Undefined Physician type,PA,4,401.0,80.56946068283901
+High Volume Low Value,All Other Suppliers,CA,1,19813.0,55.8482372785
+High Volume High Value,All Other Suppliers,FL,2,8082.5,2837.8699324958848
+Low Volume High Value,Hand Surgery,TX,5,405.4,124.79488300778553
+High Volume High Value,Nurse Practitioner,PA,2,1640.0,109.13575575482477
+Low Volume High Value,Preventive Medicine,PA,1,242.0,114.51001454366667
+Low Volume High Value,Osteopathic Manipulative Medicine,PA,2,32.5,173.66476045233333
+Low Volume Low Value,Medicare Diabetes Preventive Program,PA,1,24.0,69.43125
+Low Volume High Value,Dentist,PA,1,328.0,939.8562353007778
+High Volume High Value,Peripheral Vascular Disease,TX,1,1832.0,425.1598708508461
+Low Volume Low Value,Unknown Supplier/Provider Specialty,TX,1,13.0,29.1
+Low Volume Low Value,Adult Congenital Heart Disease,PA,2,277.5,43.93399196800125
+Low Volume High Value,Certified Clinical Nurse Specialist,FL,1,16.0,161.25625
+High Volume Low Value,All Other Suppliers,NY,2,3614.5,45.47888266895455
+High Volume Low Value,Thoracic Surgery,TX,1,4001.0,63.551081548325
+High Volume High Value,Surgical Oncology,NY,3,3363.6666666666665,179.11790978331237
+Low Volume Low Value,All Other Suppliers,NY,1,336.0,41.8657172
+Low Volume Low Value,Ambulatory Surgical Center,PA,1,40.0,92.015307488
+High Volume High Value,Mass Immunizer Roster Biller,PA,2,6900.5,123.35684813140001
+Low Volume Low Value,Medical Genetics and Genomics,FL,2,163.5,96.7338727555
+High Volume Low Value,Surgical Oncology,CA,1,24005.0,35.12240234453901
+High Volume Low Value,Micrographic Dermatologic Surgery,PA,1,1587.0,53.61517790679286
+High Volume High Value,Pharmacy,PA,3,3329.6666666666665,198.6703485391389
+High Volume High Value,Geriatric Psychiatry,TX,1,1296.0,111.17969182585713
+Low Volume High Value,Medical Genetics and Genomics,FL,1,147.0,139.9654626233333
+Low Volume Low Value,Undersea and Hyperbaric Medicine,CA,2,703.0,70.63666582412857
+High Volume Low Value,Home Infusion Therapy Services,PA,1,2716.0,17.952113402
+High Volume High Value,Addiction Medicine,FL,1,3349.0,139.74691457246502
+High Volume Low Value,Preventive Medicine,NY,1,1004.0,54.19441989508332
+Low Volume Low Value,Mammography Center,FL,2,331.5,90.891698451
+Low Volume Low Value,Hematopoietic Cell Transplantation and Cellular Therapy,CA,1,117.0,93.50960600966668
+High Volume Low Value,Neuropsychiatry,NY,2,1134.5,76.617009699875
+Low Volume High Value,Physical Therapist in Private Practice,NY,2,355.0,114.87737745312499
+High Volume Low Value,Addiction Medicine,TX,1,2412.0,98.008206508
+High Volume Low Value,Gynecological Oncology,CA,1,13708.0,61.39459818079375
+High Volume High Value,Thoracic Surgery,PA,1,1592.0,307.4174710235294
+High Volume Low Value,Dentist,CA,1,23428.0,93.56006597491819
+High Volume High Value,Speech Language Pathologist,FL,1,1144.0,109.09778799424998
+High Volume Low Value,Colorectal Surgery (Proctology),NY,1,1830.0,56.1711651045
+High Volume Low Value,Neuropsychiatry,CA,2,2105.5,66.57366384988333
+High Volume Low Value,Certified Registered Nurse Anesthetist (CRNA),NY,1,1007.0,68.57060745075
+High Volume High Value,Certified Clinical Nurse Specialist,NY,1,2342.0,115.548553946
+High Volume High Value,Oral Surgery (Dentist only),FL,1,3604.0,509.60778539165005
+Low Volume Low Value,Unknown Supplier/Provider Specialty,NY,1,32.0,24.0234375
+Low Volume Low Value,Peripheral Vascular Disease,FL,1,181.0,28.144676724000004
+High Volume High Value,Undersea and Hyperbaric Medicine,CA,1,1153.0,140.19690292211112
+Low Volume High Value,Pathology,FL,1,839.0,104.63775589175
+High Volume High Value,Pharmacy,TX,1,2404.0,725.3497157944
+High Volume High Value,Physical Therapist in Private Practice,NY,1,5881.0,128.13031760775002
+Low Volume High Value,Neuropsychiatry,CA,5,322.6,128.39766340083094
+Low Volume Low Value,Mammography Center,CA,1,29.0,84.156764705
+High Volume High Value,Speech Language Pathologist,CA,1,1022.0,110.07670408999999
+Low Volume High Value,Peripheral Vascular Disease,TX,1,515.0,297.5979838493636
+High Volume High Value,Osteopathic Manipulative Medicine,NY,1,1976.0,123.68284220723334
+Low Volume Low Value,Peripheral Vascular Disease,NY,1,132.0,70.29332641875
+Low Volume High Value,Home Infusion Therapy Services,PA,1,710.0,104.36012221464999
+Low Volume High Value,Hand Surgery,PA,6,345.1666666666667,127.38949324818071
+Low Volume High Value,Preventive Medicine,NY,1,21.0,112.16857143
+High Volume High Value,Hematopoietic Cell Transplantation and Cellular Therapy,TX,1,1263.0,108.609317862375
+High Volume Low Value,Certified Clinical Nurse Specialist,PA,1,1239.0,96.791710615
+High Volume Low Value,Micrographic Dermatologic Surgery,NY,1,1291.0,69.72812661806665
+Low Volume High Value,Nuclear Medicine,FL,1,893.0,831.964289485
+Low Volume High Value,Addiction Medicine,PA,1,95.0,145.918
+High Volume High Value,General Practice,TX,2,1390.5,101.52341154242856
+High Volume Low Value,Geriatric Psychiatry,NY,1,1050.0,86.33411026725
+High Volume Low Value,Addiction Medicine,FL,1,2238.0,90.75758529985715

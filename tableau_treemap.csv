@@ -1,0 +1,1043 @@
+specialty,hcpcs_desc,total_services,avg_medicare_payment,unique_providers
+Clinical Laboratory,Hepatitis c antibody measurement,192003.0,13.958207691743652,126
+Diagnostic Radiology,"X-ray of abdomen, minimum of 3 views",3617.0,13.056809533287273,159
+Hematology-Oncology,"Established patient office or other outpatient visit, 10-19 minutes",25691.0,39.87325204076616,325
+Diagnostic Radiology,Ct scan of abdomen and pelvis before and after contrast,142524.0,144.53876622299813,3327
+Clinical Laboratory,Bacterial urine culture,734157.0,7.907390772778571,112
+Hematology-Oncology,Reticulated (young) platelet measurement,10476.0,35.13551522863025,119
+Diagnostic Radiology,Ct scan of chest before and after contrast,10733.0,96.61590058704545,363
+Family Practice,Administration of pneumococcal vaccine,121496.0,30.044533440008795,4836
+Diagnostic Radiology,Limited ultrasound scan of 1 breast,190813.0,39.9293008353444,2499
+Internal Medicine,"Influenza vaccine, quadrivalent, 0.5 ml dosage",35383.0,19.95274481122275,730
+Hematology-Oncology,"Injection, zoledronic acid, 1 mg",86087.0,5.4100591637976105,502
+Family Practice,Adm sarscov2 30mcg/0.3ml bst,7284.0,39.71675379099113,224
+Rheumatology,Measurement c-reactive protein for detection of infection or inflammation,79464.0,5.0768562701413416,179
+Hematology-Oncology,"Injection, aprepitant, 1 mg",2158520.0,1.3479284025266307,184
+Diagnostic Radiology,"X-ray of middle spine, 3 views",19211.0,15.356989260633023,824
+Family Practice,"Influenza vaccine, quadrivalent derived from recombinant dna",32025.0,59.697271779780266,678
+Clinical Laboratory,"Bacterial colony count, urine",1479869.0,7.919885454958391,149
+Family Practice,Inhalation treatment for airway obstruction or sputum production,5401.0,8.817464710267569,185
+Diagnostic Radiology,Diagnostic mammography of both breasts,190167.0,66.28338231328327,2683
+Family Practice,"Management using the results of remote vital sign monitoring per calendar month, first 20 minutes",112230.0,39.112943849080104,412
+Clinical Laboratory,"Evaluation of antimicrobial drug (antibiotic, antifungal, antiviral), microdilution or agar dilution",934245.0,8.440915370953846,130
+Clinical Laboratory,"Gonadotropin, follicle stimulating (reproductive hormone) level",76011.0,18.13602465255794,107
+Internal Medicine,Detection test by immunoassay with direct visual observation for severe acute respiratory syndrome coronavirus 2 (covid-19),30856.0,40.417226103330975,284
+Internal Medicine,Insertion of non-tunneled central venous tube for infusion (5 years or older),3384.0,69.45240015353458,159
+Internal Medicine,"Established patient custodial care facility, group care, or assisted living visit, typically 1 hour",36029.0,147.65415977809127,240
+Pharmacy,Fee covid-19 vac 14 res,43248.0,38.69782977486552,496
+Family Practice,Adm sarscov2 100mcg/0.5ml3rd,4546.0,39.80877392347133,157
+Clinical Laboratory,"Blood test, comprehensive group of blood chemicals",7560041.0,10.406251863261005,317
+Clinical Laboratory,Lactate dehydrogenase (enzyme) level,244738.0,5.940731485009938,161
+Diagnostic Radiology,"X-ray of knee, 3 views",309457.0,12.41067790264414,4330
+Family Practice,"Telephone medical discussion with physician, 5-10 minutes",42779.0,35.07726290414945,972
+Family Practice,Adm sarscv2 30mcg trs-sucr b,24552.1,39.218362236709545,482
+Diagnostic Radiology,Nuclear medicine study of liver and bile duct system,7649.0,42.286690813879055,335
+Internal Medicine,Removal of polyps or growths of large bowel using an endoscope with mechanical snare,11668.0,231.63553398065574,235
+Clinical Laboratory,Microsomal antibodies (autoantibody) measurement,172804.0,14.35281210737931,116
+Hematology-Oncology,Biopsy and aspiration of bone marrow sample for diagnosis,3418.0,129.18832897012283,169
+Internal Medicine,"Complete blood cell count (red cells, white blood cell, platelets), automated test",22589.0,6.378654185103425,146
+Medical Oncology,"Infusion into a vein for therapy, prevention, or diagnosis, additional sequential infusion, 1 hour or less",76159.0,24.392460312345815,347
+Diagnostic Radiology,Single contrast x-ray of small intestine,4368.0,31.692088977113883,281
+Family Practice,Emergency department visit for problem of moderate severity,23851.0,53.75828562348936,517
+Diagnostic Radiology,"Technetium tc-99m medronate, diagnostic, per study dose, up to 30 millicuries",10039.0,25.914553710289507,219
+Internal Medicine,Test to examine how well the lungs exchange gases,31072.0,31.365521751850675,333
+Hematology-Oncology,Vitamin d-3 level,21451.0,29.224926260986205,145
+Diagnostic Radiology,Review by radiologist of additional artery image,7348.0,43.84159786164078,103
+Clinical Laboratory,"Psa (prostate specific antigen) measurement, free",161956.0,18.00675372537207,111
+Internal Medicine,Comprehensive assessment of and care planning for patients requiring chronic care management services (list separately in addition to primary monthly care management service),14616.0,47.24760246052173,203
+Family Practice,"Blood count, hemoglobin",3502.0,2.339564523209091,110
+Medical Oncology,"Initial hospital inpatient care per day, typically 50 minutes",6029.0,108.20124797109325,193
+Family Practice,"Established patient office or other outpatient visit, 40-54 minutes",344989.0,125.4567657163996,5238
+Family Practice,"Injection, methylprednisolone sodium succinate, up to 125 mg",8517.0,4.094609815801923,156
+Family Practice,Vitamin d-3 level,96144.0,29.091670221554974,937
+Rheumatology,"Telephone medical discussion with physician, 11-20 minutes",7225.0,58.42708223555427,173
+Internal Medicine,Ferritin (blood protein) level,85882.0,13.440892785956,750
+Internal Medicine,Ldl cholesterol level,59762.0,10.367891305093812,210
+Internal Medicine,Removal of impacted ear wax,24485.0,34.93490170261816,804
+Medical Oncology,"Immunologic analysis for detection of tumor antigen, quantitative; ca 15-3",18535.0,20.55505674141322,121
+Clinical Laboratory,"Special stained specimen slides to examine tissue, each additional procedure",242641.0,53.47243793698837,162
+Diagnostic Radiology,"X-ray of chest, 1 view",4511183.0,7.161645721641222,7466
+Family Practice,"Influenza vaccine, quadrivalent inactivated, 0.5 ml dosage",102708.0,69.55348582179265,2233
+Clinical Laboratory,Preparation of tissue for examination by removing any calcium present,40402.0,14.02759947403426,102
+Hematology-Oncology,Phosphate level,63888.0,4.673865959797403,154
+Diagnostic Radiology,Mri scan of blood vessels of neck before and after contrast,5367.0,136.4971346634981,255
+Medical Oncology,Iron level,38374.0,6.380668450186083,194
+Internal Medicine,"Influenza vaccine, quadrivalent derived from cell cultures, preservative and antibiotic free",29482.0,31.259608417607037,686
+Medical Oncology,"Initial hospital inpatient care per day, typically 70 minutes",14624.0,162.52902202974292,389
+Clinical Laboratory,"Blood test, clotting time",695690.0,4.235275106484376,224
+Hematology-Oncology,"Red blood count, automated test",7717.0,3.911721182687942,141
+Family Practice,Liver function blood test panel,21710.0,8.03635355538957,163
+Family Practice,"Established patient custodial care facility, group care, or assisted living visit, typically 15 minutes",23924.0,45.217669318961164,103
+Internal Medicine,Injection of drug or substance under skin or into muscle,401669.0,10.988591433897097,3624
+Diagnostic Radiology,Ultrasound of both sides of head and neck blood flow,147229.0,59.29818482462346,3171
+Medical Oncology,"Blood test, comprehensive group of blood chemicals",171556.0,10.404862969684983,253
+Internal Medicine,"Injection, denosumab, 1 mg",1491069.0,15.921807667784726,570
+Internal Medicine,"Creatine kinase (cardiac enzyme) level, total",59389.0,6.422512193759247,319
+Family Practice,Fee covid-19 vac 14 res,28742.3,39.62595403692869,631
+Medical Oncology,Magnesium level,30027.0,6.60749461958125,128
+Family Practice,"Remote monitoring of physiologic parameters, initial set-up and patient education on use of equipment",10996.0,14.732409929224586,240
+Internal Medicine,"Critical care, each additional 30 minutes",11925.0,91.89024601314027,221
+Hematology-Oncology,"Infusion into a vein for therapy, prevention, or diagnosis concurrent with another infusion",19573.0,16.661210988977636,313
+Pharmacy,Fee covid-19 vac 13 res,44993.0,38.789191280682736,423
+Diagnostic Radiology,Nuclear medicine study from skull base to mid-thigh with ct scan,162010.0,503.68056482380683,1408
+Family Practice,Emergency department visit for problem of high severity,39145.0,94.10042315527582,620
+Medical Oncology,"Telephone medical discussion with physician, 11-20 minutes",5651.0,57.155786635895986,125
+Diagnostic Radiology,"X-ray of ankle, minimum of 3 views",153431.0,10.140484852214113,3986
+Diagnostic Radiology,"X-ray of pelvis, 1-2 views",154637.0,7.738025730475826,4055
+Diagnostic Radiology,Ct scan of leg without contrast,93694.0,47.996065611128294,2424
+Internal Medicine,"Advance care planning, first 30 minutes",360800.0,68.17124571537445,3291
+Diagnostic Radiology,Ultrasound of one leg arteries or artery grafts,10909.0,26.072331146714312,524
+Hematology-Oncology,"Infusion, normal saline solution , 1000 cc",45797.0,2.072674871257504,593
+Rheumatology,"Complete blood cell count (red cells, white blood cell, platelets), automated test and automated differential white blood cell count",95198.0,7.603933936959156,213
+Internal Medicine,"Annual wellness visit, includes a personalized prevention plan of service (pps), subsequent visit",1308279.0,132.26217192911602,11149
+Internal Medicine,"Annual depression screening, 15 minutes",396329.0,19.137257929506607,3383
+Internal Medicine,"New patient office or other outpatient visit, 60-74 minutes",63907.0,159.77132538938812,1953
+Hematology-Oncology,"Administration of chemotherapy into vein, each additional hour",110285.0,24.229267203948627,876
+Physical Therapist in Private Practice,Therapy procedure in a group setting,699164.0,11.163322978803256,2520
+Diagnostic Radiology,"X-ray of hip, 1 view",23853.0,8.945945587964065,789
+Family Practice,Cervical or vaginal cancer screening; pelvic and clinical breast examination,3222.0,40.07317455693549,124
+Medical Oncology,"Injection, palonosetron hcl, 25 mcg",220829.0,0.8077793712096071,229
+Diagnostic Radiology,"X-ray of shoulder, 1 view",7506.0,6.2198299162542785,321
+Medical Oncology,"Follow-up hospital inpatient care per day, typically 35 minutes",62641.0,86.05774137562672,576
+Family Practice,"Blood test, comprehensive group of blood chemicals",392765.0,10.379463687492313,1612
+Diagnostic Radiology,Imaging of urinary tract following injection of a contrast agent,5887.0,19.52217495947893,258
+Internal Medicine,"Hospital observation or inpatient care admitted and discharged on the same day for high severity problem, typically 55 minutes",4430.0,162.95274320739728,219
+Family Practice,"Chronic care management services, first 20 minutes of clinical staff time directed by health care professional, per calendar month",498508.0,46.5398596195167,1253
+Internal Medicine,Office or other outpatient visit for the evaluation and management of established patient that may not require presence of healthcare professional,170462.0,18.498839809896147,1400
+Internal Medicine,Ultrasound of both sides of head and neck blood flow,49918.0,146.79445813177776,727
+Family Practice,"Testosterone (hormone) level, total",9145.0,25.34451493596,125
+Clinical Laboratory,"Psa (prostate specific antigen) measurement, total",893512.0,18.099507955382357,204
+Hematology-Oncology,"Injection, epoetin alfa-epbx, biosimilar, (retacrit) (for non-esrd use), 1000 units",1421850.0,6.362381292136303,292
+Internal Medicine,"Initial nursing facility visit per day, typically 35 minutes",78532.0,103.71227107682577,917
+Internal Medicine,Vitamin d-3 level,166559.0,29.115866861392558,1103
+Clinical Laboratory,"Urea nitrogen level to assess kidney function, quantitative",119733.0,3.8626683438625955,131
+Medical Oncology,"Injection, darbepoetin alfa, 1 microgram (non-esrd use)",1754081.0,2.5047629154792084,101
+Medical Oncology,"Infusion into a vein for hydration, each additional hour",17240.0,10.402996525791146,192
+Internal Medicine,"Thyroxine (thyroid chemical), total",22107.0,6.796886910028946,114
+Family Practice,Creatinine level to test for kidney function or muscle injury,72523.0,5.094866745834326,941
+Clinical Laboratory,Glutamyltransferase (liver enzyme) level,133709.0,7.09375287385164,122
+Hematology-Oncology,"Initial hospital inpatient care per day, typically 70 minutes",60744.0,162.32300531226534,1289
+Hematology-Oncology,"Injection, immune globulin, (gammagard liquid), non-lyophilized, (e.g., liquid), 500 mg",541061.0,35.82125382121429,112
+Internal Medicine,Exercise or drug-induced heart stress test with electrocardiogram (ecg) with review by physician,12935.0,11.153752005796509,211
+Physical Therapist in Private Practice,Therapy procedure using functional activities,7622934.0,27.97962620163196,12933
+Hematology-Oncology,"Injection, denosumab, 1 mg",5140490.0,16.968661806324068,777
+Hematology-Oncology,"New patient office or other outpatient visit, 45-59 minutes",61585.0,121.95647451397238,1444
+Pharmacy,Adm sarscov2 50mcg/0.25mlbst,46138.0,40.209633291545856,447
+Hematology-Oncology,"Initial hospital inpatient care per day, typically 30 minutes",6011.0,82.65823959006434,202
+Ambulance Service Provider,"Ambulance service, advanced life support, non-emergency transport, level 1 (als 1)",62477.9,241.75137342861532,390
+Internal Medicine,Inhalation treatment for airway obstruction or sputum production,8827.0,9.198949508794,150
+Rheumatology,"Injection, methylprednisolone sodium succinate, up to 125 mg",11218.0,4.489656825345517,145
+Internal Medicine,"Remote monitoring of physiologic parameters, initial supply of devices with daily recordings or programmed alerts transmission, each 30 days",186041.0,46.556521018552466,606
+Family Practice,"Follow-up nursing facility visit per day, typically 35 minutes",54538.0,105.78731557377077,402
+Family Practice,Hospital observation care on day of discharge,20401.0,55.70390595175804,715
+Hematology-Oncology,Ct scan of chest without contrast,5687.0,52.567858053109596,145
+Diagnostic Radiology,Nuclear medicine study of stomach to assess emptying,7595.0,70.66520165401589,304
+Family Practice,"Folic acid level, serum",41317.0,14.491830687353728,376
+Family Practice,"Injection, denosumab, 1 mg",742246.0,16.207554417562868,342
+Internal Medicine,"Thyroid hormone, t3 measurement, total",26031.0,13.999135508905983,117
+Internal Medicine,Coronavirus vaccine 13,5482.0,0.009997935365354337,126
+Diagnostic Radiology,"X-ray of upper spine, 6 or more views",5483.0,27.24736926088572,254
+Hematology-Oncology,"Uric acid level, blood",79341.0,4.460345864928436,211
+Internal Medicine,"Bacterial colony count, urine",17331.0,7.958564120427654,311
+Medical Oncology,Ferritin (blood protein) level,41129.0,13.438008350715739,197
+Family Practice,"Thyroid hormone, t3 measurement, free",34305.0,16.677893728514995,200
+Internal Medicine,"Nursing facility annual assessment, typically 30 minutes",7917.0,70.92079919167624,231
+Pharmacy,"Influenza vaccine, quadrivalent inactivated, 0.5 ml dosage",48532.0,69.89758963839618,472
+Diagnostic Radiology,"Computed tomography (ct) of brain blood flow, volume, and timing of flow analysis with contrast",12071.0,171.04815429103692,461
+Internal Medicine,Liver function blood test panel,49285.0,8.02543139079173,254
+Internal Medicine,Detection test by immunoassay technique for severe acute respiratory syndrome coronavirus and influenza,8973.0,30.41920821071041,221
+Diagnostic Radiology,Limited ultrasound scan behind abdominal cavity,89388.0,27.323172779440277,1994
+Internal Medicine,"Remote monitoring of physiologic parameters, initial set-up and patient education on use of equipment",21592.0,15.732636306191186,362
+Medical Oncology,Ct scan of chest with contrast,5679.0,52.51443347777193,114
+Hematology-Oncology,"Injection, iron sucrose, 1 mg",4073472.0,0.16224248751680675,238
+Family Practice,"Nursing facility discharge day management, 30 minutes or less",9530.0,57.07361728307182,174
+Diagnostic Radiology,Needle biopsy of kidney,2521.0,103.08273983649593,123
+Family Practice,"Blood test, lipids (cholesterol and triglycerides)",361555.0,13.166628715021561,1623
+Family Practice,"Blood test, thyroid stimulating hormone (tsh)",258061.0,16.553848701258307,1444
+Family Practice,"Nursing facility annual assessment, typically 30 minutes",4724.0,69.5436525370927,144
+Family Practice,"Manual urinalysis test with examination using microscope, automated",65352.0,3.1193821608587644,696
+Diagnostic Radiology,Mri scan of arm without contrast,5329.0,183.30423870083956,184
+Family Practice,"Complete blood cell count (red cells, white blood cell, platelets), automated test and automated differential white blood cell count",402889.0,7.646697037464906,1778
+Diagnostic Radiology,Complete ultrasound scan of 1 breast,271961.0,63.538572316077826,1760
+Family Practice,"Injection, vitamin b-12 cyanocobalamin, up to 1000 mcg",101759.0,1.210226373995632,1076
+Family Practice,"Established patient home visit, typically 25 minutes",14389.0,60.59342800034128,126
+Family Practice,"New patient office or other outpatient visit, 45-59 minutes",193551.0,109.54338702581771,5525
+Diagnostic Radiology,"X-ray of entire middle and lower spine, 2-3 views",16262.0,24.39030797760051,338
+Diagnostic Radiology,Aspiration and/or injection of fluid from large joint,11148.0,41.995173569862466,341
+Diagnostic Radiology,Single contrast x-ray of upper digestive tract,6326.0,35.178277256083014,263
+Family Practice,"Thyroxine (thyroid chemical), free",103580.0,8.875809972371938,834
+Medical Oncology,"Injection, ondansetron hydrochloride, per 1 mg",129097.0,0.06710537672222222,108
+Internal Medicine,"Detection test by immunoassay with direct visual observation for streptococcus, group a (strep)",12459.0,16.240439000382025,356
+Family Practice,Detection test by immunoassay with direct visual observation for influenza virus,83276.0,16.21329115666565,1461
+Family Practice,"Initial hospital inpatient care per day, typically 70 minutes",154350.0,157.33931519246818,1964
+Family Practice,Ultrasound of both sides of head and neck blood flow,13518.0,149.48067525219548,220
+Family Practice,"Pneumococcal conjugate vaccine, 20 valent (pcv20), for intramuscular use",50338.0,274.805916586579,2216
+Medical Oncology,Unclassified drugs,12001.0,0.9267502618319443,144
+Internal Medicine,"Follow-up hospital inpatient care per day, typically 15 minutes",186570.0,31.765039442707657,1960
+Family Practice,Detection test by immunoassay technique for severe acute respiratory syndrome coronavirus,132705.0,39.76285313525326,1657
+Hematology-Oncology,"Blood test, thyroid stimulating hormone (tsh)",54122.0,16.625308117199996,340
+Clinical Laboratory,"Detection test by nucleic acid for multiple types of respiratory virus, multiple types or subtypes, 3-5 targets",80160.0,140.17919857129823,114
+Diagnostic Radiology,Ct guidance for insertion of radiation therapy fields,10066.0,50.03973181092436,115
+Family Practice,"Removal of skin and tissue, 20.0 sq cm or less",151181.0,63.58177326824999,290
+Family Practice,"Annual, face-to-face intensive behavioral therapy for cardiovascular disease, individual, 15 minutes",53144.0,27.20028443971076,502
+Family Practice,Ldl cholesterol level,22337.0,10.333876294696063,127
+Medical Oncology,"Injection, granisetron hydrochloride, 100 mcg",112984.0,0.2685874267462069,145
+Diagnostic Radiology,Ct scan of chest with contrast,479054.0,53.08784290371446,5666
+Diagnostic Radiology,Mri scan of brain without contrast,358889.0,79.51291807875944,4120
+Clinical Laboratory,Detection test by immunoassay technique for hepatitis b surface antigen,109055.0,10.149984720528971,107
+Clinical Laboratory,Magnesium level,758517.0,6.604956166164369,261
+Diagnostic Radiology,Insertion of needle into vein for collection of blood sample,18907.0,2.9611719422565845,205
+Family Practice,Anticoagulant management of patient taking warfarin,28892.0,7.316527094704062,197
+Physical Therapist in Private Practice,"Evaluation for physical therapy, typically 30 minutes",405831.0,77.54730817900187,9796
+Diagnostic Radiology,"X-ray of upper spine, 4-5 views",46437.0,22.03999470527757,1556
+Rheumatology,"Infusion, normal saline solution, 250 cc",37192.0,0.5145658820788732,142
+Hematology-Oncology,"New patient office or other outpatient visit, 60-74 minutes",81404.0,164.162683738352,1937
+Physical Therapist in Private Practice,"Re-evaluation for physical therapy, typically 20 minutes",168246.0,55.10572697560691,3201
+Internal Medicine,Test to determine lung volumes using gas dilution or washout,14356.0,29.849773732305987,157
+Diagnostic Radiology,Ct scan of soft tissue of neck without contrast,6403.0,66.28958933148459,344
+Medical Oncology,"Administration of chemotherapy into vein, 1 hour or less",105149.0,111.1363831663325,385
+Family Practice,"X-ray of hip, 2-3 views",5470.0,30.219384075255977,207
+Hematology-Oncology,Oncology care model (ocm) monthly enhanced oncology services (meos) payment for ocm enhanced services. g9678 payments may only be made to ocm practitioners for ocm beneficiaries for the furnishment of enhanced services as defined in the ocm participation a,70065.0,159.62305185552,372
+Internal Medicine,"Colorectal cancer screening; fecal occult blood test, immunoassay, 1-3 simultaneous",17019.0,17.745672634387294,307
+Medical Oncology,Insertion of needle into vein for collection of blood sample,313971.0,2.954937489995946,370
+Physical Therapist in Private Practice,"Application of electrical stimulation with therapist present, each 15 minutes",125729.0,9.499354991454236,295
+Family Practice,Detection test by nucleic acid for multiple types influenza virus,4951.0,93.49382115041959,143
+Family Practice,Insertion of needle into vein for collection of blood sample,1354889.0,2.9537500034299193,6341
+Family Practice,"Detection test by immunoassay with direct visual observation for streptococcus, group a (strep)",27744.0,16.19536830241911,963
+Diagnostic Radiology,"X-ray of lower and sacral spine, 2-3 views",246375.0,13.391307722154597,4507
+Family Practice,"Follow-up hospital inpatient care per day, typically 15 minutes",37767.0,30.71472883060731,438
+Clinical Laboratory,Creatinine level to test for kidney function or muscle injury,1382491.0,5.100058892018325,191
+Internal Medicine,Exercise or drug-induced heart stress test with electrocardiogram (ecg) with supervision and review by physician,12917.0,53.94111326511795,195
+Family Practice,"Follow-up nursing facility visit per day, typically 10 minutes",108759.0,33.48030484820114,475
+Hematology-Oncology,Immunologic analysis technique on serum (immunofixation),26194.0,21.95084047503018,232
+Diagnostic Radiology,"X-ray of forearm, 2 views",26219.0,6.6834330455907995,1310
+Hematology-Oncology,"Infusion into a vein for therapy, prevention, or diagnosis, each additional hour",68598.0,17.118946468651117,579
+Clinical Laboratory,Vitamin d-3 level,1974484.0,29.100801098060085,233
+Diagnostic Radiology,"X-ray of abdomen, 2 views",37799.0,10.6413939842604,1489
+Internal Medicine,Blood glucose (sugar) test performed by hand-held instrument,69569.0,3.2298489771355086,521
+Family Practice,"Established patient custodial care facility, group care, or assisted living visit, typically 1 hour",24415.0,142.10952775579258,134
+Medical Oncology,"Injection, pembrolizumab, 1 mg",2281202.0,42.008611460969135,162
+Internal Medicine,Measurement c-reactive protein for detection of infection or inflammation,24527.0,5.112419234977866,253
+Internal Medicine,"Influenza vaccine, quadrivalent inactivated, 0.5 ml dosage",123363.0,69.41976394921481,2238
+Internal Medicine,"Established patient office or other outpatient visit, 10-19 minutes",260259.0,41.147666438672765,3371
+Family Practice,"Ultrasound of heart with color-depicted blood flow, rate, direction and valve function",14975.0,136.00033106755845,265
+Diagnostic Radiology,Ct scan of head or brain before and after contrast,5706.0,75.50638995371999,289
+Internal Medicine,Adm sarscov2 50mcg/0.25mlbst,38317.0,41.27703860794119,578
+Internal Medicine,"Management using the results of remote vital sign monitoring per calendar month, first 20 minutes",221388.0,40.98477306976983,637
+Diagnostic Radiology,Single contrast x-ray of esophagus,20524.0,31.33997512825898,829
+Diagnostic Radiology,Mri scan of lower spinal canal before and after contrast,45351.0,135.31602841927386,1525
+Clinical Laboratory,"Thyroid hormone, t3 measurement, free",524809.0,16.60990841165926,189
+Family Practice,"Removal of skin and tissue, each additional 20.0 sq cm or less",24799.0,26.296485928821255,144
+Family Practice,"Injection, betamethasone acetate 3 mg and betamethasone sodium phosphate 3 mg",22431.0,4.685223083256983,179
+Rheumatology,"Measurement of complement (immune system proteins), antigen,",20999.0,11.707390292701923,104
+Diagnostic Radiology,Complete ultrasound scan of pelvis,64205.0,49.92855118498773,1882
+Internal Medicine,"Follow-up nursing facility visit per day, typically 35 minutes",146845.0,106.32056809593637,760
+Hematology-Oncology,Automated urinalysis test,8348.0,2.2053495342567166,134
+Rheumatology,Aspiration and/or injection of fluid from medium joint,3197.0,41.57398187408108,111
+Family Practice,"Red blood cell sedimentation rate, to detect inflammation, automated",4096.0,2.6636049511040274,149
+Internal Medicine,"Extended patient service without direct patient contact, first hour",26133.0,89.39008442989176,221
+Internal Medicine,"Use of a drug to induce depression of consciousness by physician performing a procedure (5 years or older), initial 15 minutes",8489.0,12.981873451805756,133
+Internal Medicine,"Uric acid level, blood",85101.0,4.458817774552877,643
+Clinical Laboratory,"Infectious agent detection by nucleic acid (dna or rna); severe acute respiratory syndrome coronavirus 2 (sars-cov-2) (coronavirus disease [covid-19]), amplified probe technique, making use of high throughput technologies as described by cms-2020-01-r",2845235.0,74.12321777873295,347
+Family Practice,"Blood test, basic group of blood chemicals (calcium, total)",59857.0,8.325300226381689,710
+Pharmacy,"Provision of covid-19 test, nonprescription self-administered and self-collected use, fda approved, authorized or cleared, one test count",10101765.0,11.617439069297712,350
+Internal Medicine,"Extended inpatient or observation hospital service, first hour",21239.0,74.43025660619837,245
+Hematology-Oncology,Unclassified drugs,43086.0,17.9263307681054,296
+Clinical Laboratory,Homocysteine (amino acid) level,93820.0,17.691423378362742,102
+Internal Medicine,"Telephone medical discussion with physician, 11-20 minutes",196441.0,61.27086876152126,2586
+Internal Medicine,"Influenza vaccine, quadrivalent derived from cell cultures",33174.0,29.574416838026572,640
+Internal Medicine,"Hospital discharge day management, 30 minutes or less",238745.0,58.490541298426066,4531
+Family Practice,"Colorectal cancer screening; fecal occult blood test, immunoassay, 1-3 simultaneous",14482.0,17.764899691145764,295
+Family Practice,"Initial nursing facility visit per day, typically 25 minutes",20114.0,70.14287734460062,207
+Diagnostic Radiology,Ultrasound study of arm or leg veins with compression and maneuvers,236151.0,46.92934141205277,4528
+Internal Medicine,Phosphate level,37501.0,4.6904406403759795,204
+Internal Medicine,Assessment of emotional or behavioral problems,43597.0,3.617407662549184,429
+Clinical Laboratory,"Complete blood cell count (red cells, white blood cell, platelets), automated test",831790.0,6.381658448115384,169
+Diagnostic Radiology,Ct scan head or brain without contrast,1585969.0,38.106830643274414,6257
+Rheumatology,Injection of additional new drug or substance into vein,28607.0,13.000836998397,200
+Hematology-Oncology,"Complete blood cell count (red cells, white blood cell, platelets), automated test and automated differential white blood cell count",1207492.0,7.6422334791604,1053
+Internal Medicine,Coronavirus vaccine 14,6933.0,0.010000000000000005,172
+Clinical Laboratory,"Detection test for candida species (yeast), amplified probe technique",625364.0,34.26584162620001,150
+Family Practice,"Brief communication technology-based service, e.g. virtual check-in, by a physician or other qualified health care professional who can report evaluation and management services, provided to an established patient, not originating from a related e/m servic",24047.0,9.466637878478432,101
+Diagnostic Radiology,"X-ray of ankle, 2 views",10669.0,8.727424888239511,380
+Hematology-Oncology,"Telephone medical discussion with physician, 5-10 minutes",5913.0,35.2788277005,140
+Internal Medicine,Electrocardiogram (ecg) 2-day continuous with review by health care professional,4789.0,13.724437468480911,103
+Diagnostic Radiology,Mri scan of blood vessels of head without contrast,51580.0,76.06699621740087,1500
+Clinical Laboratory,Measurement of total estradiol (hormone),139468.0,27.369144181702517,119
+Diagnostic Radiology,Ultrasonic guidance for needle placement,19337.0,27.607884818419233,739
+Internal Medicine,"New patient custodial care facility, group care, or assisted living visit, typically 1 hour",3624.0,139.6124340132549,102
+Internal Medicine,Continuous monitoring of blood sugar level in tissue fluid using sensor under skin with interpretation and report,16431.0,27.705266411121944,164
+Internal Medicine,"Manual urinalysis test with examination using microscope, automated",90625.0,3.126099278086875,640
+Family Practice,Administration of vaccine,15675.0,11.2105912965914,767
+Family Practice,Parathormone (parathyroid hormone) level,15948.0,40.6451660191223,139
+Diagnostic Radiology,Ultrasound of leg arteries or artery grafts,43260.0,77.15896363279904,1143
+Diagnostic Radiology,Mri scan of pelvis before and after contrast,101256.0,151.5197262910084,1464
+Internal Medicine,Iron level,81492.0,6.377393353009972,692
+Rheumatology,"X-ray of hand, minimum of 3 views",15033.0,30.559715769833335,150
+Clinical Laboratory,Ldl cholesterol level,135867.0,10.370328425730767,104
+Diagnostic Radiology,Ct scan of middle spine without contrast,52649.0,40.2702323103915,1942
+Diagnostic Radiology,Ultrasound scan of chest,12651.0,22.78143527848115,441
+Internal Medicine,"Complex chronic care management services for two or more chronic conditions, each additional 60 minutes of clinical staff time directed by health care professional, per calendar month",68717.0,53.60865975414598,134
+Diagnostic Radiology,Ct scan of arm without contrast,24503.0,61.812595556693914,860
+Medical Oncology,"Injection, iron sucrose, 1 mg",1412663.0,0.16083956700970872,103
+Family Practice,"Annual alcohol misuse screening, 15 minutes",165359.0,18.837020044530956,1595
+Medical Oncology,"Administration of chemotherapy into vein, each additional hour",34179.0,23.703651043853743,294
+Diagnostic Radiology,Ct scan of abdomen before and after contrast,11862.0,111.51682708242807,573
+Family Practice,"Influenza vaccine, quadrivalent, 0.5 ml dosage",18147.0,19.76351575792698,471
+Internal Medicine,Anticoagulant management of patient taking warfarin,37089.0,7.775950688415823,156
+Internal Medicine,Testing of autonomic (sympathetic) nervous system function,10267.0,105.60028901497607,167
+Internal Medicine,Hospital observation care on day of discharge,110731.0,56.583791006066896,3839
+Internal Medicine,Prolonged office or other outpatient evaluation and management service(s) beyond the maximum required time of the primary procedure which has been selected using total time on the date of the primary service; each additional 15 minutes by the physician or,23573.0,26.439925244172883,230
+Internal Medicine,Administration of pneumococcal vaccine,116337.0,30.995579850318205,4028
+Diagnostic Radiology,Complete ultrasound of abdomen and pelvis artery and vein blood flow,19499.0,83.2843481915023,620
+Hematology-Oncology,"Injection, diphenhydramine hcl, up to 50 mg",120645.0,0.8746802872739176,947
+Diagnostic Radiology,"X-ray of sacrum and tailbone, minimum of 2 views",6119.0,14.603180966466434,270
+Clinical Laboratory,Prolactin (milk producing hormone) level,48522.0,19.109360789896225,106
+Internal Medicine,"Influenza vaccine, quadrivalent derived from recombinant dna",25721.0,59.20610022674635,477
+Diagnostic Radiology,Review by radiologist of ct guidance for needle placement,25682.0,61.5241579991619,917
+Diagnostic Radiology,Mri scan of arm joint without contrast,126769.0,97.27536819069897,1755
+Clinical Laboratory,Bacterial culture for aerobic isolates,634069.0,7.972020976331897,116
+Family Practice,"X-ray of knee, 4 or more views",8747.0,31.362304581404455,156
+Medical Oncology,Injection of drug or substance under skin or into muscle,100217.0,11.342208004957905,392
+Diagnostic Radiology,"Injection, gadoterate meglumine, 0.1 ml",14092954.0,0.11241810881723073,975
+Family Practice,"Annual depression screening, 15 minutes",350039.0,18.431754470338383,3719
+Hematology-Oncology,"Initial hospital inpatient care per day, typically 50 minutes",27641.0,110.2273196815847,667
+Clinical Laboratory,"Red blood cell sedimentation rate, to detect inflammation, automated",662993.0,2.6651571424023253,129
+Family Practice,"Removal of muscle and/or tissue, each additional 20.0 sq cm or less",20688.0,54.514449869668645,109
+Physical Therapist in Private Practice,"Therapy procedure to re-educate brain-to-nerve-to-muscle function, each 15 minutes",7907312.1,23.959795599499422,14888
+Internal Medicine,"Dxa bone density measurement of hip, pelvis, spine",26655.0,37.49980799536646,489
+Family Practice,Phosphate level,21941.0,4.6800486200796465,113
+Pharmacy,"Influenza vaccine split virus, preservative free",20917.0,68.3349597935437,263
+Internal Medicine,Adm sarscov2 100mcg/0.5ml3rd,5605.1,40.692368545915656,166
+Diagnostic Radiology,"X-ray of lower and sacral spine, minimum of 4 views",123230.0,19.489850811286463,2772
+Internal Medicine,"Urinalysis, manual test",143393.0,3.428448228984023,2015
+Family Practice,"Electrocardiogram, routine ecg with 12 leads; performed as a screening for the initial preventive physical examination with interpretation and report",5787.0,7.078417447610305,330
+Hematology-Oncology,Administration of additional new drug or substance into vein using push technique,21082.0,47.27069788309259,378
+Hematology-Oncology,Iron level,140472.0,6.386864192003629,496
+Hematology-Oncology,"Low osmolar contrast material, 300-399 mg/ml iodine concentration, per ml",1716074.0,0.08999559130622567,257
+Internal Medicine,"Blood test, clotting time",61350.0,4.231180504852717,497
+Family Practice,"Infectious agent detection by nucleic acid (dna or rna); severe acute respiratory syndrome coronavirus 2 (sars-cov-2) (coronavirus disease [covid-19]), amplified probe technique, making use of high throughput technologies as described by cms-2020-01-r",4356.0,73.99274417773134,134
+Internal Medicine,"New patient office or other outpatient visit, 15-29 minutes",16742.0,57.58293684872527,273
+Clinical Laboratory,"Liver enzyme (sgpt), level",806028.0,5.159414621528244,131
+Family Practice,Ultrasound study of arm or leg veins with compression and maneuvers,6739.0,147.40316527026127,111
+Diagnostic Radiology,"X-ray of wrist, 2 views",10627.0,10.932545749012437,388
+Rheumatology,"Administration of chemotherapy into vein, each additional hour",63208.6,24.014099332522612,398
+Diagnostic Radiology,Ultrasound scan of head and neck soft tissue,221911.0,42.85069560946001,3763
+Family Practice,Comprehensive assessment of and care planning for patients requiring chronic care management services (list separately in addition to primary monthly care management service),11454.0,46.091736540075345,145
+Family Practice,"Established patient custodial care facility, group care, or assisted living visit, typically 25 minutes",65404.0,69.94007584456831,301
+Rheumatology,"Injection, romosozumab-aqqg, 1 mg",3294714.2,7.470714054093453,168
+Hematology-Oncology,"Blood test, basic group of blood chemicals (calcium, total)",28650.0,8.325557405338461,195
+Internal Medicine,"Electrocardiogram, routine ecg with 12 leads; performed as a screening for the initial preventive physical examination with interpretation and report",5443.0,7.500630112498738,317
+Hematology-Oncology,Injection of drug or substance under skin or into muscle,403471.0,11.658999709971301,1254
+Diagnostic Radiology,Mri scan of abdomen without contrast,22266.0,78.90501103771284,1005
+Clinical Laboratory,"Detection test by nucleic acid for mycoplasma pneumoniae (bacteria), amplified probe technique",92812.0,34.64797223365454,110
+Internal Medicine,Transferrin (iron binding protein) level,9012.0,12.539004635961163,103
+Internal Medicine,"Ultrasound of heart with color-depicted blood flow, rate and valve function",6821.0,8.09576511205083,167
+Hematology-Oncology,"Red blood count automated, with additional calculations",14647.0,5.480222845522642,159
+Diagnostic Radiology,Fluoroscopic guidance for needle placement,16989.0,46.14022984085251,546
+Hematology-Oncology,"Established patient office or other outpatient visit, 40-54 minutes",364324.0,131.6876403176482,2211
+Family Practice,"Complex chronic care management services for two or more chronic conditions, first 60 minutes of clinical staff time directed by health care professional, per calendar month",45747.0,98.17981605085455,227
+Family Practice,Magnesium level,39874.0,6.599197083854607,293
+Diagnostic Radiology,"Imaging guidance for procedure, 60 minutes or less",8397.0,13.024635386720245,162
+Family Practice,"Annual wellness visit; includes a personalized prevention plan of service (pps), initial visit",62313.0,160.34384976733625,2475
+Family Practice,Removal of impacted ear wax,22970.0,33.389946235332594,896
+Diagnostic Radiology,"Dxa bone density measurement of hip, pelvis, spine including spine fracture assessment",12361.0,36.1590880048402,199
+Family Practice,"Established patient office or other outpatient visit, 30-39 minutes",5107027.1,84.06215286097888,19604
+Internal Medicine,"Follow-up nursing facility visit per day, typically 25 minutes",987975.0,71.94137629757596,2111
+Family Practice,"Follow-up nursing facility visit per day, typically 25 minutes",478730.0,69.95746759735961,1119
+Diagnostic Radiology,"X-ray of upper arm, minimum of 2 views",40999.0,7.126756701166362,1852
+Internal Medicine,"Physician or allowed practitioner re-certification for medicare-covered home health services under a home health plan of care (patient not present), including contacts with home health agency and review of reports of patient status required by physicians a",91223.0,32.12904386122476,1262
+Internal Medicine,Test to measure expiratory airflow and volume,37411.0,19.53782891351364,479
+Internal Medicine,"Smoking and tobacco use intensive counseling, 4-10 minutes",13570.0,15.554741150280528,381
+Family Practice,"X-ray of knee, 3 views",5627.0,26.442632916491178,170
+Medical Oncology,"Injection, fosaprepitant, 1 mg",1119902.0,0.13452530187213113,122
+Internal Medicine,Transitional care management services for problem of moderate complexity,50915.0,154.66430410110996,1977
+Clinical Laboratory,"Drug test(s), definitive, utilizing (1) drug identification methods able to identify individual drugs and distinguish between structural isomers (but not necessarily stereoisomers), including, but not limited to gc/ms (any type, single or tandem) and lc/ms",553921.0,175.85647995612746,165
+Rheumatology,"Injection, diphenhydramine hcl, up to 50 mg",11132.0,0.8748256628247707,109
+Family Practice,"Initial hospital observation care per day, typically 70 minutes",24192.0,139.28051305515885,660
+Diagnostic Radiology,"Placement of locating device in breast using ultrasound guidance, first growth",3101.0,116.35234550942704,185
+Internal Medicine,"X-ray of lower and sacral spine, 2-3 views",3899.0,27.07588521824515,155
+Clinical Laboratory,Measure of severe acute respiratory syndrome coronavirus 2 (covid-19) antibody,260228.0,41.5533492144087,115
+Family Practice,Administration of influenza virus vaccine,556805.0,29.643490175105246,10333
+Internal Medicine,Detection test by immunoassay technique for severe acute respiratory syndrome coronavirus,57634.0,38.7674126551336,741
+Family Practice,Detection test by immunoassay with direct visual observation for severe acute respiratory syndrome coronavirus 2 (covid-19),43721.0,40.0806948873023,569
+Diagnostic Radiology,"Placement of locating device in breast using imaging guidance, first growth",3325.0,92.79487378420315,192
+Family Practice,Physician or allowed practitioner supervision of a patient receiving medicare-covered services provided by a participating home health agency (patient not present) requiring complex and multidisciplinary care modalities involving regular physician or allow,70763.0,83.14545494458037,252
+Diagnostic Radiology,"Nuclear medicine study, 1 area with spect and concurrent ct scan",5925.0,105.29133415048146,129
+Family Practice,"Initial nursing facility visit per day, typically 35 minutes",48612.0,100.77468933368891,586
+Family Practice,"Face-to-face behavioral counseling for obesity, 15 minutes",40296.0,27.665205288352944,459
+Clinical Laboratory,"Liver enzyme (sgot), level",180218.0,5.025843897061476,122
+Rheumatology,"Injection, tocilizumab, 1 mg",7066013.8,4.5904227303741,139
+Internal Medicine,"Follow-up hospital inpatient care per day, typically 35 minutes",3242678.0,83.46302741776185,11717
+Rheumatology,Aspiration and/or injection of fluid large joint using ultrasound guidance,31499.0,84.28722971839804,206
+Clinical Laboratory,"Thyroid hormone, t3 measurement, total",187011.0,14.001088959817608,159
+Hematology-Oncology,"Injection, pegfilgrastim, excludes biosimilar, 0.5 mg",89272.0,123.63904770880212,192
+Family Practice,Urine microalbumin (protein) level,54590.0,5.674057590180493,810
+Hematology-Oncology,"Administration of additional new drug or substance into vein, 1 hour or less",89380.0,55.8872385914607,840
+Medical Oncology,"Injection, denosumab, 1 mg",1415238.0,16.984720321875574,217
+Diagnostic Radiology,"Established patient office or other outpatient visit, 20-29 minutes",16606.0,65.01795733119738,149
+Internal Medicine,Ultrasound study of arm and leg arteries,22139.0,64.71758487613539,322
+Family Practice,"X-ray of wrist, minimum of 3 views",2586.0,28.09764575886972,109
+Clinical Laboratory,"Detection test by nucleic acid for strep (streptococcus, group b), amplified probe technique",190494.0,34.51275481209836,122
+Family Practice,"Annual wellness visit, includes a personalized prevention plan of service (pps), subsequent visit",1193044.0,127.00281571382935,12972
+Diagnostic Radiology,Ct scan of lower spine without contrast,153500.0,46.43643658729889,3753
+Physical Therapist in Private Practice,"Evaluation for physical therapy, typically 20 minutes",472331.0,77.46087223840907,10124
+Internal Medicine,Ultrasound of leg arteries or artery grafts,16632.0,193.69565531011486,294
+Diagnostic Radiology,"Injection, triamcinolone acetonide, not otherwise specified, 10 mg",19251.5,0.8781677944446603,103
+Internal Medicine,"Testosterone (hormone) level, total",15971.0,25.40028901063592,206
+Diagnostic Radiology,Nuclear medicine study whole body with ct scan,17294.0,549.123425835604,400
+Rheumatology,"Blood test, thyroid stimulating hormone (tsh)",9946.0,16.515517699298247,114
+Medical Oncology,Microscopic examination for white blood cells with manual cell count,13661.0,3.742207629523016,126
+Diagnostic Radiology,Ct scan of blood vessels of head with contrast,175132.0,73.30299102853907,3435
+Physical Therapist in Private Practice,"Therapy procedure using manual technique, each 15 minutes",8821731.4,17.185248147373116,16180
+Hematology-Oncology,"Injection, pembrolizumab, 1 mg",6530819.0,41.417706509283256,430
+Internal Medicine,"Injection, vitamin b-12 cyanocobalamin, up to 1000 mcg",159875.0,1.2313815871389078,1465
+Diagnostic Radiology,"Established patient office or other outpatient visit, 30-39 minutes",11292.0,95.72548926969046,124
+Internal Medicine,Blood glucose (sugar) level,54462.0,3.8700978570519737,304
+Internal Medicine,"Initial hospital inpatient care per day, typically 50 minutes",257168.0,108.7858408268195,4786
+Family Practice,Testing of autonomic (sympathetic) nervous system function,6046.0,99.42094594612388,113
+Diagnostic Radiology,Complete ultrasound scan of joint,5592.0,35.099171730025645,115
+Medical Oncology,"Infusion, normal saline solution , 1000 cc",19242.0,2.0518768134657277,213
+Medical Oncology,Administration of hormonal anti-neoplastic chemotherapy under skin or into muscle,13370.0,26.216124874069365,173
+Diagnostic Radiology,Insertion of non-tunneled central venous tube for infusion (5 years or older),4087.0,68.69748093852134,211
+Diagnostic Radiology,Mri scan of middle spinal canal before and after contrast,18120.0,128.07159421290424,696
+Internal Medicine,"Stool analysis for blood, by fecal hemoglobin determination by immunoassay",7760.0,15.634305162678572,168
+Internal Medicine,"Follow-up hospital inpatient care per day, typically 25 minutes",3540251.0,57.98227106941041,12258
+Internal Medicine,"Evaluation of antimicrobial drug (antibiotic, antifungal, antiviral), microdilution or agar dilution",6027.0,8.53974557043871,155
+Internal Medicine,"Initial hospital observation care per day, typically 50 minutes",32500.0,103.03245479305482,1075
+Hematology-Oncology,"Injection, ferumoxytol, for treatment of iron deficiency anemia, 1 mg (non-esrd use)",18261815.0,0.6479043428856515,453
+Rheumatology,"Red blood cell sedimentation rate, to detect inflammation, non-automated",53353.0,4.193051544759167,120
+Family Practice,"Urinalysis, manual test",159894.0,3.425573723782924,3244
+Diagnostic Radiology,Removal of tunneled central venous tube,2374.0,107.178364038406,132
+Internal Medicine,Administration of influenza virus vaccine,595006.0,30.558729344977966,9182
+Family Practice,"New patient office or other outpatient visit, 15-29 minutes",24111.0,59.564742793390046,623
+Internal Medicine,Removal of impacted ear wax by washing,7701.0,12.862476848082553,321
+Diagnostic Radiology,"Biopsy of breast and placement of locating device using x-ray with needle, first growth",9563.0,248.19994406356577,501
+Family Practice,"X-ray of lower and sacral spine, 2-3 views",7340.0,26.10250190251686,266
+Family Practice,"Manual urinalysis test with examination using microscope, non-automated",30914.0,3.954549104566996,303
+Internal Medicine,"Infectious agent detection by nucleic acid (dna or rna); severe acute respiratory syndrome coronavirus 2 (sars-cov-2) (coronavirus disease [covid-19]), amplified probe technique, cdc or non-cdc, making use of high throughput technologies, completed within",6672.0,24.71192132553731,134
+Diagnostic Radiology,Complete ultrasound scan behind abdominal cavity,323503.0,40.15335483366186,5234
+Hematology-Oncology,"Infusion into a vein for therapy, prevention, or diagnosis, 1 hour or less",186441.0,55.65642356256275,1148
+Internal Medicine,"Established patient custodial care facility, group care, or assisted living visit, typically 25 minutes",92143.0,71.43602560472492,453
+Rheumatology,Administration of non-hormonal anti-neoplastic chemotherapy under skin or into muscle,145680.0,60.7793194745572,472
+Family Practice,"Evaluation of antimicrobial drug (antibiotic, antifungal, antiviral), microdilution or agar dilution",5833.0,8.535041966310493,162
+Hematology-Oncology,"Injection, rituximab-pvvr, biosimilar, (ruxience), 10 mg",252983.0,37.84568318510377,106
+Hematology-Oncology,Transferrin (iron binding protein) level,21654.0,12.628290254514086,142
+Rheumatology,"Measurement of antibody for assessment of autoimmune disorder, any method",112697.0,17.570743676406504,123
+Family Practice,"Detection test by nucleic acid for strep (streptococcus, group a), amplified probe technique",2612.0,34.36103204514,100
+Internal Medicine,"Follow-up observation care per day, typically 25 minutes",37826.0,55.68332242220035,1188
+Hematology-Oncology,"Blood test, clotting time",24577.0,4.224259195373251,243
+Internal Medicine,Urine microalbumin (protein) level,73760.0,5.687301638268735,790
+Medical Oncology,"Infusion into a vein for hydration, 31-60 minutes",9371.0,27.687754889454546,154
+Clinical Laboratory,"Detection test by nucleic acid for vancomycin resistance strep (vre), amplified probe technique",161812.0,34.54859510500826,121
+Diagnostic Radiology,Mri scan of heart before and after contrast,5715.0,148.37600407473371,175
+Rheumatology,"Injection, methylprednisolone acetate, 20 mg",6727.5,2.3573297401970876,103
+Diagnostic Radiology,Mri scan of lower spinal canal without contrast,382868.0,88.23820623721366,3743
+Diagnostic Radiology,"X-ray of finger, minimum of 2 views",18752.0,12.180395330799998,783
+Family Practice,"Injection, ketorolac tromethamine, per 15 mg",101783.0,0.40788199774458334,720
+Medical Oncology,"Established patient office or other outpatient visit, 30-39 minutes",414260.0,86.28927311398049,1280
+Rheumatology,"Telephone medical discussion with physician, 21-30 minutes",5256.0,84.79116594215702,118
+Family Practice,"Physician or allowed practitioner re-certification for medicare-covered home health services under a home health plan of care (patient not present), including contacts with home health agency and review of reports of patient status required by physicians a",71669.0,31.011057241190844,916
+Internal Medicine,"Blood test, lipids (cholesterol and triglycerides)",475052.0,13.178797864739957,1514
+Medical Oncology,"Low osmolar contrast material, 300-399 mg/ml iodine concentration, per ml",559173.0,0.08835463677876106,113
+Diagnostic Radiology,Mri scan of leg joint before and after contrast,2246.0,180.23506010865077,116
+Diagnostic Radiology,Mri scan of brain before and after contrast,279297.0,134.3481497861266,3169
+Medical Oncology,"Telephone medical discussion with physician, 21-30 minutes",4924.0,85.97788441827271,109
+Ambulance Service Provider,"Ambulance service, basic life support, non-emergency transport, (bls)",881079.6000000001,192.3310032594546,715
+Medical Oncology,"Established patient office or other outpatient visit, 20-29 minutes",154304.0,59.37489643091714,855
+Medical Oncology,"Infusion into a vein for therapy, prevention, or diagnosis, each additional hour",19254.0,16.769969254505263,190
+Clinical Laboratory,Prostate cancer screening; prostate specific antigen test (psa),297556.0,18.984809384754715,106
+Diagnostic Radiology,"X-ray of thigh bone, minimum 2 views",96049.0,7.9932877868535845,3147
+Diagnostic Radiology,Insertion of central venous tube with port (5 years or older),8401.0,309.27346749277507,412
+Family Practice,Removal of impacted ear wax by washing,7933.0,12.175963096203073,391
+Family Practice,Detection test by immunoassay technique for severe acute respiratory syndrome coronavirus and influenza,30413.0,30.28399066831318,645
+Family Practice,"Stool analysis for blood, by fecal hemoglobin determination by immunoassay",5117.0,15.665436134177416,124
+Diagnostic Radiology,"Fine needle aspiration biopsy using ultrasound guidance, first growth",12175.0,73.10644333132653,485
+Pharmacy,Administration of pneumococcal vaccine,3288.0,27.194164120377874,113
+Rheumatology,Insertion of needle into vein for collection of blood sample,169337.0,2.949394926224362,509
+Family Practice,Ultrasound of leg arteries or artery grafts,6105.0,195.84340800854545,110
+Family Practice,Amplifed dna or rna probe detection of severe acute respiratory syndrome coronavirus 2 (covid-19) antigen,65139.0,50.34552736862948,923
+Clinical Laboratory,"Blood test, basic group of blood chemicals (calcium, total)",1201689.0,8.342970889880695,259
+Diagnostic Radiology,"Injection, gadolinium-based magnetic resonance contrast agent, not otherwise specified (nos), per ml",316636.5,1.22801474810375,320
+Diagnostic Radiology,Limited ultrasound scan of joint or other extremity structure lacking blood vessels,35165.0,26.67229124851905,1275
+Medical Oncology,Injection of additional new drug or substance into vein,103950.0,12.93364128630725,345
+Internal Medicine,Emergency department visit for problem of moderate severity,10145.0,57.337870054026915,260
+Rheumatology,"X-ray of shoulder, minimum of 2 views",5907.0,26.803961878362067,116
+Internal Medicine,Electrocardiogram (ecg) 2-day continuous with review and report by health care professional,4546.0,57.89296712880166,121
+Family Practice,"Established patient office or other outpatient visit, 10-19 minutes",180963.0,40.544561470011665,3165
+Diagnostic Radiology,Ct scan of blood vessels of abdomen and pelvis with contrast,75165.0,99.85666055865187,2581
+Family Practice,Office or other outpatient visit for the evaluation and management of established patient that may not require presence of healthcare professional,149898.0,17.532304807178555,1460
+Hematology-Oncology,Administration of hormonal anti-neoplastic chemotherapy under skin or into muscle,42428.0,26.755040308655932,497
+Diagnostic Radiology,"X-ray of hip, minimum of 4 views",3450.0,18.476109364665078,123
+Family Practice,"Smoking and tobacco use intensive counseling, 4-10 minutes",12443.0,15.384792483509495,313
+Internal Medicine,Detection test by immunoassay with direct visual observation for influenza virus,38227.0,16.22530340393604,577
+Internal Medicine,Measure of severe acute respiratory syndrome coronavirus 2 (covid-19) antibody,26001.0,41.60345507085833,120
+Clinical Laboratory,Cyanocobalamin (vitamin b-12) level,1408113.0,14.847832929346023,239
+Internal Medicine,Test to determine lung volumes using sensors,17210.0,26.40998382221697,200
+Diagnostic Radiology,"X-ray of chest, 2 views",1457579.0,11.59154837137849,7365
+Internal Medicine,"Initial hospital inpatient care per day, typically 30 minutes",36367.0,82.86861087656894,1211
+Internal Medicine,"Red blood cell sedimentation rate, to detect inflammation, automated",18582.0,2.667768899017121,257
+Clinical Laboratory,Urine microalbumin (protein) level,1190831.0,5.602585075366852,181
+Pharmacy,Adm sarscov2 100mcg/0.5ml3rd,6939.0,40.3633974655375,160
+Diagnostic Radiology,Needle biopsy of liver through skin,3269.0,74.50508909531337,215
+Hematology-Oncology,Lactate dehydrogenase (enzyme) level,162369.0,5.958888217833086,535
+Internal Medicine,"Management using the results of remote vital sign monitoring per calendar month, each additional 20 minutes",130435.0,33.55085595398061,359
+Clinical Laboratory,"Valproic acid level, total",63120.0,13.368706455035088,114
+Family Practice,"Nursing facility discharge management, more than 30 minutes",10274.0,84.19218552121464,209
+Clinical Laboratory,"Detection test by nucleic acid for neisseria gonorrhoeae (gonorrhoeae bacteria), amplified probe technique",81097.0,34.60356925626761,142
+Ambulance Service Provider,"Ground mileage, per statute mile",27617216.49999999,6.975952916920196,2040
+Internal Medicine,"Complete blood cell count (red cells, white blood cell, platelets), automated test and automated differential white blood cell count",582809.0,7.65607569730927,1563
+Hematology-Oncology,"Fluorodeoxyglucose f-18 fdg, diagnostic, per study dose, up to 45 millicuries",16434.0,209.48686673307233,249
+Hematology-Oncology,"Blood test, comprehensive group of blood chemicals",523357.0,10.411974534691838,662
+Clinical Laboratory,"Red blood cell sedimentation rate, to detect inflammation, non-automated",137038.0,4.21688037301416,113
+Clinical Laboratory,"Detection test by nucleic acid for staphylococcus aureus, methicillin resistant (mrsa bacteria), amplified probe technique",141673.0,34.59774081807018,114
+Physical Therapist in Private Practice,"Repositioning exercises of head for treatment of dizziness, each day",10432.0,34.491790657549295,142
+Hematology-Oncology,"Follow-up hospital inpatient care per day, typically 35 minutes",201390.0,84.64330153473149,1408
+Hematology-Oncology,"Follow-up hospital inpatient care per day, typically 15 minutes",18994.0,31.52568124957728,220
+Internal Medicine,"Red blood cell sedimentation rate, to detect inflammation, non-automated",29134.0,4.2066295167748065,258
+Diagnostic Radiology,Mri scan of abdomen before and after contrast,140922.0,147.73658701691403,2148
+Internal Medicine,"New patient office or other outpatient visit, 30-44 minutes",85932.0,76.7477553856327,2269
+Family Practice,Emergency department visit for life threatening or functioning severity,73717.0,144.56866342324548,603
+Diagnostic Radiology,Nuclear medicine study of bone and/or joint whole body,36118.0,72.33467440533362,992
+Diagnostic Radiology,Ultrasound study of arm and leg arteries,12294.0,20.348461299825004,315
+Family Practice,"Influenza vaccine, quadrivalent derived from cell cultures, preservative and antibiotic free",17875.0,31.01520717037218,481
+Hematology-Oncology,Collection of blood sample from implanted device,10926.0,21.848356340192595,135
+Family Practice,"Destruction of skin growth, 1-14 growths",6524.0,81.16627886330252,119
+Physical Therapist in Private Practice,"Therapy procedure using massage, each 15 minutes",156856.0,21.033429864040933,342
+Medical Oncology,Nuclear medicine study from skull base to mid-thigh with ct scan,5366.0,1143.540744849672,122
+Diagnostic Radiology,Ct scan of heart with evaluation of blood vessel calcium,19544.0,44.590063838544246,426
+Clinical Laboratory,"Special stained specimen slides to examine tissue, initial procedure",213132.0,62.90938135590357,184
+Diagnostic Radiology,"New patient office or other outpatient visit, 30-44 minutes",4638.0,82.98501603240179,110
+Pharmacy,Adm sarscov2 30mcg/0.3ml bst,19585.0,40.26894556792223,180
+Hematology-Oncology,"Injection, gemcitabine hydrochloride, not otherwise specified, 200 mg",64200.0,2.9638219321940404,151
+Family Practice,"X-ray of lower and sacral spine, minimum of 4 views",3067.0,32.795526703449156,117
+Medical Oncology,"Injection, vitamin b-12 cyanocobalamin, up to 1000 mcg",21033.0,1.2753684038800002,120
+Internal Medicine,Testing of autonomic nervous system function and heart rate response to deep breathing,6655.0,74.02888767331683,101
+Internal Medicine,"Initial hospital inpatient care per day, typically 70 minutes",917703.0,159.3192530431681,11086
+Clinical Laboratory,"Cortisol (hormone) measurement, total",91581.0,16.083832397913042,115
+Family Practice,Aspiration and/or injection of fluid large joint using ultrasound guidance,25968.0,78.85311094154504,204
+Clinical Laboratory,"Blood count, hemoglobin",52719.0,2.3534803521495147,103
+Hematology-Oncology,"Injection, filgrastim-sndz, biosimilar, (zarxio), 1 microgram",6492491.0,0.21178956496984125,189
+Diagnostic Radiology,Mri scan of upper spinal canal without contrast,160075.0,86.82754992581442,2893
+Family Practice,Screening mammography,7896.0,116.1427260169816,163
+Physical Therapist in Private Practice,"Therapy procedure using exercise to develop strength, endurance, range of motion, and flexibility, each 15 minutes",19343459.1,19.287880846282345,19297
+Hematology-Oncology,"Infusion, normal saline solution, sterile (500 ml = 1 unit)",36916.0,1.0365383010787967,349
+Rheumatology,"Injection, methylprednisolone acetate, 40 mg",33800.5,4.808383954847913,407
+Hematology-Oncology,Beta-2 microglobulin (protein) level,13676.0,15.978979402526313,133
+Diagnostic Radiology,X-ray of surgical specimen,10547.0,13.262201831717547,447
+Family Practice,Blood glucose (sugar) level,50889.0,3.8681617313077776,360
+Hematology-Oncology,"Injection, vitamin b-12 cyanocobalamin, up to 1000 mcg",90737.0,1.2760582921822783,553
+Internal Medicine,"Injection, methylprednisolone acetate, 40 mg",13167.0,4.613232396869637,247
+Internal Medicine,Sarscov2 vac 50mcg/0.25ml im,7300.0,0.010018886816778528,149
+Clinical Laboratory,"Complete blood cell count (red cells, white blood cell, platelets), automated test and automated differential white blood cell count",6593087.0,7.641217201646607,338
+Internal Medicine,Insertion of needle into vein (3 years or older),25980.0,13.63019513274348,183
+Hematology-Oncology,"Injection, darbepoetin alfa, 1 microgram (non-esrd use)",5775161.0,2.5125068773097565,246
+Internal Medicine,Insertion of needle into vein for collection of blood sample,1802044.5,2.956902487705334,6446
+Diagnostic Radiology,Ct scan of soft tissue of neck before and after contrast,2950.0,145.30706093772034,113
+Rheumatology,"Injection, methylprednisolone acetate, 80 mg",24870.5,8.169884030549795,243
+Hematology-Oncology,"Injection, ferric carboxymaltose, 1 mg",12636248.0,0.8845802013633588,262
+Diagnostic Radiology,Removal of spinal fluid with lower back spinal tap for diagnostic test using imaging guidance,3517.0,76.43957183368423,190
+Diagnostic Radiology,"X-ray of elbow, minimum of 3 views",51494.0,8.804840351373322,2140
+Medical Oncology,"Follow-up hospital inpatient care per day, typically 25 minutes",47111.0,57.94546689345965,409
+Internal Medicine,"Destruction of precancer skin growth, 2-14 growths",28180.0,5.192114152493701,127
+Medical Oncology,"Injection, ferumoxytol, for treatment of iron deficiency anemia, 1 mg (non-esrd use)",5379991.0,0.6434341345871795,156
+Diagnostic Radiology,Nuclear medicine study of liver and bile duct system with use of drugs,3509.0,100.20038315240116,169
+Internal Medicine,Ultrasound study of arm or leg veins with compression and maneuvers,18536.0,141.86479466840285,273
+Internal Medicine,"Pneumococcal vaccine, 23-valent",37756.0,129.83223211436257,1801
+Clinical Laboratory,"Thyroxine (thyroid chemical), total",377920.0,6.777800360442072,164
+Rheumatology,"Injection, golimumab, 1 mg, for intravenous use",4424500.6,11.597976531971813,259
+Family Practice,"Creatine kinase (cardiac enzyme) level, total",22465.0,6.406809698688809,143
+Rheumatology,"Established patient office or other outpatient visit, 40-54 minutes",77410.0,133.55502236855418,841
+Family Practice,Transitional care management services for problem of moderate complexity,44717.0,146.5157958789666,1993
+Family Practice,Ferritin (blood protein) level,30679.0,13.393704121361248,449
+Family Practice,"Injection, methylprednisolone acetate, 80 mg",16202.5,7.589318650517696,356
+Clinical Laboratory,"Detection test by nucleic acid for strep (streptococcus, group a), amplified probe technique",129802.0,34.48898193449122,114
+Medical Oncology,"Blood test, thyroid stimulating hormone (tsh)",11171.0,16.612648934254718,106
+Rheumatology,"Injection, denosumab, 1 mg",5233633.0,16.83068546454499,758
+Family Practice,"Critical care, first 30-74 minutes",32624.0,182.0405462825427,527
+Hematology-Oncology,Prolonged office or other outpatient evaluation and management service(s) beyond the maximum required time of the primary procedure which has been selected using total time on the date of the primary service; each additional 15 minutes by the physician or,5678.0,27.080521585218186,110
+Hematology-Oncology,Carcinoembryonic antigen (cea) protein level,61424.0,18.705547389167457,424
+Rheumatology,"Established patient office or other outpatient visit, 10-19 minutes",13604.0,43.7955172956319,161
+Hematology-Oncology,Microscopic examination for white blood cells with manual cell count,21049.0,3.7370181276309182,207
+Diagnostic Radiology,Mri scan of leg joint without contrast,195488.0,93.82629244779287,2046
+Clinical Laboratory,Blood glucose (sugar) level,205179.0,3.8428927222675218,117
+Internal Medicine,Bacterial culture for aerobic isolates,4739.0,7.977510593093376,151
+Family Practice,"New patient office or other outpatient visit, 60-74 minutes",14564.0,157.63852441566382,578
+Clinical Laboratory,Iron binding capacity,733411.0,8.607480989509092,187
+Diagnostic Radiology,Ct scan of abdomen and pelvis with contrast,909819.0,101.19839696371487,6774
+Rheumatology,"Injection, zoledronic acid, 1 mg",31065.0,5.258936131193831,227
+Internal Medicine,"Folic acid level, serum",75698.0,14.483344198723366,535
+Internal Medicine,Hemodialysis procedure with physician evaluation,16780.0,60.25067670232759,172
+Family Practice,"Chronic care management services for two or more chronic conditions, additional 20 minutes of clinical staff time directed by health care professional, per calendar month",124000.0,36.68399850115317,547
+Medical Oncology,"Injection, fluorouracil, 500 mg",64885.0,1.6398828891701613,124
+Ambulance Service Provider,Specialty care transport (sct),23961.0,665.3652095492771,166
+Internal Medicine,"Smoking and tobacco use intensive counseling, more than 10 minutes",5674.0,29.109360707368936,100
+Family Practice,Aspiration and/or injection of fluid from large joint,67839.0,48.02941760042548,1065
+Medical Oncology,"Injection, carboplatin, 50 mg",45735.0,2.1575849234863638,132
+Diagnostic Radiology,Nuclear medicine study of lung circulation,11433.0,29.05958059004176,453
+Rheumatology,"Infusion into a vein for therapy, prevention, or diagnosis, 1 hour or less",68099.0,55.83557032450963,520
+Clinical Laboratory,Screening test for autoimmune disorder,272053.0,11.917978170382115,123
+Medical Oncology,Gammaglobulin (immune system protein) measurement,30024.0,9.177778768656433,101
+Internal Medicine,"Annual wellness visit; includes a personalized prevention plan of service (pps), initial visit",63494.0,168.14509806226837,2087
+Internal Medicine,Parathormone (parathyroid hormone) level,31805.0,40.72391505555056,267
+Hematology-Oncology,"Injection, leucovorin calcium, per 50 mg",163930.0,3.241103194773158,190
+Internal Medicine,"Injection, ceftriaxone sodium, per 250 mg",78709.1,0.36660432577688445,398
+Family Practice,"Infectious agent detection by nucleic acid (dna or rna); severe acute respiratory syndrome coronavirus 2 (sars-cov-2) (coronavirus disease [covid-19]), amplified probe technique, cdc or non-cdc, making use of high throughput technologies, completed within",4017.0,24.635253678025645,117
+Diagnostic Radiology,"X-ray of middle spine, 2 views",32090.0,13.74282114188248,1244
+Family Practice,"Injection, dexamethasone sodium phosphate, 1 mg",246664.0,0.08380478582281797,802
+Diagnostic Radiology,Ct scan of leg with contrast material,4725.0,46.06593026183426,179
+Internal Medicine,"Complex chronic care management services for two or more chronic conditions, first 60 minutes of clinical staff time directed by health care professional, per calendar month",59247.0,99.10938862200003,252
+Rheumatology,Administration of influenza virus vaccine,6773.0,30.196080286962363,186
+Diagnostic Radiology,"X-ray of abdomen, 1 view",498256.0,9.006069537874,6242
+Medical Oncology,"Infusion into a vein for therapy, prevention, or diagnosis concurrent with another infusion",7046.0,16.398992452292035,113
+Diagnostic Radiology,Ct scan of upper spine without contrast,421236.0,41.437590608709435,5036
+Clinical Laboratory,Blood potassium level,77246.0,4.673033103853424,146
+Internal Medicine,"Influenza vaccine split virus, preservative free",291667.0,67.37931683542267,4549
+Rheumatology,"New patient office or other outpatient visit, 45-59 minutes",77518.0,123.6168818850824,1217
+Hematology-Oncology,"Thyroxine (thyroid chemical), free",11805.0,8.913985691212195,123
+Hematology-Oncology,"Injection, magnesium sulfate, per 500 mg",49265.4,0.5650766406136646,161
+Internal Medicine,Amplifed dna or rna probe detection of severe acute respiratory syndrome coronavirus 2 (covid-19) antigen,37152.0,50.48426512112965,509
+Family Practice,"Blood test, clotting time",52324.0,4.225283068309866,456
+Diagnostic Radiology,"X-ray of both hips, 2 views",15706.0,15.219433903902974,558
+Clinical Laboratory,"Creatine kinase (cardiac enzyme) level, total",386729.0,6.420332052978919,185
+Medical Oncology,"Established patient office or other outpatient visit, 10-19 minutes",6931.0,37.789205408037034,106
+Family Practice,Detection test by multiplex amplified probe technique for severe acute respiratory syndrome coronavirus 2 (sars-cov-2) (covid-19) and influenza virus types a and b,5385.0,138.83683513558157,141
+Hematology-Oncology,Office or other outpatient visit for the evaluation and management of established patient that may not require presence of healthcare professional,36395.0,17.71153700527903,348
+Internal Medicine,"Established patient custodial care facility, group care, or assisted living visit, typically 40 minutes",147350.0,100.82182759879714,558
+Internal Medicine,"Established patient home visit, typically 1 hour",43815.0,138.20063768272766,224
+Clinical Laboratory,Special stained specimen slides to identify organisms including interpretation and report,195120.0,75.28072017362565,180
+Physical Therapist in Private Practice,"Therapy procedure using water pool to exercises, each 15 minutes",558435.0,22.991149468686697,699
+Clinical Laboratory,"Blood test, thyroid stimulating hormone (tsh)",4134704.0,16.534473164129388,262
+Diagnostic Radiology,"X-ray of both hips, 3-4 views",21663.0,22.820626797230172,725
+Diagnostic Radiology,Fluoroscopic guidance for insertion or removal of central vein access device,33141.0,18.19196909442548,897
+Diagnostic Radiology,Ultrasound scan of abdominal aorta,15781.0,63.450261122479255,655
+Family Practice,"Influenza vaccine, quadrivalent, preservative free, 0.5 ml dosage",34711.0,20.801315193317787,1026
+Internal Medicine,Cyanocobalamin (vitamin b-12) level,147506.0,14.860524533892347,966
+Family Practice,Prolonged office or other outpatient evaluation and management service(s) beyond the maximum required time of the primary procedure which has been selected using total time on the date of the primary service; each additional 15 minutes by the physician or,12308.0,25.618215422470595,119
+Hematology-Oncology,"Red blood count, manual test",13933.0,4.266396616053278,122
+Diagnostic Radiology,"X-ray of shoulder, minimum of 2 views",382316.0,10.619429120285318,5484
+Diagnostic Radiology,"X-ray of hand, minimum of 3 views",194265.0,10.969574292431165,4016
+Diagnostic Radiology,"Low osmolar contrast material, 300-399 mg/ml iodine concentration, per ml",25422742.5,0.09077399601708333,2640
+Hematology-Oncology,"Injection, fosaprepitant, 1 mg",3235077.0,0.13521768218396502,343
+Rheumatology,"Injection, abatacept, 10 mg (code may be used for medicare when drug administered under the direct supervision of a physician, not for use when drug is self administered)",3796376.0,34.34543592442271,317
+Rheumatology,"Injection, certolizumab pegol, 1 mg (code may be used for medicare when drug administered under the direct supervision of a physician, not for use when drug is self administered)",21266093.0,4.482881053877813,320
+Family Practice,"New patient office or other outpatient visit, 30-44 minutes",158152.0,74.34495857285904,3647
+Internal Medicine,Screening mammography,6217.0,118.82872339474483,145
+Internal Medicine,Fee covid-19 vac 14 res,31443.0,40.8674481105992,519
+Medical Oncology,Cyanocobalamin (vitamin b-12) level,15515.0,14.879625591599996,125
+Internal Medicine,Natriuretic peptide (heart and blood vessel protein) level,12748.0,38.692292454976005,125
+Family Practice,"Follow-up hospital inpatient care per day, typically 35 minutes",506869.0,82.36903402379255,2025
+Clinical Laboratory,Syphilis detection test,92993.0,4.216334339607619,105
+Internal Medicine,"Established patient home visit, typically 25 minutes",25606.0,62.04572250443203,206
+Family Practice,"X-ray of ankle, minimum of 3 views",2303.0,24.388800800099997,108
+Diagnostic Radiology,Mri scan of middle spinal canal without contrast,51607.0,83.33766257424452,1675
+Hematology-Oncology,"Injection, palonosetron hcl, 25 mcg",763241.0,0.8077226433626972,697
+Diagnostic Radiology,Ct scan of heart structure with contrast,6495.0,85.4780450044108,176
+Medical Oncology,"Infusion into a vein for therapy, prevention, or diagnosis, 1 hour or less",49422.0,53.44785619482808,349
+Diagnostic Radiology,Mri scan of leg before and after contrast,7712.0,131.15269404746877,352
+Internal Medicine,Complete ultrasound scan behind abdominal cavity,10463.0,81.14994975500981,204
+Internal Medicine,"Chronic care management services for two or more chronic conditions, first 30 minutes provided personally by health care professional, per calendar month",32355.0,68.28930528323022,138
+Family Practice,"Influenza vaccine split virus, preservative free",309838.0,67.25526006692397,5887
+Family Practice,"Remote monitoring of physiologic parameters, initial supply of devices with daily recordings or programmed alerts transmission, each 30 days",107675.0,43.98860548277526,396
+Diagnostic Radiology,Ct scan of blood vessels of neck with contrast,182830.0,71.52599061399091,3564
+Rheumatology,"Injection, infliximab, excludes biosimilar, 10 mg",1197422.4,27.876336526524,250
+Clinical Laboratory,"Gonadotropin, luteinizing (reproductive hormone) level",54410.0,18.259479623539214,102
+Diagnostic Radiology,"Core needle biopsy of lung or center cavity of chest (mediastinum), accessed through skin",7250.0,142.21881252958406,372
+Internal Medicine,"Established patient office or other outpatient visit, 40-54 minutes",610479.0,128.56743186799088,6479
+Physical Therapist in Private Practice,"Electrical stimulation (unattended), to one or more areas for indication(s) other than wound care, as part of a therapy plan of care",1994308.0,7.54292486543139,5052
+Clinical Laboratory,Insertion of needle into vein for collection of blood sample,7793227.0,2.964013350760764,276
+Family Practice,Test to measure expiratory airflow and volume changes before and after medication administration,6276.0,29.863770425530372,135
+Medical Oncology,Ct scan of abdomen and pelvis with contrast,4480.0,179.76561050885715,105
+Family Practice,"Psa (prostate specific antigen) measurement, total",26570.0,18.083337196145038,524
+Internal Medicine,"Infectious agent detection by nucleic acid (dna or rna); severe acute respiratory syndrome coronavirus 2 (sars-cov-2) (coronavirus disease [covid-19]), amplified probe technique, making use of high throughput technologies as described by cms-2020-01-r",8668.0,74.16861629506944,144
+Family Practice,Transitional care management services for problem of high complexity,46434.0,203.02531208813429,1737
+Internal Medicine,"Ultrasound of heart with color-depicted blood flow, rate, direction and valve function",143175.0,118.99008421018765,1107
+Family Practice,"Follow-up nursing facility visit per day, typically 15 minutes",509185.0,52.598124789663345,1132
+Clinical Laboratory,"Measurement c-reactive protein for detection of infection or inflammation, high sensitivity",175141.0,12.78032582310744,121
+Rheumatology,"Creatine kinase (cardiac enzyme) level, total",17671.0,6.3702798684058335,120
+Clinical Laboratory,"Infectious agent detection by nucleic acid (dna or rna); severe acute respiratory syndrome coronavirus 2 (sars-cov-2) (coronavirus disease [covid-19]), amplified probe technique, cdc or non-cdc, making use of high throughput technologies, completed within",3174533.0,24.750380283710047,435
+Diagnostic Radiology,"Diagnostic digital breast tomosynthesis, unilateral or bilateral (list separately in addition to 77065 or 77066)",308017.0,29.00734366555384,2738
+Diagnostic Radiology,"X-ray of both hips, minimum of 5 views",13134.0,22.78089364240295,528
+Family Practice,"Injection, methylprednisolone acetate, 40 mg",21664.5,4.604617564487126,334
+Family Practice,"Established patient office or other outpatient visit, 20-29 minutes",3090958.0,59.666983160272615,18730
+Family Practice,"Established patient home visit, typically 1 hour",32224.0,133.76379022005423,129
+Hematology-Oncology,Ferritin (blood protein) level,157313.0,13.448529545085343,539
+Clinical Laboratory,Liver function blood test panel,201424.0,8.069356836654347,184
+Diagnostic Radiology,"X-ray of ribs on side of body, minimum of 3 views",30758.0,13.379632210744255,1399
+Diagnostic Radiology,"X-ray of spine, 1 view",17216.0,7.082284584889822,382
+Internal Medicine,Emergency department visit for problem of high severity,17661.0,98.82007717760989,323
+Hematology-Oncology,"Infusion into a vein for hydration, 31-60 minutes",33490.0,28.145812599499077,543
+Rheumatology,"New patient office or other outpatient visit, 60-74 minutes",26996.0,167.0759939555771,646
+Diagnostic Radiology,3d radiographic procedure,60196.0,10.282059296238472,1150
+Hematology-Oncology,Insertion of needle into vein for collection of blood sample,1107313.0,2.955086338249036,1191
+Internal Medicine,Prostate cancer screening; prostate specific antigen test (psa),34791.0,19.023608874157816,640
+Rheumatology,"Measurement of dna antibody, native or double stranded",15501.0,13.438522541352942,102
+Internal Medicine,"X-ray of shoulder, minimum of 2 views",2431.0,22.39032190104762,105
+Diagnostic Radiology,"X-ray of knee, 1-2 views",209573.0,9.008595064368423,3953
+Rheumatology,Vitamin d-3 level,29641.0,29.026836390627114,177
+Hematology-Oncology,"Chemotherapy administration, intravenous infusion technique; initiation of infusion in the office/clinic setting using office/clinic pump/supplies, with continuation of the infusion in the community setting (e.g., home, domiciliary, rest home or assisted l",15005.0,140.0826407020084,237
+Diagnostic Radiology,Ct scan of lower spine with contrast,7498.0,50.075689855532254,304
+Internal Medicine,"Removal of skin and tissue, 20.0 sq cm or less",37858.0,64.3770459656331,117
+Family Practice,"Management using the results of remote vital sign monitoring per calendar month, each additional 20 minutes",68673.0,32.467204039119856,267
+Ambulance Service Provider,"Ambulance service, basic life support, emergency transport (bls-emergency)",820394.0,316.804054623478,1820
+Family Practice,Routine electrocardiogram (ecg) using at least 12 leads with interpretation and report only,49997.0,6.056013570614479,667
+Clinical Laboratory,Carcinoembryonic antigen (cea) protein level,134947.0,18.707020566553574,112
+Diagnostic Radiology,"X-ray lower and sacral spine, minimum of 6 views",11000.0,28.31099914860253,448
+Internal Medicine,"X-ray of chest, 2 views",49002.0,22.663608976074123,773
+Clinical Laboratory,"Detection test by nucleic acid for staphylococcus aureus (bacteria), amplified probe technique",215800.0,34.41748465222727,132
+Internal Medicine,"Dialysis services, 4 or more physician visits per month (20 years or older)",50765.0,296.9727476635827,248
+Medical Oncology,Iron binding capacity,34410.0,8.617622719915055,186
+Family Practice,"X-ray of foot, minimum of 3 views",5991.0,23.16475352147958,233
+Internal Medicine,Stool analysis for blood to screen for colon tumors,17713.0,4.290128127411457,323
+Diagnostic Radiology,Mri scan of both breasts,38333.0,171.0183012970495,1041
+Family Practice,Ultrasound study of arm and leg arteries,15295.0,60.61272851338444,244
+Family Practice,Iron level,27290.0,6.375701777767966,437
+Family Practice,Coronavirus vaccine 13,6472.0,0.00999526254671053,152
+Family Practice,Injection of drug or substance under skin or into muscle,373479.5,10.381084009919778,4150
+Hematology-Oncology,"Folic acid level, serum",51795.0,14.509113791244836,339
+Hematology-Oncology,"Psa (prostate specific antigen) measurement, total",27306.0,18.16706084212982,285
+Medical Oncology,"Administration of additional new drug or substance into vein, 1 hour or less",31196.0,54.69309109123354,304
+Family Practice,Assessment of emotional or behavioral problems,41008.0,3.2745554478275385,581
+Hematology-Oncology,Gammaglobulin (immune system protein) measurement,118561.0,9.187545046736668,300
+Internal Medicine,Hemoglobin a1c level,392490.0,9.533348863980958,2425
+Clinical Laboratory,Parathormone (parathyroid hormone) level,499007.0,40.25592944973684,171
+Medical Oncology,Irrigation of implanted venous access drug delivery device,8012.0,20.30257723191946,149
+Family Practice,Urine microalbumin (protein) analysis,35078.0,6.12444669011459,466
+Diagnostic Radiology,Biopsy and aspiration of bone marrow sample for diagnosis,7803.0,66.71504370044322,364
+Medical Oncology,Administration of non-hormonal anti-neoplastic chemotherapy under skin or into muscle,20375.0,60.318492180646054,178
+Physical Therapist in Private Practice,"Therapy procedure for walking training, each 15 minutes",1420375.2,18.746792799829993,3945
+Hematology-Oncology,Magnesium level,106344.0,6.61964742592269,357
+Clinical Laboratory,Hemoglobin a1c level,3653911.0,9.583415995629586,240
+Hematology-Oncology,"Injection, ondansetron hydrochloride, per 1 mg",577614.0,0.06699809977819385,454
+Diagnostic Radiology,"Fluorodeoxyglucose f-18 fdg, diagnostic, per study dose, up to 45 millicuries",60403.0,269.2193077502195,574
+Diagnostic Radiology,"Use of a drug to induce depression of consciousness by physician performing a procedure (5 years or older), initial 15 minutes",81683.0,12.91454638415884,1122
+Diagnostic Radiology,"X-ray of joint between lower spine and hip bone, 3 or more views",2815.0,21.042938953175355,140
+Family Practice,Measurement c-reactive protein for detection of infection or inflammation,8783.0,5.110096452668457,149
+Clinical Laboratory,"Cell examination of specimen, selective cellular enhancement technique",89741.0,42.14622488349515,102
+Diagnostic Radiology,"X-ray of foot, 2 views",23118.0,8.193983274043388,816
+Internal Medicine,Emergency department visit for life threatening or functioning severity,46328.0,150.47955431981768,329
+Family Practice,Hemoglobin a1c level,354050.0,9.498442066345797,3539
+Rheumatology,"Established patient office or other outpatient visit, 30-39 minutes",764403.0,91.76275575753303,1713
+Diagnostic Radiology,Ct scan of abdomen with contrast,5982.0,82.48229398443407,299
+Clinical Laboratory,Phosphate level,448582.0,4.670611743192036,226
+Family Practice,Automated urinalysis test,171645.0,2.2124205088862325,3167
+Internal Medicine,"Ultrasound of heart blood flow, valves and chambers",4495.0,24.613032299955552,127
+Family Practice,Blood glucose (sugar) test performed by hand-held instrument,38501.0,3.2152133300916046,536
+Diagnostic Radiology,"X-ray of toe, minimum of 2 views",4169.0,12.718055490213962,215
+Family Practice,Ultrasound scan of head and neck soft tissue,5323.0,81.92371731893219,117
+Family Practice,"Initial hospital observation care per day, typically 50 minutes",7654.0,100.79869519349268,272
+Diagnostic Radiology,Ct scan of chest without contrast,760909.0,52.932742788612444,6436
+Internal Medicine,Routine electrocardiogram (ecg) using at least 12 leads with tracing,15874.0,4.531842984722766,347
+Family Practice,"Telephone medical discussion with physician, 11-20 minutes",115894.0,58.46119653433322,1977
+Internal Medicine,"Telephone medical discussion with physician, 21-30 minutes",103469.0,86.46029189745104,1456
+Internal Medicine,Ultrasound scan of head and neck soft tissue,13117.0,86.73204195264313,255
+Clinical Laboratory,Blood creatinine level,230776.0,5.018476567002484,161
+Diagnostic Radiology,Ct scan of blood vessels and grafts of heart with contrast,34208.0,121.63277483302967,541
+Hematology-Oncology,Measurement of immunoglobulin light chains,26623.0,17.10817971601099,182
+Diagnostic Radiology,"Dxa bone density measurement of forearm, finger, hand, or foot",16568.0,18.233168093049713,319
+Ambulance Service Provider,"Advanced life support, level 2 (als 2)",25685.1,546.2946144162062,456
+Diagnostic Radiology,Nuclear medicine study of lung ventilation and circulation,7888.0,44.356351250676376,307
+Clinical Laboratory,Kidney function blood test panel,292108.0,8.541370604819877,161
+Diagnostic Radiology,Ultrasound study of one arm or leg veins with compression and maneuvers,274471.0,30.661289742379665,5046
+Medical Oncology,"New patient office or other outpatient visit, 60-74 minutes",34328.0,161.01634457927213,921
+Internal Medicine,"Nursing facility discharge management, more than 30 minutes",35885.0,85.95516786799531,616
+Hematology-Oncology,"Administration of chemotherapy into vein, 1 hour or less",327438.0,114.49060329051103,1176
+Pharmacy,"Intramuscular administration of single severe acute respiratory syndrome coronavirus 2 (covid-19) vaccine, mrna-lnp, spike protein, preservative free, 100 mcg/0.5ml dosage; first dose",6909.0,40.00766867655651,115
+Diagnostic Radiology,Ct scan of middle spine with contrast,4298.0,45.84280786461582,177
+Internal Medicine,"Measurement c-reactive protein for detection of infection or inflammation, high sensitivity",23797.0,12.765585683580644,124
+Family Practice,"Bacterial colony count, urine",17097.0,7.937941680812247,343
+Diagnostic Radiology,"X-ray of ribs on side of body, 2 views",12419.0,15.46691797402163,540
+Family Practice,Routine electrocardiogram (ecg) using at least 12 leads with tracing,12785.0,4.153983714933486,439
+Family Practice,"Telephone medical discussion with physician, 21-30 minutes",47671.0,85.02130724853392,868
+Hematology-Oncology,Injection of drug or substance into vein,25857.0,31.92195869066243,394
+Hematology-Oncology,"New patient office or other outpatient visit, 30-44 minutes",10595.0,78.99457383705077,331
+Family Practice,Adm sarscov2 50mcg/0.25mlbst,34634.2,40.25176751152012,695
+Diagnostic Radiology,Ct scan of abdomen and pelvis without contrast,699124.0,79.92551054850797,6626
+Hematology-Oncology,"Infusion into a vein for hydration, each additional hour",84997.0,10.662795330718412,603
+Diagnostic Radiology,Screening mammography,1695964.0,70.4261389158836,3526
+Internal Medicine,"Ultrasound of heart, follow-up",4622.0,28.631032374050356,132
+Hematology-Oncology,Haptoglobin (serum protein) level,7560.0,12.438529246218545,151
+Internal Medicine,Magnesium level,75537.0,6.60959976939308,448
+Diagnostic Radiology,"Insertion of tube for infusion with imaging guidance and review by radiologist, patient 5 years or older",7393.0,80.83374002876324,245
+Diagnostic Radiology,Nuclear medicine study of bone taken at different times,4418.0,90.33141091282675,199
+Internal Medicine,"Established patient office or other outpatient visit, 20-29 minutes",3412097.0,62.32413855809007,16273
+Diagnostic Radiology,"Injection, gadobutrol, 0.1 ml",8512702.1,0.2570978889556642,1227
+Ambulance Service Provider,"Ambulance service, advanced life support, emergency transport, level 1 (als 1 - emergency)",1380460.3,378.5737292853269,1667
+Hematology-Oncology,Drawing of blood for a medical problem,12998.0,78.58446485590352,311
+Family Practice,Fee covid-19 vac 13 res,37136.0,39.41384669166424,822
+Medical Oncology,Oncology care model (ocm) monthly enhanced oncology services (meos) payment for ocm enhanced services. g9678 payments may only be made to ocm practitioners for ocm beneficiaries for the furnishment of enhanced services as defined in the ocm participation a,33358.0,159.56794290743844,201
+Internal Medicine,"Destruction of precancer skin growth, 1 growth",12198.0,46.888600659867855,227
+Medical Oncology,"Injection, dexamethasone sodium phosphate, 1 mg",649708.0,0.09503306087463978,347
+Diagnostic Radiology,"X-ray of hip, 2-3 views",398948.0,13.101930093473367,5583
+Clinical Laboratory,Automated urinalysis test,388868.0,2.2146754447929577,142
+Diagnostic Radiology,"X-ray of hand, 2 views",19775.0,11.813464527763005,487
+Rheumatology,"Established patient office or other outpatient visit, 20-29 minutes",216400.0,65.2581754354855,1216
+Diagnostic Radiology,Mri scan of leg without contrast,34986.0,104.37577549550869,1006
+Internal Medicine,"Manual urinalysis test with examination using microscope, non-automated",28669.0,3.962880451054378,217
+Diagnostic Radiology,Screening 3d breast mammography,1540119.0,37.98550068486561,3234
+Physical Therapist in Private Practice,"Application of ultrasound, each 15 minutes",366471.0,8.707174351504177,1435
+Diagnostic Radiology,"X-ray of wrist, minimum of 3 views",135221.0,10.834873097836581,3653
+Diagnostic Radiology,Complete x-ray of body bones,2053.0,39.68971479875221,108
+Family Practice,Coronavirus vaccine 14,5117.0,0.009994052334838714,155
+Family Practice,"Initial hospital inpatient care per day, typically 30 minutes",8016.0,79.5683611589532,235
+Internal Medicine,"Physician or allowed practitioner certification for medicare-covered home health services under a home health plan of care (patient not present), including contacts with home health agency and review of reports of patient status required by physicians and",131326.0,42.57004922273143,2957
+Family Practice,"Initial nursing facility visit per day, typically 45 minutes",74445.0,131.78105606471433,820
+Diagnostic Radiology,Ultrasound scan of organ tissue for measuring elasticity,4311.0,46.39563884582183,172
+Diagnostic Radiology,Review by radiologist of image from tube placement into bile duct using an endoscope,2586.0,15.630213095797478,118
+Clinical Laboratory,"Folic acid level, serum",821441.0,14.4781187787235,217
+Clinical Laboratory,"Testosterone (hormone) level, total",401752.0,25.26030295493567,171
+Diagnostic Radiology,Nuclear medicine studies of heart muscle at rest and with stress and spect,35075.0,85.78339012396617,656
+Family Practice,"Influenza vaccine, quadrivalent derived from cell cultures",15447.0,29.60057493994862,370
+Hematology-Oncology,"Telephone medical discussion with physician, 11-20 minutes",17023.0,59.69936407705404,362
+Internal Medicine,Adm sarscov2 30mcg/0.3ml bst,10875.0,41.62201299890323,185
+Internal Medicine,"Pneumococcal vaccine, 13-valent",7785.0,246.0595247264,400
+Diagnostic Radiology,"X-ray of upper spine, 2-3 views",77146.0,14.817979977506104,2306
+Internal Medicine,Physician or allowed practitioner supervision of a patient receiving medicare-covered services provided by a participating home health agency (patient not present) requiring complex and multidisciplinary care modalities involving regular physician or allow,54777.0,84.8533482203439,376
+Family Practice,"Injection, triamcinolone acetonide, not otherwise specified, 10 mg",328236.0,0.8025138772472663,1390
+Family Practice,"Hospital discharge day management, more than 30 minutes",137951.0,84.20639504506391,1625
+Physical Therapist in Private Practice,Application of blood vessel compression device,186265.0,7.2418739575509985,851
+Family Practice,"Red blood cell sedimentation rate, to detect inflammation, non-automated",8102.0,4.197445131448437,128
+Hematology-Oncology,"Injection, paclitaxel, 1 mg",1994830.0,0.09561156868902952,237
+Medical Oncology,"New patient office or other outpatient visit, 45-59 minutes",16316.0,118.4327319405711,453
+Internal Medicine,"Initial preventive physical examination; face-to-face visit, services limited to new beneficiary during the first 12 months of medicare enrollment",27885.0,172.80761759068213,1655
+Internal Medicine,Administration of non-hormonal anti-neoplastic chemotherapy under skin or into muscle,13884.0,59.80578878622642,159
+Family Practice,"Complex chronic care management services for two or more chronic conditions, each additional 60 minutes of clinical staff time directed by health care professional, per calendar month",37337.0,52.05685180291729,129
+Hematology-Oncology,"Injection, carboplatin, 50 mg",123527.0,2.1444255268958905,365
+Internal Medicine,"Established patient custodial care facility, group care, or assisted living visit, typically 15 minutes",18116.0,45.843994759557695,156
+Rheumatology,Rheumatoid factor level,14975.0,5.55579205689489,137
+Internal Medicine,"Brief communication technology-based service, e.g. virtual check-in, by a physician or other qualified health care professional who can report evaluation and management services, provided to an established patient, not originating from a related e/m servic",14530.0,9.64052120117673,152
+Diagnostic Radiology,Double contrast x-ray of upper digestive tract,5654.0,51.74621740489606,277
+Hematology-Oncology,Injection of additional new drug or substance into vein,320036.0,13.243460872456359,999
+Diagnostic Radiology,Ultrasonic guidance for blood vessel access,46772.0,12.663107618977401,969
+Family Practice,"Dxa bone density measurement of hip, pelvis, spine",18162.0,35.30170402764675,413
+Diagnostic Radiology,Ct scan of face without contrast,115750.0,41.87158246148071,3534
+Family Practice,"Initial preventive physical examination; face-to-face visit, services limited to new beneficiary during the first 12 months of medicare enrollment",31163.0,165.2363351142782,1880
+Clinical Laboratory,Ferritin (blood protein) level,848666.0,13.427084587793011,229
+Medical Oncology,"Complete blood cell count (red cells, white blood cell, platelets), automated test",14571.0,6.375892533391911,136
+Rheumatology,Aspiration and/or injection of fluid from large joint,78186.0,54.21090437930794,837
+Family Practice,"Follow-up observation care per day, typically 25 minutes",6707.0,55.332907544644755,228
+Family Practice,"Destruction of precancer skin growth, 2-14 growths",93990.0,4.956483920313938,330
+Family Practice,Complete ultrasound scan of abdomen,8901.0,83.89418131228994,168
+Family Practice,"Established patient home visit, typically 40 minutes",39906.0,95.42212323013445,238
+Internal Medicine,"Testing for presence of drug, read by direct observation",9537.0,12.362223572612715,118
+Hematology-Oncology,Ct scan of chest with contrast,16058.0,62.888496011854166,239
+Internal Medicine,"Chronic care management services for two or more chronic conditions, additional 20 minutes of clinical staff time directed by health care professional, per calendar month",144834.0,38.24947148642571,593
+Diagnostic Radiology,"Nuclear medicine study, 1 area with spect",6657.0,122.67125677947449,192
+Diagnostic Radiology,Complete ultrasound study of arm and leg arteries,10869.0,38.689691035764206,218
+Medical Oncology,"Injection, zoledronic acid, 1 mg",29256.0,5.41287716334525,179
+Family Practice,"Advance care planning, first 30 minutes",223907.0,68.52060187841322,2207
+Family Practice,Cyanocobalamin (vitamin b-12) level,79870.0,14.844561763636715,757
+Medical Oncology,"Complete blood cell count (red cells, white blood cell, platelets), automated test and automated differential white blood cell count",334335.0,7.6431218776595875,339
+Internal Medicine,Emergent insertion of breathing tube into windpipe using an endoscope,2058.0,115.81631314941669,120
+Rheumatology,Aspiration and/or injection of fluid from small joint,7775.0,39.008134430668264,211
+Diagnostic Radiology,Insertion of tunneled central venous tube for infusion (5 years or older),11159.0,213.6397560980943,507
+Internal Medicine,"Chronic care management services, first 20 minutes of clinical staff time directed by health care professional, per calendar month",774812.0,48.626219510304,1507
+Diagnostic Radiology,Ct scan of cranial cavity without contrast,5566.0,93.83030813403748,258
+Rheumatology,"Administration of chemotherapy into vein, 1 hour or less",118296.0,110.60695242221779,574
+Internal Medicine,Glutamyltransferase (liver enzyme) level,37068.0,7.097730449386047,129
+Internal Medicine,Automated urinalysis test,135802.0,2.215721759570126,1600
+Diagnostic Radiology,Ultrasound scan of scrotum,11535.0,38.97587254862072,625
+Internal Medicine,"Psa (prostate specific antigen) measurement, total",53268.0,18.117467837127318,754
+Internal Medicine,"Initial nursing facility visit per day, typically 25 minutes",7284.0,71.91956192654938,142
+Family Practice,Application of chemical to stop tissue regrowth in wound,51281.0,39.214231752539675,142
+Diagnostic Radiology,Mri scan of upper spinal canal before and after contrast,20611.0,128.20265988140085,834
+Hematology-Oncology,Nuclear medicine study from skull base to mid-thigh with ct scan,16840.0,1169.6675121629378,240
+Internal Medicine,"Injection, methylprednisolone sodium succinate, up to 125 mg",6347.6,4.174464858033335,117
+Internal Medicine,"Initial nursing facility visit per day, typically 45 minutes",183248.0,134.82828682405042,1796
+Diagnostic Radiology,"X-ray of lower leg, 2 views",78349.0,7.375807611400715,2927
+Family Practice,Iron binding capacity,21017.0,8.610743291198078,312
+Medical Oncology,Carcinoembryonic antigen (cea) protein level,20362.0,18.69067573542484,153
+Family Practice,Sarscov2 vac 50mcg/0.25ml im,6749.0,0.010003721295424843,153
+Diagnostic Radiology,Complete ultrasound scan of abdomen,236519.0,48.76880594053549,4073
+Physical Therapist in Private Practice,"Test or measurement for functional capacity, each 15 minutes",39690.0,23.294448655183466,496
+Clinical Laboratory,Amylase (enzyme) level,122898.0,6.386338968598342,181
+Family Practice,"Injection, ceftriaxone sodium, per 250 mg",114113.0,0.3521214090199721,716
+Family Practice,Stool analysis for blood to screen for colon tumors,10228.0,4.290152843285658,251
+Internal Medicine,"Thyroid hormone, t3 measurement, free",50186.0,16.697786968902257,266
+Rheumatology,"Injection, triamcinolone acetonide, not otherwise specified, 10 mg",343463.2,0.8643738216998177,548
+Internal Medicine,Administration of vaccine,12960.0,11.806051458569959,496
+Diagnostic Radiology,Double contrast x-ray of esophagus,9165.0,46.73507038992701,409
+Diagnostic Radiology,Mri scan of blood vessels of neck without contrast,18081.0,71.0356484542543,600
+Family Practice,Bacterial culture for aerobic isolates,5782.0,7.972168698291139,158
+Internal Medicine,"Follow-up nursing facility visit per day, typically 15 minutes",1144468.0,54.79821552543771,2016
+Diagnostic Radiology,"X-ray of elbow, 2 views",13789.0,7.189070647599997,620
+Medical Oncology,"Fluorodeoxyglucose f-18 fdg, diagnostic, per study dose, up to 45 millicuries",5619.0,148.86499405454546,121
+Internal Medicine,Complete ultrasound scan of abdomen,18946.0,91.677475139775,320
+Medical Oncology,"Injection, diphenhydramine hcl, up to 50 mg",36886.0,0.8858831001179488,312
+Clinical Laboratory,"Manual urinalysis test with examination using microscope, automated",2061115.0,3.1310537684510913,229
+Rheumatology,"New patient office or other outpatient visit, 30-44 minutes",7776.0,81.91276234736802,248
+Physical Therapist in Private Practice,Application of mechanical traction,53203.0,8.867421649615482,394
+Diagnostic Radiology,Imaging for evaluation of swallowing function,72242.0,22.892440402034683,2068
+Hematology-Oncology,"Leuprolide acetate (for depot suspension), 7.5 mg",31939.0,135.84354369958032,255
+Rheumatology,Measurement of antibody for rheumatoid arthritis assessment,16936.0,12.697462462557375,122
+Clinical Laboratory,"Testing for presence of drug, by chemistry analyzers",328233.0,61.03163227790286,175
+Clinical Laboratory,"Calcium level, total",130873.0,4.971763179158928,112
+Family Practice,Routine electrocardiogram (ecg) using at least 12 leads with interpretation and report,270425.0,10.37810911021333,6373
+Diagnostic Radiology,"Injection, gadoteridol, (prohance multipack), per ml",109757.5,1.1305235419187498,112
+Internal Medicine,"Injection, triamcinolone acetonide, not otherwise specified, 10 mg",179613.2,0.8205574592789551,708
+Hematology-Oncology,Irrigation of implanted venous access drug delivery device,22396.0,20.74737693563146,426
+Family Practice,Administration and interpretation of patient-focused health risk assessment,11096.0,1.960169602877165,127
+Clinical Laboratory,"Pathology examination of tissue using a microscope, intermediate complexity",2071327.0,44.583073848316204,237
+Family Practice,Prostate cancer screening; prostate specific antigen test (psa),31647.0,19.00343079210117,682
+Family Practice,"Pneumococcal vaccine, 23-valent",31114.0,129.4411369118193,1705
+Hematology-Oncology,"Injection, oxaliplatin, 0.5 mg",1779849.0,0.05010873787622952,122
+Internal Medicine,Nuclear medicine studies of heart muscle at rest and with stress and spect,15709.0,220.99386690115142,230
+Pharmacy,Adm sarscv2 30mcg trs-sucr b,15309.0,40.75649060983221,149
+Diagnostic Radiology,Low dose ct scan of chest for lung cancer screening,73964.0,82.176441431682,1803
+Diagnostic Radiology,"X-ray of knee, 4 or more views",191001.0,14.391473214048228,2832
+Hematology-Oncology,"Infusion, normal saline solution, 250 cc",76001.0,0.5167495855771785,241
+Hematology-Oncology,"Hospital discharge day management, more than 30 minutes",3471.0,87.09234657319672,122
+Internal Medicine,"Blood test, comprehensive group of blood chemicals",538754.0,10.40761008002634,1450
+Clinical Laboratory,Iron level,905559.0,6.370010623310001,230
+Medical Oncology,Lactate dehydrogenase (enzyme) level,56606.0,5.951871836394712,208
+Internal Medicine,"Infusion into a vein for therapy, prevention, or diagnosis, 1 hour or less",37373.0,57.63673686489823,226
+Clinical Laboratory,"Thyroxine (thyroid chemical), free",1573182.0,8.906131686432772,238
+Internal Medicine,"Blood test, basic group of blood chemicals (calcium, total)",104156.0,8.333944538781267,854
+Diagnostic Radiology,Aspiration of fluid from chest cavity using imaging guidance,25903.0,91.63892028042545,863
+Clinical Laboratory,"Specimen collection for severe acute respiratory syndrome coronavirus 2 (sars-cov-2) (coronavirus disease [covid-19]), any specimen source",1043547.0,23.228062122722772,298
+Hematology-Oncology,"Injection, epoetin alfa, (for non-esrd use), 1000 units",1855649.0,6.382556502945758,271
+Family Practice,"Follow-up hospital inpatient care per day, typically 25 minutes",616737.0,56.90427378734404,2747
+Diagnostic Radiology,"X-ray of foot, minimum of 3 views",303959.0,10.144678944788607,5007
+Hematology-Oncology,"Immunologic analysis for detection of tumor antigen, quantitative; ca 15-3",36254.0,20.55578921545819,299
+Internal Medicine,Routine electrocardiogram (ecg) using at least 12 leads with interpretation and report only,323602.0,6.196513777576579,1076
+Hematology-Oncology,Administration of non-hormonal anti-neoplastic chemotherapy under skin or into muscle,69586.0,60.282290228921354,534
+Diagnostic Radiology,"Injection, gadobenate dimeglumine (multihance), per ml",154686.9,1.4275254944099478,191
+Internal Medicine,"Thyroxine (thyroid chemical), free",185534.0,8.892909726590618,991
+Clinical Laboratory,Rheumatoid factor level,211240.0,5.588964080528571,112
+Rheumatology,Injection into tendon or ligament,11198.0,41.92053811207042,142
+Internal Medicine,"Administration of chemotherapy into vein, 1 hour or less",16880.0,112.69151441070755,106
+Internal Medicine,"Telephone medical discussion with physician, 5-10 minutes",75561.0,38.04866811156346,1152
+Rheumatology,"Uric acid level, blood",24914.0,4.4439571635480775,156
+Internal Medicine,Urine microalbumin (protein) analysis,36055.0,6.136847273200327,307
+Diagnostic Radiology,Nuclear medicine study of lymphatic system,3060.0,51.8635917181208,146
+Family Practice,"Physician or allowed practitioner certification for medicare-covered home health services under a home health plan of care (patient not present), including contacts with home health agency and review of reports of patient status required by physicians and",86724.0,41.5704025215293,2087
+Internal Medicine,Complete ultrasound study of arm and leg arteries,14531.0,98.25430306441237,193
+Clinical Laboratory,Special stained specimen slides to examine tissue including interpretation and report,135088.0,54.70655868209092,148
+Clinical Laboratory,"Blood test, lipids (cholesterol and triglycerides)",5052458.0,13.202251670739622,265
+Clinical Laboratory,"Detection test by nucleic acid for chlamydia trachomatis, amplified probe technique",84664.0,34.61733348246207,145
+Physical Therapist in Private Practice,"Training for self-care or home management, each 15 minutes",406222.7,22.00484071098066,3305
+Hematology-Oncology,"Established patient office or other outpatient visit, 20-29 minutes",513403.0,61.852666523192035,2154
+Clinical Laboratory,"Bacterial culture, any other source except urine, blood or stool, aerobic",187068.0,8.444686431729231,130
+Diagnostic Radiology,Mri scan of pelvis without contrast,16227.0,127.08466629339878,622
+Clinical Laboratory,"Total protein level, urine",393640.0,3.6279616135235844,106
+Internal Medicine,Transitional care management services for problem of high complexity,68987.0,212.22952186819109,2223
+Diagnostic Radiology,Blood creatinine level,40392.0,5.034867612391491,376
+Diagnostic Radiology,X-ray of both knees while standing,5231.0,16.43126098365844,142
+Clinical Laboratory,Albumin (protein) level,114665.0,4.807898002935879,131
+Clinical Laboratory,"Uric acid level, blood",834787.0,4.453486222628279,244
+Pharmacy,Administration of influenza virus vaccine,83853.0,26.157385550224763,735
+Family Practice,Complete ultrasound study of arm and leg arteries,5764.0,94.27905719741818,110
+Internal Medicine,"Established patient office or other outpatient visit, 30-39 minutes",5653052.0,88.08849690167362,18062
+Diagnostic Radiology,"Dxa bone density measurement of hip, pelvis, spine",650901.0,20.20228908710753,3121
+Clinical Laboratory,"Coagulation assessment blood test, plasma or whole blood",171689.0,5.931175841025286,174
+Medical Oncology,Injection of drug or substance into vein,8051.0,31.469307747666665,126
+Rheumatology,"Dxa bone density measurement of hip, pelvis, spine",32111.0,36.91072228522338,225
+Hematology-Oncology,"Injection, methylprednisolone sodium succinate, up to 40 mg",16185.0,3.300045751688535,157
+Diagnostic Radiology,"X-ray lower and sacral spine, 2-3 views bending views",2859.0,21.368885347902193,130
+Medical Oncology,Administration of additional new drug or substance into vein using push technique,7797.0,46.650006289028774,139
+Internal Medicine,Biopsy of large bowel using a flexible endoscope,13891.0,136.3736310011818,246
+Clinical Laboratory,"Pathology examination of tissue using a microscope, moderately low complexity",63755.0,26.607900977254904,145
+Hematology-Oncology,"Injection, dexamethasone sodium phosphate, 1 mg",2078154.0,0.09508309786807115,1068
+Hematology-Oncology,Application of on-body injector for under skin injection,4548.0,15.824515221102564,117
+Internal Medicine,"Established patient home visit, typically 40 minutes",71650.0,97.73223736626146,370
+Diagnostic Radiology,"Mri scan of bone of eye socket, face, and/or neck before and after contrast",15964.0,173.54651405338555,548
+Internal Medicine,"Annual alcohol misuse screening, 15 minutes",162691.0,19.369548979412645,1353
+Physical Therapist in Private Practice,"Evaluation for physical therapy, typically 45 minutes",60237.0,77.37637657290587,1869
+Hematology-Oncology,Ct scan of abdomen and pelvis with contrast,14110.0,189.9272361194378,232
+Internal Medicine,Fee covid-19 vac 13 res,34124.0,41.47365264041365,642
+Internal Medicine,Iron binding capacity,62217.0,8.613541862351717,584
+Hematology-Oncology,"Injection, methylprednisolone sodium succinate, up to 125 mg",6801.0,4.53239739484836,122
+Family Practice,"Established patient custodial care facility, group care, or assisted living visit, typically 40 minutes",79942.0,99.45402817786045,342
+Diagnostic Radiology,"X-ray of pelvis, minimum of 3 views",3520.0,13.599683391198413,175
+Diagnostic Radiology,Limited ultrasound scan of pelvis,15985.0,23.263800327504143,682
+Internal Medicine,"Assessment of and care planning for impaired thought processing, typically 50 minutes",10946.0,216.56735867692976,173
+Diagnostic Radiology,Ct scan of blood vessels of chest with contrast,364977.0,78.66640637544715,5364
+Hematology-Oncology,"Infusion into a vein for therapy, prevention, or diagnosis, additional sequential infusion, 1 hour or less",259160.0,25.161446613070755,1060
+Diagnostic Radiology,Ct scan of abdominal aorta and both leg arteries with contrast,10661.0,111.5782391001437,497
+Family Practice,"X-ray of chest, 2 views",69286.0,21.536169835520564,1564
+Diagnostic Radiology,X-ray for bone length assessment,12160.0,19.12473096029924,239
+Internal Medicine,"Initial hospital observation care per day, typically 30 minutes",5200.0,80.12139940502138,187
+Family Practice,Complete ultrasound scan behind abdominal cavity,4579.0,78.70626278050474,104
+Hematology-Oncology,Cyanocobalamin (vitamin b-12) level,74099.0,14.891849391054055,407
+Internal Medicine,"Follow-up observation care per day, typically 35 minutes",32043.0,80.83979338430011,1113
+Internal Medicine,Adm sarscv2 30mcg trs-sucr b,20190.0,40.96552318867512,354
+Diagnostic Radiology,Ultrasound scan of transplanted kidney,12544.0,33.147068857605795,436
+Diagnostic Radiology,Ct scan of abdomen without contrast,4889.0,71.23852121332922,237
+Internal Medicine,"Complete ultrasound of aorta, vena cava, groin vessels or bypass grafts",9076.0,135.63280964750342,146
+Family Practice,"Uric acid level, blood",41106.0,4.445866415092804,417
+Internal Medicine,"Hospital discharge day management, more than 30 minutes",778139.0,85.16581860012877,8558
+Diagnostic Radiology,X-ray series of abdomen with single x-ray of chest,10997.0,12.54020113156649,560
+Internal Medicine,"Injection, ketorolac tromethamine, per 15 mg",75365.5,0.415730020421656,471
+Hematology-Oncology,"Injection, nivolumab, 1 mg",2234403.0,22.410756242304064,123
+Family Practice,Test to measure expiratory airflow and volume,10894.0,20.898025530389862,217
+Family Practice,"X-ray of hand, minimum of 3 views",3229.0,24.956291210686885,122
+Internal Medicine,"Injection, regadenoson, 0.1 mg",23837.0,48.20912560953398,103
+Internal Medicine,Routine electrocardiogram (ecg) using at least 12 leads with interpretation and report,647606.0,10.794100804769263,7771
+Hematology-Oncology,"Established patient office or other outpatient visit, 30-39 minutes",1183601.0,89.23073331765139,2807
+Internal Medicine,"Face-to-face behavioral counseling for obesity, 15 minutes",56779.0,28.592325374700152,637
+Internal Medicine,"Initial hospital observation care per day, typically 70 minutes",144240.0,140.76660467074313,3793
+Medical Oncology,"Established patient office or other outpatient visit, 40-54 minutes",167918.0,127.47965053655766,1075
+Diagnostic Radiology,"Ultrasound scan of uterus, ovaries, tubes, cervix and pelvic area through vagina",61792.0,55.55342573722937,1905
+Family Practice,Photography of the retina,3280.0,22.849517091514283,126
+Rheumatology,"Blood test, comprehensive group of blood chemicals",62957.0,10.322473252655783,147
+Family Practice,"Complete blood cell count (red cells, white blood cell, platelets), automated test",10061.0,6.359776782184616,156
+Internal Medicine,"Injection, dexamethasone sodium phosphate, 1 mg",166380.5,0.088531644330597,402
+Diagnostic Radiology,Drainage of fluid from abdominal cavity using imaging guidance,29965.0,85.75002049489056,801
+Internal Medicine,"New patient office or other outpatient visit, 45-59 minutes",223013.0,114.6947226000528,5991
+Family Practice,"Hospital discharge day management, 30 minutes or less",53590.0,57.0975900417892,1261
+Diagnostic Radiology,"Biopsy of breast and placement of locating device using ultrasound, first growth",24806.0,248.83983397779198,1054
+Diagnostic Radiology,Ultrasound of abdomen and pelvis artery and vein blood flow,21054.0,48.44059567088429,680
+Internal Medicine,Amylase (enzyme) level,13524.0,6.404639662860169,118
+Hematology-Oncology,"Telephone medical discussion with physician, 21-30 minutes",17125.0,83.2011822869697,289
+Internal Medicine,Creatinine level to test for kidney function or muscle injury,86136.0,5.105143651993569,793
+Family Practice,"Assessment of and care planning for impaired thought processing, typically 50 minutes",5359.0,208.82844430323394,111
+Diagnostic Radiology,Injection of radioactive material for x-ray identification of lymph node,2076.0,30.238523180908256,106
+Rheumatology,Injection of drug or substance under skin or into muscle,159689.0,11.574075750044365,825
+Hematology-Oncology,"Injection, granisetron hydrochloride, 100 mcg",289406.0,0.2688854782297203,286
+Internal Medicine,"Nursing facility discharge day management, 30 minutes or less",21608.0,60.36475259014497,384
+Clinical Laboratory,"2019-ncov coronavirus, sars-cov-2/2019-ncov (covid-19), any technique, multiple types or subtypes (includes all targets), non-cdc, making use of high throughput technologies as described by cms-2020-01-r",716613.0,74.161649127461,140
+Internal Medicine,"Annual, face-to-face intensive behavioral therapy for cardiovascular disease, individual, 15 minutes",72861.0,28.14066942338917,609
+Diagnostic Radiology,Ct scan of pelvis without contrast,36034.0,44.20141464352901,1663
+Hematology-Oncology,"Protein measurement, serum",33311.0,10.631965070169548,243
+Clinical Laboratory,Lipase (fat enzyme) level,134755.0,6.783755214310674,178
+Diagnostic Radiology,Diagnostic mammography of 1 breast,218312.0,51.908143820114006,2800
+Internal Medicine,Aspiration and/or injection of fluid from large joint,37286.0,49.83341114033964,581
+Family Practice,"Respiratory infectious agent detection by rna for severe acute respiratory syndrome coronavirus 2 (covid 19), influenza a, influenza b, and respiratory syncytial virus, upper respiratory specimen, each reported as detected or not detected",6191.0,140.01219136620438,137
+Pharmacy,"Influenza vaccine, quadrivalent, preservative free, 0.5 ml dosage",3282.0,20.997507919921052,114
+Diagnostic Radiology,Limited ultrasound scan of abdomen,251238.0,28.4561620762638,5386
+Internal Medicine,Test to measure expiratory airflow and volume changes before and after medication administration,41042.0,25.525233870037788,491
+Hematology-Oncology,Administration of influenza virus vaccine,4562.0,31.60338903560839,143
+Internal Medicine,Test for exercise-induced lung stress,8099.0,23.45897721400075,125
+Internal Medicine,"Influenza vaccine, quadrivalent, preservative free, 0.5 ml dosage",36449.0,20.86327738979837,899
+Clinical Laboratory,Measurement c-reactive protein for detection of infection or inflammation,705042.0,5.109797142693783,193
+Family Practice,"Testing for presence of drug, read by direct observation",16615.0,12.301474970511078,307
+Internal Medicine,Electrocardiogram (ecg) 1 to 3 leads with review by physician,9211.0,10.080869625624528,106
+Clinical Laboratory,"Detection test by nucleic acid for chlamydia pneumoniae, amplified probe technique",87811.0,34.648413834448604,107
+Family Practice,"Destruction of precancer skin growth, 1 growth",29672.0,44.635919012709145,580
+Clinical Laboratory,Sex hormone binding globulin (protein) level,101271.0,21.025602350211003,100
+Family Practice,"Initial hospital inpatient care per day, typically 50 minutes",52457.0,105.66043962302763,1194
+Hematology-Oncology,"Follow-up hospital inpatient care per day, typically 25 minutes",173039.0,58.38750078190851,1213
+Internal Medicine,Lactate dehydrogenase (enzyme) level,32929.0,5.953476083817459,126
+Internal Medicine,"Critical care, first 30-74 minutes",265156.0,179.2577175704762,2434
+Hematology-Oncology,"Injection, fluorouracil, 500 mg",160177.0,1.6410168963232725,275
+Clinical Laboratory,"Detection test by nucleic acid for organism, amplified probe technique",2729341.5,34.49361893299999,212
+Clinical Laboratory,"Bilirubin level, direct",309326.0,4.899477464377193,171
+Family Practice,"Follow-up observation care per day, typically 35 minutes",4946.0,80.84729341636,175
+Diagnostic Radiology,Ct scan of soft tissue of neck with contrast,58943.0,70.29730099802481,1531
+Internal Medicine,Diagnostic exam of large bowel using a flexible endoscope,4369.0,165.30408201718123,146
+Internal Medicine,"Pneumococcal conjugate vaccine, 20 valent (pcv20), for intramuscular use",45457.0,274.6516234919508,1779
+Hematology-Oncology,Iron binding capacity,116293.0,8.624084094575114,446
+Family Practice,"Removal of muscle and/or tissue, 20.0 sq cm or less",106698.0,156.91087998953736,155
+Internal Medicine,"Dialysis services, 2-3 physician visits per month (20 years or older)",13552.0,245.0023573902174,183
+Diagnostic Radiology,3d radiographic procedure with computerized image postprocessing,50073.0,40.54657600845475,774
+Family Practice,"Infusion into a vein for therapy, prevention, or diagnosis, 1 hour or less",22190.0,57.24123527969609,102
+Internal Medicine,"Follow-up nursing facility visit per day, typically 10 minutes",207096.0,35.02023116928756,685
+Clinical Laboratory,Natriuretic peptide (heart and blood vessel protein) level,272286.0,38.67159426139025,164
+Internal Medicine,Exercise or drug-induced heart stress test with electrocardiogram (ecg) with supervision by physician,10504.0,16.764059417775005,185
+Family Practice,"X-ray of shoulder, minimum of 2 views",8994.0,22.742871043811434,278
+Family Practice,"Pneumococcal vaccine, 13-valent",7054.0,244.72562668451732,406
+Hematology-Oncology,"Urinalysis, manual test",5654.0,3.4362144181811476,122
+Internal Medicine,"Blood test, thyroid stimulating hormone (tsh)",381678.0,16.568135981938777,1421
+Internal Medicine,"Biopsy of esophagus, stomach, and/or upper small bowel using a flexible endoscope",19960.0,109.18611054094852,293
+Internal Medicine,"Injection, methylprednisolone acetate, 80 mg",9921.0,7.8516711625777225,202
+Hematology-Oncology,"Complete blood cell count (red cells, white blood cell, platelets), automated test",29105.0,6.373010085539827,231
